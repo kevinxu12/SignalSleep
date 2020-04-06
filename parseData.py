@@ -66,9 +66,6 @@ def processGranular(df, category_map):
     new_df = pd.DataFrame(columns=['time', 'major', 'category', 'num_asleep', 'year', 'count'])
     counter = 0
     i = 0
-    delay_count = 0
-    major_map_delayed = {}
-    date_delayed = ''
     count_map = {}
     columns = list(df.columns.values)
     for j in range(1, len(columns)):
@@ -104,56 +101,18 @@ def processGranular(df, category_map):
                     major_map[key] = major_map[key] + 1
                 else:
                     major_map[key] = 1
-        # if the first index skip, else evaluate
-        if delay_count != 0:
-            for j in range(0, 3):
-                for key in major_map_delayed:
-                    # dates = []
-                    # date_prefix = date_delayed.split(":")[0]
-                    # dates.append(date_prefix + ":15")
-                    # dates.append(date_prefix + ":30")
-                    # dates.append(date_prefix + ":45")
-                    date_prefix = date_delayed.split(":")[0]
-                    new_date = date_prefix + ":" + str(15 * (j + 1))
-
-                    diff = 0
-                    try:
-                        diff = - major_map_delayed[key] + major_map[key]
-                    except:
-                        print("error with" + str(key))
-
-                    original_value = major_map_delayed[key]
-                    # values = []
-                    # values.append(original_value + diff/float(4))
-                    # values.append(original_value + diff/float(2))
-                    # values.append(original_value + 3 * diff/float(4))
-                    new_value = original_value + (j + 1) * diff / float(4)
-
-                    # value = values[j]
-                    name = key[0] if len(key) > 1 is not None else 'N/A'
-                    year = key[1] if len(key) > 1 else 'N/A'
-                    count = count_map[key]
-                    # calculated_date = dates[j]
-                    calculated_date = new_date
-                    category = category_map[name] if name in category_map else 'NULL'
-                    new_list = [calculated_date, name, category, new_value, year, count]
-                    new_df.loc[counter] = new_list
-                    counter = counter + 1
 
         # outputs the new rows into our new data set
-        for key in major_map:
+        for key in count_map:
             # print(key)
-            value = major_map[key]
+            value = major_map[key] if key in major_map else 0
             name = key[0] if len(key) > 1 is not None else 'N/A'
             year = key[1] if len(key) > 1 else 'N/A'
-            count = count_map[key]
+            count = count_map[key] if key in major_map else .01
             category = category_map[name] if name in category_map else 'NULL'
             new_list = [date, name, category, value, year, count]
             new_df.loc[counter] = new_list
             counter = counter + 1
-        major_map_delayed = major_map
-        delay_count = delay_count + 1
-        date_delayed = date
         i = i + 1
     return new_df
 
@@ -220,6 +179,6 @@ category_map = {
 df = preprocess(df)
 print(df)
 df = processGranular(df, category_map)
-output_path = os.path.join(script_dir, 'clean_data/clean_sleep_granular_faster_v1.csv')
+output_path = os.path.join(script_dir, 'clean_data/asleep_by_hour_with_default.csv')
 df.to_csv(output_path, index=False)
 print("done")
