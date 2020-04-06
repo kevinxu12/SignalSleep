@@ -1,0 +1,4872 @@
+time,major,category,num_asleep,year,count
+2/17/20 0:00,BBB,CAS,2,2023,2
+2/17/20 0:00,Computer Science,ENG,1,2023,4
+2/17/20 0:00,Business Analytics,Wharton,1,2022,2
+2/17/20 0:00,CBE,ENG,1,2021,2
+2/17/20 0:00,DMD,ENG,2,2021,7
+2/17/20 0:00,CBE,ENG,1,2022,2
+2/17/20 0:00,Political Science,CAS,1,2021,2
+2/17/20 0:00,BBB,CAS,2,2022,6
+2/17/20 0:00,Chemistry,CAS,1,2023,1
+2/17/20 0:00,Computer Science,ENG,1,2022,21
+2/17/20 0:00,Statistics,Wharton,1,2021,3
+2/17/20 0:00,Finance,Wharton,1,2022,7
+2/17/20 0:00,Neuroscience,NULL,1,2022,1
+2/17/20 0:00,BBB,CAS,1,2021,2
+2/17/20 0:00,Misc,N/A,1,2021,1
+2/17/20 0:00,Urban Studies,CAS,1,2022,1
+2/17/20 0:00,Computer Science,ENG,2,2021,16
+2/17/20 0:00,Political Science,CAS,1,2022,1
+2/17/20 0:00,Misc,N/A,1,N/A,10
+2/17/20 0:00,English,CAS,1,2021,2
+2/17/20 0:00,English,CAS,1,2021,2
+2/17/20 0:00,Finance,Wharton,1,2021,2
+2/17/20 0:00,Finance and Computer Science,NULL,1,2021,1
+2/17/20 0:00,Nutrition,CAS,1,2022,1
+2/17/20 0:00,BBB,CAS,1,2020,4
+2/17/20 0:00,Misc,N/A,1,2022,1
+2/17/20 0:00,Undecided,NULL,1,2023,1
+2/17/20 0:00,PPE,CAS,1,2020,1
+2/17/20 0:00,Nursing,NURS,1,2022,1
+2/17/20 0:00,Misc,N/A,1,2023,4
+2/17/20 0:00,CBE,ENG,1,2023,2
+2/17/20 0:00,GSWS,CAS,1,2020,1
+2/17/20 1:00,BBB,CAS,2,2023,2
+2/17/20 1:00,Nutrition,CAS,1,2022,1
+2/17/20 1:00,Computer Science,ENG,2,2023,4
+2/17/20 1:00,Business Analytics,Wharton,1,2022,2
+2/17/20 1:00,CBE,ENG,1,2021,2
+2/17/20 1:00,Philosophy,CAS,1,2021,1
+2/17/20 1:00,DMD,ENG,4,2021,7
+2/17/20 1:00,Cognitive Science,NULL,1,2023,1
+2/17/20 1:00,CBE,ENG,1,2022,2
+2/17/20 1:00,Political Science,CAS,1,2021,2
+2/17/20 1:00,OIDD,Wharton,2,2020,2
+2/17/20 1:00,BBB,CAS,3,2022,6
+2/17/20 1:00,Chemistry,CAS,1,2023,1
+2/17/20 1:00,Computer Science,ENG,6,2022,21
+2/17/20 1:00,International Studies and Business,NULL,1,2023,1
+2/17/20 1:00,Statistics,Wharton,3,2021,3
+2/17/20 1:00,Economics,CAS,1,2023,2
+2/17/20 1:00,Nursing,NURS,1,2020,1
+2/17/20 1:00,Mathematical Economics,CAS,1,2021,1
+2/17/20 1:00,Finance,Wharton,2,2022,7
+2/17/20 1:00,SSE,NULL,1,2020,1
+2/17/20 1:00,Neuroscience,NULL,1,2022,1
+2/17/20 1:00,BBB,CAS,2,2021,2
+2/17/20 1:00,Misc,N/A,1,2021,1
+2/17/20 1:00,Urban Studies,CAS,1,2022,1
+2/17/20 1:00,Computer Science,ENG,9,2021,16
+2/17/20 1:00,Political Science,CAS,1,2022,1
+2/17/20 1:00,Misc,N/A,3,N/A,10
+2/17/20 1:00,Statistics,Wharton,2,2020,2
+2/17/20 1:00,Communications,CAS,1,2021,1
+2/17/20 1:00,English,CAS,1,2021,2
+2/17/20 1:00,Finance,Wharton,2,2021,2
+2/17/20 1:00,Finance and Computer Science,NULL,1,2021,1
+2/17/20 1:00,Business Analytics,Wharton,1,2020,2
+2/17/20 1:00,Political Science,CAS,1,2023,2
+2/17/20 1:00,BBB,CAS,1,2020,4
+2/17/20 1:00,Misc,N/A,1,2022,1
+2/17/20 1:00,Computer Science,ENG,1,2020,1
+2/17/20 1:00,Undecided,NULL,1,2023,1
+2/17/20 1:00,Music,CAS,1,2020,1
+2/17/20 1:00,PPE,CAS,1,2020,1
+2/17/20 1:00,Finance,Wharton,1,2020,2
+2/17/20 1:00,Business Analytics,Wharton,1,2021,2
+2/17/20 1:00,Economics,CAS,1,2021,1
+2/17/20 1:00,Nursing,NURS,1,2022,1
+2/17/20 1:00,Misc,N/A,2,2023,4
+2/17/20 1:00,CBE,ENG,1,2023,2
+2/17/20 1:00,Systems Engineering,NULL,1,2023,2
+2/17/20 1:00,GSWS,CAS,1,2020,1
+2/17/20 2:00,Political Science,CAS,1,2020,1
+2/17/20 2:00,BBB,CAS,2,2023,2
+2/17/20 2:00,Finance and Computer Science,NULL,1,2021,1
+2/17/20 2:00,Nutrition,CAS,1,2022,1
+2/17/20 2:00,Computer Science,ENG,3,2023,4
+2/17/20 2:00,PPE,CAS,1,2021,2
+2/17/20 2:00,Business Analytics,Wharton,2,2022,2
+2/17/20 2:00,CBE,ENG,1,2021,2
+2/17/20 2:00,Economics,CAS,1,2020,2
+2/17/20 2:00,Nursing,NURS,1,2021,2
+2/17/20 2:00,Communications,CAS,1,2023,1
+2/17/20 2:00,DMD,ENG,6,2021,7
+2/17/20 2:00,Cognitive Science,NULL,1,2023,1
+2/17/20 2:00,CBE,ENG,1,2022,2
+2/17/20 2:00,Political Science,CAS,1,2021,2
+2/17/20 2:00,OIDD,Wharton,2,2020,2
+2/17/20 2:00,BBB,CAS,4,2022,6
+2/17/20 2:00,Chemistry,CAS,1,2023,1
+2/17/20 2:00,Misc,N/A,1,2020,1
+2/17/20 2:00,2022,NULL,1,N/A,1
+2/17/20 2:00,Economics,CAS,2,2023,2
+2/17/20 2:00,Computer Science,ENG,9,2022,21
+2/17/20 2:00,International Studies and Business,NULL,1,2023,1
+2/17/20 2:00,Statistics,Wharton,3,2021,3
+2/17/20 2:00,Undecided, Wharton,1,2022,1
+2/17/20 2:00,Nursing,NURS,1,2020,1
+2/17/20 2:00,Mathematical Economics,CAS,1,2021,1
+2/17/20 2:00,Finance,Wharton,3,2022,7
+2/17/20 2:00,SSE,NULL,1,2020,1
+2/17/20 2:00,Neuroscience,NULL,1,2022,1
+2/17/20 2:00,BBB,CAS,2,2021,2
+2/17/20 2:00,Misc,N/A,1,2021,1
+2/17/20 2:00,Urban Studies,CAS,1,2022,1
+2/17/20 2:00,Computer Science,ENG,12,2021,16
+2/17/20 2:00,Political Science,CAS,1,2022,1
+2/17/20 2:00,Misc,N/A,8,N/A,10
+2/17/20 2:00,Statistics,Wharton,2,2020,2
+2/17/20 2:00,Communications,CAS,1,2021,1
+2/17/20 2:00,English,CAS,1,2021,2
+2/17/20 2:00,Philosophy,CAS,1,2021,1
+2/17/20 2:00,Finance,Wharton,2,2021,2
+2/17/20 2:00,Mechanical Engineering,NULL,1,N/A,1
+2/17/20 2:00,Business Analytics,Wharton,1,2020,2
+2/17/20 2:00,Political Science,CAS,2,2023,2
+2/17/20 2:00,BBB,CAS,4,2020,4
+2/17/20 2:00,Misc,N/A,1,2022,1
+2/17/20 2:00,Cognitive Science,NULL,1,2021,1
+2/17/20 2:00,Computer Science,ENG,1,2020,1
+2/17/20 2:00,Undecided,NULL,1,2023,1
+2/17/20 2:00,Music,CAS,1,2020,1
+2/17/20 2:00,CBE,ENG,1,2023,2
+2/17/20 2:00,PPE,CAS,1,2020,1
+2/17/20 2:00,Finance,Wharton,1,2020,2
+2/17/20 2:00,Business Analytics,Wharton,2,2021,2
+2/17/20 2:00,History,CAS,1,2023,1
+2/17/20 2:00,Economics,CAS,1,2021,1
+2/17/20 2:00,Misc,N/A,3,2023,4
+2/17/20 2:00,Computer Science,ENG,1,N/A,1
+2/17/20 2:00,Systems Engineering,NULL,2,2023,2
+2/17/20 2:00,GSWS,CAS,1,2020,1
+2/17/20 3:00,Nutrition,CAS,1,2021,1
+2/17/20 3:00,BBB,CAS,2,2023,2
+2/17/20 3:00,Philosophy,CAS,1,2021,1
+2/17/20 3:00,Statistics,Wharton,1,2022,1
+2/17/20 3:00,Political Science,CAS,1,2020,1
+2/17/20 3:00,Nutrition,CAS,1,2022,1
+2/17/20 3:00,Bioengineering,ENG,1,2023,1
+2/17/20 3:00,Computer Science,ENG,4,2023,4
+2/17/20 3:00,PPE,CAS,2,2021,2
+2/17/20 3:00,Finance and Computer Science,NULL,1,2021,1
+2/17/20 3:00,Business Analytics,Wharton,2,2022,2
+2/17/20 3:00,Urban Studies,CAS,1,2022,1
+2/17/20 3:00,Economics,CAS,1,2020,2
+2/17/20 3:00,Nursing,NURS,2,2021,2
+2/17/20 3:00,Communications,CAS,1,2023,1
+2/17/20 3:00,DMD,ENG,7,2021,7
+2/17/20 3:00,Cognitive Science,NULL,1,2023,1
+2/17/20 3:00,CBE,ENG,1,2022,2
+2/17/20 3:00,Statistics,Wharton,3,2021,3
+2/17/20 3:00,Political Science,CAS,1,2021,2
+2/17/20 3:00,CBE,ENG,1,2023,2
+2/17/20 3:00,BBB,CAS,6,2022,6
+2/17/20 3:00,Chemistry,CAS,1,2023,1
+2/17/20 3:00,Misc,N/A,1,2020,1
+2/17/20 3:00,2022,NULL,1,N/A,1
+2/17/20 3:00,Economics,CAS,2,2023,2
+2/17/20 3:00,Computer Science,ENG,17,2022,21
+2/17/20 3:00,International Studies and Business,NULL,1,2023,1
+2/17/20 3:00,Marketing,Wharton,1,2023,1
+2/17/20 3:00,Undecided, Wharton,1,2022,1
+2/17/20 3:00,Nursing,NURS,1,2020,1
+2/17/20 3:00,Mathematical Economics,CAS,1,2021,1
+2/17/20 3:00,Cognitive Science,NULL,1,2022,1
+2/17/20 3:00,Finance,Wharton,5,2022,7
+2/17/20 3:00,Bioegineering,NULL,1,2023,1
+2/17/20 3:00,OIDD,Wharton,2,2020,2
+2/17/20 3:00,Neuroscience,NULL,1,2022,1
+2/17/20 3:00,BBB,CAS,2,2021,2
+2/17/20 3:00,Misc,N/A,1,2021,1
+2/17/20 3:00,CBE,ENG,2,2021,2
+2/17/20 3:00,Computer Science,ENG,13,2021,16
+2/17/20 3:00,Political Science,CAS,1,2022,1
+2/17/20 3:00,Misc,N/A,9,N/A,10
+2/17/20 3:00,Statistics,Wharton,2,2020,2
+2/17/20 3:00,Communications,CAS,1,2021,1
+2/17/20 3:00,English,CAS,1,2021,2
+2/17/20 3:00,PPE,CAS,1,2023,1
+2/17/20 3:00,Finance,Wharton,2,2021,2
+2/17/20 3:00,Mechanical Engineering,NULL,1,N/A,1
+2/17/20 3:00,Business Analytics,Wharton,2,2020,2
+2/17/20 3:00,Political Science,CAS,2,2023,2
+2/17/20 3:00,BBB,CAS,4,2020,4
+2/17/20 3:00,Misc,N/A,1,2022,1
+2/17/20 3:00,Cognitive Science,NULL,1,2021,1
+2/17/20 3:00,Systems Engineering,NULL,1,2022,1
+2/17/20 3:00,Computer Science,ENG,1,2020,1
+2/17/20 3:00,Undecided,NULL,1,2023,1
+2/17/20 3:00,Music,CAS,1,2020,1
+2/17/20 3:00,SSE,NULL,1,2020,1
+2/17/20 3:00,Fine Arts,NULL,1,2023,1
+2/17/20 3:00,PPE,CAS,1,2020,1
+2/17/20 3:00,Finance,Wharton,1,2020,2
+2/17/20 3:00,Business Analytics,Wharton,2,2021,2
+2/17/20 3:00,History,CAS,1,2023,1
+2/17/20 3:00,Economics,CAS,1,2021,1
+2/17/20 3:00,Misc,N/A,3,2023,4
+2/17/20 3:00,DMD,ENG,1,2020,1
+2/17/20 3:00,Computer Science,ENG,1,N/A,1
+2/17/20 3:00,Systems Engineering,NULL,2,2023,2
+2/17/20 3:00,GSWS,CAS,1,2020,1
+2/17/20 4:00,Nutrition,CAS,1,2021,1
+2/17/20 4:00,BBB,CAS,2,2023,2
+2/17/20 4:00,Philosophy,CAS,1,2021,1
+2/17/20 4:00,Statistics,Wharton,1,2022,1
+2/17/20 4:00,Political Science,CAS,1,2020,1
+2/17/20 4:00,Nutrition,CAS,1,2022,1
+2/17/20 4:00,Bioengineering,ENG,1,2023,1
+2/17/20 4:00,Computer Science,ENG,4,2023,4
+2/17/20 4:00,PPE,CAS,2,2021,2
+2/17/20 4:00,Finance and Computer Science,NULL,1,2021,1
+2/17/20 4:00,Business Analytics,Wharton,2,2022,2
+2/17/20 4:00,Urban Studies,CAS,1,2022,1
+2/17/20 4:00,Economics,CAS,1,2020,2
+2/17/20 4:00,Nursing,NURS,2,2021,2
+2/17/20 4:00,Communications,CAS,1,2023,1
+2/17/20 4:00,DMD,ENG,7,2021,7
+2/17/20 4:00,Cognitive Science,NULL,1,2023,1
+2/17/20 4:00,CBE,ENG,1,2022,2
+2/17/20 4:00,Statistics,Wharton,3,2021,3
+2/17/20 4:00,Political Science,CAS,2,2021,2
+2/17/20 4:00,OIDD,Wharton,2,2020,2
+2/17/20 4:00,BBB,CAS,6,2022,6
+2/17/20 4:00,Chemistry,CAS,1,2023,1
+2/17/20 4:00,Misc,N/A,1,2020,1
+2/17/20 4:00,2022,NULL,1,N/A,1
+2/17/20 4:00,Economics,CAS,2,2023,2
+2/17/20 4:00,Computer Science,ENG,19,2022,21
+2/17/20 4:00,International Studies and Business,NULL,1,2023,1
+2/17/20 4:00,Marketing,Wharton,1,2023,1
+2/17/20 4:00,Undecided, Wharton,1,2022,1
+2/17/20 4:00,Nursing,NURS,1,2020,1
+2/17/20 4:00,Mathematical Economics,CAS,1,2021,1
+2/17/20 4:00,Cognitive Science,NULL,1,2022,1
+2/17/20 4:00,Finance,Wharton,5,2022,7
+2/17/20 4:00,Bioegineering,NULL,1,2023,1
+2/17/20 4:00,SSE,NULL,1,2020,1
+2/17/20 4:00,Neuroscience,NULL,1,2022,1
+2/17/20 4:00,BBB,CAS,2,2021,2
+2/17/20 4:00,Misc,N/A,1,2021,1
+2/17/20 4:00,CBE,ENG,2,2021,2
+2/17/20 4:00,Computer Science,ENG,15,2021,16
+2/17/20 4:00,Political Science,CAS,1,2022,1
+2/17/20 4:00,Misc,N/A,9,N/A,10
+2/17/20 4:00,Statistics,Wharton,2,2020,2
+2/17/20 4:00,Communications,CAS,1,2021,1
+2/17/20 4:00,English,CAS,2,2021,2
+2/17/20 4:00,PPE,CAS,1,2023,1
+2/17/20 4:00,Finance,Wharton,2,2021,2
+2/17/20 4:00,Mechanical Engineering,NULL,1,N/A,1
+2/17/20 4:00,Business Analytics,Wharton,2,2020,2
+2/17/20 4:00,Fine Arts,NULL,1,2021,1
+2/17/20 4:00,Political Science,CAS,2,2023,2
+2/17/20 4:00,BBB,CAS,4,2020,4
+2/17/20 4:00,Misc,N/A,1,2022,1
+2/17/20 4:00,Cognitive Science,NULL,1,2021,1
+2/17/20 4:00,Systems Engineering,NULL,1,2022,1
+2/17/20 4:00,Computer Science,ENG,1,2020,1
+2/17/20 4:00,Undecided,NULL,1,2023,1
+2/17/20 4:00,Music,CAS,1,2020,1
+2/17/20 4:00,Fine Arts,NULL,1,2023,1
+2/17/20 4:00,Computer Science,ENG,1,N/A,1
+2/17/20 4:00,PPE,CAS,1,2020,1
+2/17/20 4:00,Finance,Wharton,1,2020,2
+2/17/20 4:00,Business Analytics,Wharton,2,2021,2
+2/17/20 4:00,History,CAS,1,2023,1
+2/17/20 4:00,Economics,CAS,1,2021,1
+2/17/20 4:00,Misc,N/A,3,2023,4
+2/17/20 4:00,DMD,ENG,1,2020,1
+2/17/20 4:00,CBE,ENG,2,2023,2
+2/17/20 4:00,Systems Engineering,NULL,2,2023,2
+2/17/20 4:00,GSWS,CAS,1,2020,1
+2/17/20 5:00,PPE,CAS,1,2020,1
+2/17/20 5:00,Nutrition,CAS,1,2021,1
+2/17/20 5:00,BBB,CAS,2,2023,2
+2/17/20 5:00,Philosophy,CAS,1,2021,1
+2/17/20 5:00,Statistics,Wharton,1,2022,1
+2/17/20 5:00,Political Science,CAS,1,2020,1
+2/17/20 5:00,Nutrition,CAS,1,2022,1
+2/17/20 5:00,Bioengineering,ENG,1,2023,1
+2/17/20 5:00,Computer Science,ENG,4,2023,4
+2/17/20 5:00,PPE,CAS,2,2021,2
+2/17/20 5:00,Finance and Computer Science,NULL,1,2021,1
+2/17/20 5:00,Business Analytics,Wharton,2,2022,2
+2/17/20 5:00,Urban Studies,CAS,1,2022,1
+2/17/20 5:00,Economics,CAS,1,2020,2
+2/17/20 5:00,Nursing,NURS,2,2021,2
+2/17/20 5:00,Communications,CAS,1,2023,1
+2/17/20 5:00,DMD,ENG,7,2021,7
+2/17/20 5:00,Cognitive Science,NULL,1,2023,1
+2/17/20 5:00,CBE,ENG,1,2022,2
+2/17/20 5:00,Marketing,Wharton,1,2023,1
+2/17/20 5:00,Political Science,CAS,2,2021,2
+2/17/20 5:00,OIDD,Wharton,2,2020,2
+2/17/20 5:00,BBB,CAS,6,2022,6
+2/17/20 5:00,Chemistry,CAS,1,2023,1
+2/17/20 5:00,Misc,N/A,1,2020,1
+2/17/20 5:00,2022,NULL,1,N/A,1
+2/17/20 5:00,Economics,CAS,2,2023,2
+2/17/20 5:00,Computer Science,ENG,20,2022,21
+2/17/20 5:00,International Studies and Business,NULL,1,2023,1
+2/17/20 5:00,Math,NULL,1,2022,1
+2/17/20 5:00,Undecided, Wharton,1,2022,1
+2/17/20 5:00,Nursing,NURS,1,2020,1
+2/17/20 5:00,Mathematical Economics,CAS,1,2021,1
+2/17/20 5:00,Cognitive Science,NULL,1,2022,1
+2/17/20 5:00,Finance,Wharton,6,2022,7
+2/17/20 5:00,Bioegineering,NULL,1,2023,1
+2/17/20 5:00,SSE,NULL,1,2020,1
+2/17/20 5:00,Neuroscience,NULL,1,2022,1
+2/17/20 5:00,BBB,CAS,2,2021,2
+2/17/20 5:00,Misc,N/A,1,2021,1
+2/17/20 5:00,CBE,ENG,2,2021,2
+2/17/20 5:00,Computer Science,ENG,15,2021,16
+2/17/20 5:00,Political Science,CAS,1,2022,1
+2/17/20 5:00,Misc,N/A,9,N/A,10
+2/17/20 5:00,Marketing,Wharton,1,2022,1
+2/17/20 5:00,Statistics,Wharton,2,2020,2
+2/17/20 5:00,Communications,CAS,1,2021,1
+2/17/20 5:00,English,CAS,2,2021,2
+2/17/20 5:00,PPE,CAS,1,2023,1
+2/17/20 5:00,Finance,Wharton,2,2021,2
+2/17/20 5:00,Mechanical Engineering,NULL,1,N/A,1
+2/17/20 5:00,Business Analytics,Wharton,2,2020,2
+2/17/20 5:00,Fine Arts,NULL,1,2021,1
+2/17/20 5:00,Political Science,CAS,2,2023,2
+2/17/20 5:00,BBB,CAS,4,2020,4
+2/17/20 5:00,Misc,N/A,1,2022,1
+2/17/20 5:00,Cognitive Science,NULL,1,2021,1
+2/17/20 5:00,Systems Engineering,NULL,1,2022,1
+2/17/20 5:00,Computer Science,ENG,1,2020,1
+2/17/20 5:00,Undecided,NULL,1,2023,1
+2/17/20 5:00,Music,CAS,1,2020,1
+2/17/20 5:00,Fine Arts,NULL,1,2023,1
+2/17/20 5:00,Computer Science,ENG,1,N/A,1
+2/17/20 5:00,Statistics,Wharton,3,2021,3
+2/17/20 5:00,Finance,Wharton,1,2020,2
+2/17/20 5:00,Business Analytics,Wharton,2,2021,2
+2/17/20 5:00,History,CAS,1,2023,1
+2/17/20 5:00,Economics,CAS,1,2021,1
+2/17/20 5:00,Misc,N/A,4,2023,4
+2/17/20 5:00,DMD,ENG,1,2020,1
+2/17/20 5:00,CBE,ENG,2,2023,2
+2/17/20 5:00,Systems Engineering,NULL,2,2023,2
+2/17/20 5:00,GSWS,CAS,1,2020,1
+2/17/20 6:00,PPE,CAS,1,2020,1
+2/17/20 6:00,Nutrition,CAS,1,2021,1
+2/17/20 6:00,BBB,CAS,2,2023,2
+2/17/20 6:00,Philosophy,CAS,1,2021,1
+2/17/20 6:00,Statistics,Wharton,1,2022,1
+2/17/20 6:00,Political Science,CAS,1,2020,1
+2/17/20 6:00,Nutrition,CAS,1,2022,1
+2/17/20 6:00,Bioengineering,ENG,1,2023,1
+2/17/20 6:00,Computer Science,ENG,4,2023,4
+2/17/20 6:00,PPE,CAS,2,2021,2
+2/17/20 6:00,Finance and Computer Science,NULL,1,2021,1
+2/17/20 6:00,Business Analytics,Wharton,2,2022,2
+2/17/20 6:00,Urban Studies,CAS,1,2022,1
+2/17/20 6:00,Economics,CAS,1,2020,2
+2/17/20 6:00,Nursing,NURS,1,2021,2
+2/17/20 6:00,Communications,CAS,1,2023,1
+2/17/20 6:00,DMD,ENG,7,2021,7
+2/17/20 6:00,Cognitive Science,NULL,1,2023,1
+2/17/20 6:00,CBE,ENG,1,2022,2
+2/17/20 6:00,Marketing,Wharton,1,2023,1
+2/17/20 6:00,Political Science,CAS,2,2021,2
+2/17/20 6:00,OIDD,Wharton,2,2020,2
+2/17/20 6:00,BBB,CAS,6,2022,6
+2/17/20 6:00,Chemistry,CAS,1,2023,1
+2/17/20 6:00,Misc,N/A,1,2020,1
+2/17/20 6:00,2022,NULL,1,N/A,1
+2/17/20 6:00,Economics,CAS,2,2023,2
+2/17/20 6:00,Computer Science,ENG,20,2022,21
+2/17/20 6:00,International Studies and Business,NULL,1,2023,1
+2/17/20 6:00,Math,NULL,1,2022,1
+2/17/20 6:00,Undecided, Wharton,1,2022,1
+2/17/20 6:00,Nursing,NURS,1,2020,1
+2/17/20 6:00,Mathematical Economics,CAS,1,2021,1
+2/17/20 6:00,Cognitive Science,NULL,1,2022,1
+2/17/20 6:00,Finance,Wharton,6,2022,7
+2/17/20 6:00,Bioegineering,NULL,1,2023,1
+2/17/20 6:00,SSE,NULL,1,2020,1
+2/17/20 6:00,Neuroscience,NULL,1,2022,1
+2/17/20 6:00,BBB,CAS,2,2021,2
+2/17/20 6:00,Misc,N/A,1,2021,1
+2/17/20 6:00,CBE,ENG,2,2021,2
+2/17/20 6:00,Computer Science,ENG,15,2021,16
+2/17/20 6:00,Political Science,CAS,1,2022,1
+2/17/20 6:00,Misc,N/A,10,N/A,10
+2/17/20 6:00,Marketing,Wharton,1,2022,1
+2/17/20 6:00,Statistics,Wharton,2,2020,2
+2/17/20 6:00,Communications,CAS,1,2021,1
+2/17/20 6:00,English,CAS,2,2021,2
+2/17/20 6:00,PPE,CAS,1,2023,1
+2/17/20 6:00,Finance,Wharton,2,2021,2
+2/17/20 6:00,Mechanical Engineering,NULL,1,N/A,1
+2/17/20 6:00,Business Analytics,Wharton,2,2020,2
+2/17/20 6:00,Fine Arts,NULL,1,2021,1
+2/17/20 6:00,Political Science,CAS,2,2023,2
+2/17/20 6:00,BBB,CAS,4,2020,4
+2/17/20 6:00,Misc,N/A,1,2022,1
+2/17/20 6:00,Cognitive Science,NULL,1,2021,1
+2/17/20 6:00,Systems Engineering,NULL,1,2022,1
+2/17/20 6:00,Computer Science,ENG,1,2020,1
+2/17/20 6:00,Undecided,NULL,1,2023,1
+2/17/20 6:00,Music,CAS,1,2020,1
+2/17/20 6:00,Fine Arts,NULL,1,2023,1
+2/17/20 6:00,Computer Science,ENG,1,N/A,1
+2/17/20 6:00,Statistics,Wharton,3,2021,3
+2/17/20 6:00,Finance,Wharton,1,2020,2
+2/17/20 6:00,Business Analytics,Wharton,2,2021,2
+2/17/20 6:00,History,CAS,1,2023,1
+2/17/20 6:00,Economics,CAS,1,2021,1
+2/17/20 6:00,Misc,N/A,4,2023,4
+2/17/20 6:00,DMD,ENG,1,2020,1
+2/17/20 6:00,CBE,ENG,2,2023,2
+2/17/20 6:00,Systems Engineering,NULL,2,2023,2
+2/17/20 6:00,GSWS,CAS,1,2020,1
+2/17/20 7:00,PPE,CAS,1,2020,1
+2/17/20 7:00,Nutrition,CAS,1,2021,1
+2/17/20 7:00,BBB,CAS,2,2023,2
+2/17/20 7:00,Philosophy,CAS,1,2021,1
+2/17/20 7:00,Statistics,Wharton,1,2022,1
+2/17/20 7:00,Political Science,CAS,1,2020,1
+2/17/20 7:00,Nutrition,CAS,1,2022,1
+2/17/20 7:00,Bioengineering,ENG,1,2023,1
+2/17/20 7:00,Computer Science,ENG,4,2023,4
+2/17/20 7:00,PPE,CAS,2,2021,2
+2/17/20 7:00,Finance and Computer Science,NULL,1,2021,1
+2/17/20 7:00,Business Analytics,Wharton,2,2022,2
+2/17/20 7:00,Urban Studies,CAS,1,2022,1
+2/17/20 7:00,Economics,CAS,1,2020,2
+2/17/20 7:00,Nursing,NURS,1,2021,2
+2/17/20 7:00,Communications,CAS,1,2023,1
+2/17/20 7:00,DMD,ENG,6,2021,7
+2/17/20 7:00,Cognitive Science,NULL,1,2023,1
+2/17/20 7:00,CBE,ENG,1,2022,2
+2/17/20 7:00,Marketing,Wharton,1,2023,1
+2/17/20 7:00,Political Science,CAS,1,2021,2
+2/17/20 7:00,OIDD,Wharton,2,2020,2
+2/17/20 7:00,BBB,CAS,6,2022,6
+2/17/20 7:00,Chemistry,CAS,1,2023,1
+2/17/20 7:00,Misc,N/A,1,2020,1
+2/17/20 7:00,2022,NULL,1,N/A,1
+2/17/20 7:00,Economics,CAS,2,2023,2
+2/17/20 7:00,Computer Science,ENG,21,2022,21
+2/17/20 7:00,International Studies and Business,NULL,1,2023,1
+2/17/20 7:00,Math,NULL,1,2022,1
+2/17/20 7:00,Undecided, Wharton,1,2022,1
+2/17/20 7:00,Nursing,NURS,1,2020,1
+2/17/20 7:00,Mathematical Economics,CAS,1,2021,1
+2/17/20 7:00,Cognitive Science,NULL,1,2022,1
+2/17/20 7:00,Finance,Wharton,6,2022,7
+2/17/20 7:00,Bioegineering,NULL,1,2023,1
+2/17/20 7:00,SSE,NULL,1,2020,1
+2/17/20 7:00,Neuroscience,NULL,1,2022,1
+2/17/20 7:00,BBB,CAS,2,2021,2
+2/17/20 7:00,Misc,N/A,1,2021,1
+2/17/20 7:00,CBE,ENG,2,2021,2
+2/17/20 7:00,Computer Science,ENG,15,2021,16
+2/17/20 7:00,Political Science,CAS,1,2022,1
+2/17/20 7:00,Misc,N/A,10,N/A,10
+2/17/20 7:00,Marketing,Wharton,1,2022,1
+2/17/20 7:00,Statistics,Wharton,2,2020,2
+2/17/20 7:00,Communications,CAS,1,2021,1
+2/17/20 7:00,English,CAS,2,2021,2
+2/17/20 7:00,PPE,CAS,1,2023,1
+2/17/20 7:00,Finance,Wharton,2,2021,2
+2/17/20 7:00,Mechanical Engineering,NULL,1,N/A,1
+2/17/20 7:00,Business Analytics,Wharton,2,2020,2
+2/17/20 7:00,Fine Arts,NULL,1,2021,1
+2/17/20 7:00,Political Science,CAS,2,2023,2
+2/17/20 7:00,BBB,CAS,4,2020,4
+2/17/20 7:00,Cognitive Science,NULL,1,2021,1
+2/17/20 7:00,Systems Engineering,NULL,1,2022,1
+2/17/20 7:00,Computer Science,ENG,1,2020,1
+2/17/20 7:00,Undecided,NULL,1,2023,1
+2/17/20 7:00,Music,CAS,1,2020,1
+2/17/20 7:00,Fine Arts,NULL,1,2023,1
+2/17/20 7:00,Computer Science,ENG,1,N/A,1
+2/17/20 7:00,Statistics,Wharton,3,2021,3
+2/17/20 7:00,Finance,Wharton,1,2020,2
+2/17/20 7:00,Business Analytics,Wharton,2,2021,2
+2/17/20 7:00,History,CAS,1,2023,1
+2/17/20 7:00,Economics,CAS,1,2021,1
+2/17/20 7:00,Misc,N/A,4,2023,4
+2/17/20 7:00,DMD,ENG,1,2020,1
+2/17/20 7:00,CBE,ENG,2,2023,2
+2/17/20 7:00,Systems Engineering,NULL,2,2023,2
+2/17/20 7:00,GSWS,CAS,1,2020,1
+2/17/20 8:00,PPE,CAS,1,2020,1
+2/17/20 8:00,Political Science,CAS,1,2020,1
+2/17/20 8:00,BBB,CAS,1,2023,2
+2/17/20 8:00,Statistics,Wharton,1,2022,1
+2/17/20 8:00,Bioengineering,ENG,1,2023,1
+2/17/20 8:00,Computer Science,ENG,3,2023,4
+2/17/20 8:00,PPE,CAS,2,2021,2
+2/17/20 8:00,Business Analytics,Wharton,2,2022,2
+2/17/20 8:00,Urban Studies,CAS,1,2022,1
+2/17/20 8:00,Economics,CAS,1,2020,2
+2/17/20 8:00,Philosophy,CAS,1,2021,1
+2/17/20 8:00,DMD,ENG,6,2021,7
+2/17/20 8:00,Cognitive Science,NULL,1,2023,1
+2/17/20 8:00,CBE,ENG,1,2022,2
+2/17/20 8:00,Marketing,Wharton,1,2023,1
+2/17/20 8:00,Political Science,CAS,1,2021,2
+2/17/20 8:00,OIDD,Wharton,2,2020,2
+2/17/20 8:00,BBB,CAS,6,2022,6
+2/17/20 8:00,Chemistry,CAS,1,2023,1
+2/17/20 8:00,Misc,N/A,1,2020,1
+2/17/20 8:00,2022,NULL,1,N/A,1
+2/17/20 8:00,Economics,CAS,2,2023,2
+2/17/20 8:00,Computer Science,ENG,21,2022,21
+2/17/20 8:00,International Studies and Business,NULL,1,2023,1
+2/17/20 8:00,Math,NULL,1,2022,1
+2/17/20 8:00,Undecided, Wharton,1,2022,1
+2/17/20 8:00,Cognitive Science,NULL,1,2022,1
+2/17/20 8:00,Finance,Wharton,6,2022,7
+2/17/20 8:00,Business Analytics,Wharton,1,2021,2
+2/17/20 8:00,SSE,NULL,1,2020,1
+2/17/20 8:00,Neuroscience,NULL,1,2022,1
+2/17/20 8:00,BBB,CAS,1,2021,2
+2/17/20 8:00,Misc,N/A,1,2021,1
+2/17/20 8:00,CBE,ENG,2,2021,2
+2/17/20 8:00,Computer Science,ENG,13,2021,16
+2/17/20 8:00,Political Science,CAS,1,2022,1
+2/17/20 8:00,Misc,N/A,10,N/A,10
+2/17/20 8:00,Marketing,Wharton,1,2022,1
+2/17/20 8:00,Statistics,Wharton,2,2020,2
+2/17/20 8:00,Communications,CAS,1,2021,1
+2/17/20 8:00,English,CAS,2,2021,2
+2/17/20 8:00,PPE,CAS,1,2023,1
+2/17/20 8:00,Finance,Wharton,2,2021,2
+2/17/20 8:00,Mechanical Engineering,NULL,1,N/A,1
+2/17/20 8:00,Business Analytics,Wharton,2,2020,2
+2/17/20 8:00,Fine Arts,NULL,1,2021,1
+2/17/20 8:00,Nutrition,CAS,1,2022,1
+2/17/20 8:00,BBB,CAS,3,2020,4
+2/17/20 8:00,Cognitive Science,NULL,1,2021,1
+2/17/20 8:00,Systems Engineering,NULL,1,2022,1
+2/17/20 8:00,Computer Science,ENG,1,2020,1
+2/17/20 8:00,Political Science,CAS,1,2023,2
+2/17/20 8:00,Music,CAS,1,2020,1
+2/17/20 8:00,Fine Arts,NULL,1,2023,1
+2/17/20 8:00,Computer Science,ENG,1,N/A,1
+2/17/20 8:00,Statistics,Wharton,2,2021,3
+2/17/20 8:00,Finance,Wharton,1,2020,2
+2/17/20 8:00,Bioegineering,NULL,1,2023,1
+2/17/20 8:00,Economics,CAS,1,2021,1
+2/17/20 8:00,Misc,N/A,2,2023,4
+2/17/20 8:00,DMD,ENG,1,2020,1
+2/17/20 8:00,CBE,ENG,2,2023,2
+2/17/20 8:00,Systems Engineering,NULL,1,2023,2
+2/17/20 8:00,GSWS,CAS,1,2020,1
+2/17/20 9:00,Fine Arts,NULL,1,2021,1
+2/17/20 9:00,Statistics,Wharton,1,2022,1
+2/17/20 9:00,Bioengineering,ENG,1,2023,1
+2/17/20 9:00,Computer Science,ENG,2,2023,4
+2/17/20 9:00,PPE,CAS,1,2021,2
+2/17/20 9:00,Business Analytics,Wharton,1,2022,2
+2/17/20 9:00,Economics,CAS,1,2020,2
+2/17/20 9:00,Philosophy,CAS,1,2021,1
+2/17/20 9:00,DMD,ENG,4,2021,7
+2/17/20 9:00,CBE,ENG,1,2022,2
+2/17/20 9:00,Marketing,Wharton,1,2023,1
+2/17/20 9:00,Political Science,CAS,1,2021,2
+2/17/20 9:00,OIDD,Wharton,2,2020,2
+2/17/20 9:00,BBB,CAS,3,2022,6
+2/17/20 9:00,Misc,N/A,1,2020,1
+2/17/20 9:00,2022,NULL,1,N/A,1
+2/17/20 9:00,Computer Science,ENG,15,2022,21
+2/17/20 9:00,Math,NULL,1,2022,1
+2/17/20 9:00,Economics,CAS,1,2023,2
+2/17/20 9:00,Cognitive Science,NULL,1,2022,1
+2/17/20 9:00,Finance,Wharton,4,2022,7
+2/17/20 9:00,Business Analytics,Wharton,1,2021,2
+2/17/20 9:00,SSE,NULL,1,2020,1
+2/17/20 9:00,Fine Arts,NULL,1,2023,1
+2/17/20 9:00,Misc,N/A,1,2021,1
+2/17/20 9:00,CBE,ENG,2,2021,2
+2/17/20 9:00,Computer Science,ENG,10,2021,16
+2/17/20 9:00,Misc,N/A,7,N/A,10
+2/17/20 9:00,Marketing,Wharton,1,2022,1
+2/17/20 9:00,Statistics,Wharton,2,2020,2
+2/17/20 9:00,Communications,CAS,1,2021,1
+2/17/20 9:00,English,CAS,1,2021,2
+2/17/20 9:00,PPE,CAS,1,2023,1
+2/17/20 9:00,Finance,Wharton,2,2021,2
+2/17/20 9:00,Mechanical Engineering,NULL,1,N/A,1
+2/17/20 9:00,Business Analytics,Wharton,2,2020,2
+2/17/20 9:00,BBB,CAS,2,2020,4
+2/17/20 9:00,Cognitive Science,NULL,1,2021,1
+2/17/20 9:00,Systems Engineering,NULL,1,2022,1
+2/17/20 9:00,Computer Science,ENG,1,2020,1
+2/17/20 9:00,Political Science,CAS,1,2023,2
+2/17/20 9:00,Music,CAS,1,2020,1
+2/17/20 9:00,Computer Science,ENG,1,N/A,1
+2/17/20 9:00,Statistics,Wharton,1,2021,3
+2/17/20 9:00,Finance,Wharton,1,2020,2
+2/17/20 9:00,Bioegineering,NULL,1,2023,1
+2/17/20 9:00,Economics,CAS,1,2021,1
+2/17/20 9:00,Misc,N/A,2,2023,4
+2/17/20 9:00,DMD,ENG,1,2020,1
+2/17/20 9:00,CBE,ENG,1,2023,2
+2/17/20 10:00,Fine Arts,NULL,1,2021,1
+2/17/20 10:00,Statistics,Wharton,1,2022,1
+2/17/20 10:00,Computer Science,ENG,2,2023,4
+2/17/20 10:00,Business Analytics,Wharton,1,2022,2
+2/17/20 10:00,Philosophy,CAS,1,2021,1
+2/17/20 10:00,DMD,ENG,3,2021,7
+2/17/20 10:00,Political Science,CAS,1,2021,2
+2/17/20 10:00,OIDD,Wharton,1,2020,2
+2/17/20 10:00,Misc,N/A,1,2020,1
+2/17/20 10:00,Computer Science,ENG,8,2022,21
+2/17/20 10:00,Marketing,Wharton,1,2023,1
+2/17/20 10:00,Finance,Wharton,1,2022,7
+2/17/20 10:00,Bioegineering,NULL,1,2023,1
+2/17/20 10:00,SSE,NULL,1,2020,1
+2/17/20 10:00,Fine Arts,NULL,1,2023,1
+2/17/20 10:00,Misc,N/A,1,2021,1
+2/17/20 10:00,CBE,ENG,1,2021,2
+2/17/20 10:00,Computer Science,ENG,6,2021,16
+2/17/20 10:00,Misc,N/A,4,N/A,10
+2/17/20 10:00,Statistics,Wharton,1,2020,2
+2/17/20 10:00,Marketing,Wharton,1,2022,1
+2/17/20 10:00,English,CAS,1,2021,2
+2/17/20 10:00,PPE,CAS,1,2023,1
+2/17/20 10:00,Finance,Wharton,1,2021,2
+2/17/20 10:00,Business Analytics,Wharton,1,2020,2
+2/17/20 10:00,BBB,CAS,2,2020,4
+2/17/20 10:00,Business Analytics,Wharton,1,2021,2
+2/17/20 10:00,Misc,N/A,1,2023,4
+2/17/20 10:00,DMD,ENG,1,2020,1
+2/17/20 10:00,CBE,ENG,1,2023,2
+2/17/20 11:00,Fine Arts,NULL,1,2021,1
+2/17/20 11:00,CBE,ENG,1,2021,2
+2/17/20 11:00,Computer Science,ENG,1,2021,16
+2/17/20 11:00,Computer Science,ENG,6,2022,21
+2/17/20 11:00,Marketing,Wharton,1,2022,1
+2/17/20 11:00,Misc,N/A,2,N/A,10
+2/17/20 11:00,English,CAS,1,2021,2
+2/17/20 11:00,DMD,ENG,2,2021,7
+2/17/20 11:00,Misc,N/A,1,2023,4
+2/17/20 11:00,DMD,ENG,1,2020,1
+2/17/20 11:00,Fine Arts,NULL,1,2023,1
+2/17/20 11:00,Political Science,CAS,1,2021,2
+2/17/20 11:00,SSE,NULL,1,2020,1
+2/17/20 12:00,Fine Arts,NULL,1,2021,1
+2/17/20 12:00,Computer Science,ENG,1,2021,16
+2/17/20 12:00,Computer Science,ENG,5,2022,21
+2/17/20 12:00,Marketing,Wharton,1,2022,1
+2/17/20 12:00,Misc,N/A,1,2023,4
+2/17/20 12:00,DMD,ENG,1,2020,1
+2/17/20 13:00,Computer Science,ENG,3,2022,21
+2/17/20 13:00,Fine Arts,NULL,1,2021,1
+2/17/20 13:00,Marketing,Wharton,1,2022,1
+2/17/20 13:00,Computer Science,ENG,2,2021,16
+2/17/20 14:00,Fine Arts,NULL,1,2021,1
+2/17/20 14:00,Computer Science,ENG,2,2021,16
+2/17/20 15:00,Computer Science,ENG,1,2021,16
+2/17/20 16:00,Bioengineering,ENG,1,2023,1
+2/17/20 16:00,Computer Science,ENG,1,2021,16
+2/17/20 17:00,Bioengineering,ENG,1,2023,1
+2/17/20 17:00,Computer Science,ENG,1,2021,16
+2/17/20 18:00,Bioengineering,ENG,1,2023,1
+2/17/20 18:00,Computer Science,ENG,1,2021,16
+2/17/20 19:00,BBB,CAS,1,2020,4
+2/17/20 19:00,Computer Science,ENG,1,2021,16
+2/17/20 20:00,Misc,N/A,1,N/A,10
+2/17/20 20:00,BBB,CAS,1,2020,4
+2/17/20 20:00,Computer Science,ENG,1,2021,16
+2/17/20 21:00,Misc,N/A,1,N/A,10
+2/17/20 21:00,BBB,CAS,1,2020,4
+2/17/20 21:00,Computer Science,ENG,1,2021,16
+2/17/20 22:00,BBB,CAS,1,2022,6
+2/17/20 22:00,Nutrition,CAS,1,2022,1
+2/17/20 22:00,Computer Science,ENG,1,2021,16
+2/17/20 22:00,Misc,N/A,1,N/A,10
+2/17/20 22:00,Finance,Wharton,1,2020,2
+2/17/20 22:00,Economics,CAS,1,2020,2
+2/17/20 22:00,Finance and Computer Science,NULL,1,2021,1
+2/17/20 22:00,Nursing,NURS,1,2022,1
+2/17/20 22:00,BBB,CAS,1,2020,4
+2/17/20 23:00,BBB,CAS,1,2022,6
+2/17/20 23:00,Undecided,NULL,1,2023,1
+2/17/20 23:00,Computer Science,ENG,1,2021,16
+2/17/20 23:00,Misc,N/A,1,N/A,10
+2/17/20 23:00,Bioengineering,ENG,1,2023,1
+2/17/20 23:00,DMD,ENG,1,2021,7
+2/17/20 23:00,Finance,Wharton,1,2020,2
+2/17/20 23:00,Economics,CAS,1,2020,2
+2/17/20 23:00,Finance and Computer Science,NULL,1,2021,1
+2/17/20 23:00,Nursing,NURS,1,2022,1
+2/17/20 23:00,Nutrition,CAS,1,2022,1
+2/17/20 23:00,BBB,CAS,1,2020,4
+2/17/20 23:00,Misc,N/A,1,2022,1
+2/18/20 0:00,BBB,CAS,1,2023,2
+2/18/20 0:00,Computer Science,ENG,1,2023,4
+2/18/20 0:00,CBE,ENG,1,2021,2
+2/18/20 0:00,Economics,CAS,1,2020,2
+2/18/20 0:00,DMD,ENG,3,2021,7
+2/18/20 0:00,CBE,ENG,2,2022,2
+2/18/20 0:00,BBB,CAS,1,2022,6
+2/18/20 0:00,Computer Science,ENG,1,2022,21
+2/18/20 0:00,Statistics,Wharton,2,2021,3
+2/18/20 0:00,Finance,Wharton,1,2022,7
+2/18/20 0:00,BBB,CAS,1,2021,2
+2/18/20 0:00,Misc,N/A,1,2021,1
+2/18/20 0:00,Urban Studies,CAS,1,2022,1
+2/18/20 0:00,Computer Science,ENG,2,2021,16
+2/18/20 0:00,Political Science,CAS,1,2022,1
+2/18/20 0:00,Misc,N/A,1,N/A,10
+2/18/20 0:00,Communications,CAS,1,2021,1
+2/18/20 0:00,English,CAS,1,2021,2
+2/18/20 0:00,Finance,Wharton,1,2021,2
+2/18/20 0:00,Finance and Computer Science,NULL,1,2021,1
+2/18/20 0:00,Business Analytics,Wharton,1,2020,2
+2/18/20 0:00,Nutrition,CAS,1,2022,1
+2/18/20 0:00,BBB,CAS,1,2020,4
+2/18/20 0:00,Misc,N/A,1,2022,1
+2/18/20 0:00,Undecided,NULL,1,2023,1
+2/18/20 0:00,PPE,CAS,1,2020,1
+2/18/20 0:00,Finance,Wharton,1,2020,2
+2/18/20 0:00,Nursing,NURS,1,2022,1
+2/18/20 0:00,Misc,N/A,1,2023,4
+2/18/20 0:00,CBE,ENG,1,2023,2
+2/18/20 0:00,GSWS,CAS,1,2020,1
+2/18/20 1:00,Nutrition,CAS,1,2021,1
+2/18/20 1:00,BBB,CAS,2,2023,2
+2/18/20 1:00,Nutrition,CAS,1,2022,1
+2/18/20 1:00,Computer Science,ENG,2,2023,4
+2/18/20 1:00,Business Analytics,Wharton,1,2022,2
+2/18/20 1:00,Urban Studies,CAS,1,2022,1
+2/18/20 1:00,Economics,CAS,1,2020,2
+2/18/20 1:00,Nursing,NURS,1,2021,2
+2/18/20 1:00,DMD,ENG,3,2021,7
+2/18/20 1:00,Cognitive Science,NULL,1,2023,1
+2/18/20 1:00,CBE,ENG,2,2022,2
+2/18/20 1:00,Political Science,CAS,1,2021,2
+2/18/20 1:00,OIDD,Wharton,2,2020,2
+2/18/20 1:00,BBB,CAS,6,2022,6
+2/18/20 1:00,Chemistry,CAS,1,2023,1
+2/18/20 1:00,Computer Science,ENG,5,2022,21
+2/18/20 1:00,International Studies and Business,NULL,1,2023,1
+2/18/20 1:00,Statistics,Wharton,3,2021,3
+2/18/20 1:00,Economics,CAS,1,2023,2
+2/18/20 1:00,Nursing,NURS,1,2020,1
+2/18/20 1:00,Mathematical Economics,CAS,1,2021,1
+2/18/20 1:00,Finance,Wharton,2,2022,7
+2/18/20 1:00,SSE,NULL,1,2020,1
+2/18/20 1:00,Neuroscience,NULL,1,2022,1
+2/18/20 1:00,BBB,CAS,2,2021,2
+2/18/20 1:00,Misc,N/A,1,2021,1
+2/18/20 1:00,CBE,ENG,2,2021,2
+2/18/20 1:00,Computer Science,ENG,7,2021,16
+2/18/20 1:00,Political Science,CAS,1,2022,1
+2/18/20 1:00,Misc,N/A,3,N/A,10
+2/18/20 1:00,Statistics,Wharton,2,2020,2
+2/18/20 1:00,Communications,CAS,1,2021,1
+2/18/20 1:00,English,CAS,1,2021,2
+2/18/20 1:00,Finance,Wharton,1,2021,2
+2/18/20 1:00,Finance and Computer Science,NULL,1,2021,1
+2/18/20 1:00,Business Analytics,Wharton,2,2020,2
+2/18/20 1:00,Political Science,CAS,2,2023,2
+2/18/20 1:00,BBB,CAS,1,2020,4
+2/18/20 1:00,Misc,N/A,1,2022,1
+2/18/20 1:00,Computer Science,ENG,1,2020,1
+2/18/20 1:00,Undecided,NULL,1,2023,1
+2/18/20 1:00,Music,CAS,1,2020,1
+2/18/20 1:00,Fine Arts,NULL,1,2023,1
+2/18/20 1:00,PPE,CAS,1,2020,1
+2/18/20 1:00,Finance,Wharton,2,2020,2
+2/18/20 1:00,Business Analytics,Wharton,1,2021,2
+2/18/20 1:00,History,CAS,1,2023,1
+2/18/20 1:00,Economics,CAS,1,2021,1
+2/18/20 1:00,Misc,N/A,1,2023,4
+2/18/20 1:00,CBE,ENG,1,2023,2
+2/18/20 1:00,Systems Engineering,NULL,1,2023,2
+2/18/20 1:00,GSWS,CAS,1,2020,1
+2/18/20 2:00,Nutrition,CAS,1,2021,1
+2/18/20 2:00,BBB,CAS,2,2023,2
+2/18/20 2:00,Finance and Computer Science,NULL,1,2021,1
+2/18/20 2:00,Political Science,CAS,1,2020,1
+2/18/20 2:00,Nutrition,CAS,1,2022,1
+2/18/20 2:00,Computer Science,ENG,3,2023,4
+2/18/20 2:00,PPE,CAS,1,2021,2
+2/18/20 2:00,Business Analytics,Wharton,2,2022,2
+2/18/20 2:00,Urban Studies,CAS,1,2022,1
+2/18/20 2:00,Economics,CAS,2,2020,2
+2/18/20 2:00,Nursing,NURS,1,2021,2
+2/18/20 2:00,Communications,CAS,1,2023,1
+2/18/20 2:00,DMD,ENG,4,2021,7
+2/18/20 2:00,Cognitive Science,NULL,1,2023,1
+2/18/20 2:00,CBE,ENG,2,2022,2
+2/18/20 2:00,Political Science,CAS,1,2021,2
+2/18/20 2:00,OIDD,Wharton,2,2020,2
+2/18/20 2:00,BBB,CAS,6,2022,6
+2/18/20 2:00,Chemistry,CAS,1,2023,1
+2/18/20 2:00,Misc,N/A,1,2020,1
+2/18/20 2:00,2022,NULL,1,N/A,1
+2/18/20 2:00,Computer Science,ENG,12,2022,21
+2/18/20 2:00,International Studies and Business,NULL,1,2023,1
+2/18/20 2:00,Statistics,Wharton,3,2021,3
+2/18/20 2:00,Economics,CAS,2,2023,2
+2/18/20 2:00,Nursing,NURS,1,2020,1
+2/18/20 2:00,Mathematical Economics,CAS,1,2021,1
+2/18/20 2:00,Cognitive Science,NULL,1,2022,1
+2/18/20 2:00,Finance,Wharton,5,2022,7
+2/18/20 2:00,SSE,NULL,1,2020,1
+2/18/20 2:00,Neuroscience,NULL,1,2022,1
+2/18/20 2:00,BBB,CAS,2,2021,2
+2/18/20 2:00,Misc,N/A,1,2021,1
+2/18/20 2:00,CBE,ENG,2,2021,2
+2/18/20 2:00,Computer Science,ENG,13,2021,16
+2/18/20 2:00,Political Science,CAS,1,2022,1
+2/18/20 2:00,Misc,N/A,8,N/A,10
+2/18/20 2:00,Statistics,Wharton,2,2020,2
+2/18/20 2:00,Communications,CAS,1,2021,1
+2/18/20 2:00,English,CAS,1,2021,2
+2/18/20 2:00,Philosophy,CAS,1,2021,1
+2/18/20 2:00,Finance,Wharton,2,2021,2
+2/18/20 2:00,Mechanical Engineering,NULL,1,N/A,1
+2/18/20 2:00,Business Analytics,Wharton,2,2020,2
+2/18/20 2:00,Political Science,CAS,2,2023,2
+2/18/20 2:00,BBB,CAS,1,2020,4
+2/18/20 2:00,Misc,N/A,1,2022,1
+2/18/20 2:00,Cognitive Science,NULL,1,2021,1
+2/18/20 2:00,Systems Engineering,NULL,1,2022,1
+2/18/20 2:00,Computer Science,ENG,1,2020,1
+2/18/20 2:00,Undecided,NULL,1,2023,1
+2/18/20 2:00,Music,CAS,1,2020,1
+2/18/20 2:00,Fine Arts,NULL,1,2023,1
+2/18/20 2:00,PPE,CAS,1,2020,1
+2/18/20 2:00,Finance,Wharton,2,2020,2
+2/18/20 2:00,Business Analytics,Wharton,2,2021,2
+2/18/20 2:00,History,CAS,1,2023,1
+2/18/20 2:00,Economics,CAS,1,2021,1
+2/18/20 2:00,Misc,N/A,3,2023,4
+2/18/20 2:00,CBE,ENG,1,2023,2
+2/18/20 2:00,Systems Engineering,NULL,2,2023,2
+2/18/20 2:00,GSWS,CAS,1,2020,1
+2/18/20 3:00,Nutrition,CAS,1,2021,1
+2/18/20 3:00,BBB,CAS,2,2023,2
+2/18/20 3:00,Philosophy,CAS,1,2021,1
+2/18/20 3:00,Statistics,Wharton,1,2022,1
+2/18/20 3:00,Political Science,CAS,1,2020,1
+2/18/20 3:00,Nutrition,CAS,1,2022,1
+2/18/20 3:00,Computer Science,ENG,4,2023,4
+2/18/20 3:00,PPE,CAS,2,2021,2
+2/18/20 3:00,Finance and Computer Science,NULL,1,2021,1
+2/18/20 3:00,Business Analytics,Wharton,2,2022,2
+2/18/20 3:00,Urban Studies,CAS,1,2022,1
+2/18/20 3:00,Economics,CAS,2,2020,2
+2/18/20 3:00,Nursing,NURS,1,2021,2
+2/18/20 3:00,Communications,CAS,1,2023,1
+2/18/20 3:00,DMD,ENG,6,2021,7
+2/18/20 3:00,Cognitive Science,NULL,1,2023,1
+2/18/20 3:00,CBE,ENG,2,2022,2
+2/18/20 3:00,Statistics,Wharton,3,2021,3
+2/18/20 3:00,Political Science,CAS,1,2021,2
+2/18/20 3:00,CBE,ENG,1,2023,2
+2/18/20 3:00,BBB,CAS,6,2022,6
+2/18/20 3:00,Chemistry,CAS,1,2023,1
+2/18/20 3:00,Misc,N/A,1,2020,1
+2/18/20 3:00,2022,NULL,1,N/A,1
+2/18/20 3:00,Economics,CAS,2,2023,2
+2/18/20 3:00,Computer Science,ENG,16,2022,21
+2/18/20 3:00,International Studies and Business,NULL,1,2023,1
+2/18/20 3:00,Marketing,Wharton,1,2023,1
+2/18/20 3:00,Undecided, Wharton,1,2022,1
+2/18/20 3:00,Nursing,NURS,1,2020,1
+2/18/20 3:00,Mathematical Economics,CAS,1,2021,1
+2/18/20 3:00,Cognitive Science,NULL,1,2022,1
+2/18/20 3:00,Finance,Wharton,5,2022,7
+2/18/20 3:00,Bioegineering,NULL,1,2023,1
+2/18/20 3:00,OIDD,Wharton,2,2020,2
+2/18/20 3:00,Neuroscience,NULL,1,2022,1
+2/18/20 3:00,BBB,CAS,2,2021,2
+2/18/20 3:00,Misc,N/A,1,2021,1
+2/18/20 3:00,CBE,ENG,2,2021,2
+2/18/20 3:00,Computer Science,ENG,13,2021,16
+2/18/20 3:00,Political Science,CAS,1,2022,1
+2/18/20 3:00,Misc,N/A,9,N/A,10
+2/18/20 3:00,Statistics,Wharton,2,2020,2
+2/18/20 3:00,Communications,CAS,1,2021,1
+2/18/20 3:00,English,CAS,1,2021,2
+2/18/20 3:00,PPE,CAS,1,2023,1
+2/18/20 3:00,Finance,Wharton,2,2021,2
+2/18/20 3:00,Mechanical Engineering,NULL,1,N/A,1
+2/18/20 3:00,Business Analytics,Wharton,2,2020,2
+2/18/20 3:00,Political Science,CAS,2,2023,2
+2/18/20 3:00,BBB,CAS,1,2020,4
+2/18/20 3:00,Misc,N/A,1,2022,1
+2/18/20 3:00,Cognitive Science,NULL,1,2021,1
+2/18/20 3:00,Systems Engineering,NULL,1,2022,1
+2/18/20 3:00,Computer Science,ENG,1,2020,1
+2/18/20 3:00,Undecided,NULL,1,2023,1
+2/18/20 3:00,Music,CAS,1,2020,1
+2/18/20 3:00,SSE,NULL,1,2020,1
+2/18/20 3:00,Fine Arts,NULL,1,2023,1
+2/18/20 3:00,PPE,CAS,1,2020,1
+2/18/20 3:00,Finance,Wharton,2,2020,2
+2/18/20 3:00,Business Analytics,Wharton,2,2021,2
+2/18/20 3:00,History,CAS,1,2023,1
+2/18/20 3:00,Economics,CAS,1,2021,1
+2/18/20 3:00,Misc,N/A,3,2023,4
+2/18/20 3:00,DMD,ENG,1,2020,1
+2/18/20 3:00,Computer Science,ENG,1,N/A,1
+2/18/20 3:00,Systems Engineering,NULL,2,2023,2
+2/18/20 3:00,GSWS,CAS,1,2020,1
+2/18/20 4:00,PPE,CAS,1,2020,1
+2/18/20 4:00,Nutrition,CAS,1,2021,1
+2/18/20 4:00,BBB,CAS,2,2023,2
+2/18/20 4:00,Philosophy,CAS,1,2021,1
+2/18/20 4:00,Statistics,Wharton,1,2022,1
+2/18/20 4:00,Political Science,CAS,1,2020,1
+2/18/20 4:00,Nutrition,CAS,1,2022,1
+2/18/20 4:00,Computer Science,ENG,4,2023,4
+2/18/20 4:00,PPE,CAS,2,2021,2
+2/18/20 4:00,Finance and Computer Science,NULL,1,2021,1
+2/18/20 4:00,Business Analytics,Wharton,2,2022,2
+2/18/20 4:00,Urban Studies,CAS,1,2022,1
+2/18/20 4:00,Economics,CAS,2,2020,2
+2/18/20 4:00,Nursing,NURS,1,2021,2
+2/18/20 4:00,Communications,CAS,1,2023,1
+2/18/20 4:00,DMD,ENG,7,2021,7
+2/18/20 4:00,Cognitive Science,NULL,1,2023,1
+2/18/20 4:00,CBE,ENG,2,2022,2
+2/18/20 4:00,Marketing,Wharton,1,2023,1
+2/18/20 4:00,Political Science,CAS,1,2021,2
+2/18/20 4:00,CBE,ENG,1,2023,2
+2/18/20 4:00,BBB,CAS,6,2022,6
+2/18/20 4:00,Chemistry,CAS,1,2023,1
+2/18/20 4:00,Misc,N/A,1,2020,1
+2/18/20 4:00,2022,NULL,1,N/A,1
+2/18/20 4:00,Economics,CAS,2,2023,2
+2/18/20 4:00,Computer Science,ENG,19,2022,21
+2/18/20 4:00,International Studies and Business,NULL,1,2023,1
+2/18/20 4:00,Math,NULL,1,2022,1
+2/18/20 4:00,Undecided, Wharton,1,2022,1
+2/18/20 4:00,Nursing,NURS,1,2020,1
+2/18/20 4:00,Mathematical Economics,CAS,1,2021,1
+2/18/20 4:00,Cognitive Science,NULL,1,2022,1
+2/18/20 4:00,Finance,Wharton,7,2022,7
+2/18/20 4:00,Bioegineering,NULL,1,2023,1
+2/18/20 4:00,OIDD,Wharton,2,2020,2
+2/18/20 4:00,Neuroscience,NULL,1,2022,1
+2/18/20 4:00,BBB,CAS,2,2021,2
+2/18/20 4:00,Misc,N/A,1,2021,1
+2/18/20 4:00,CBE,ENG,2,2021,2
+2/18/20 4:00,Computer Science,ENG,15,2021,16
+2/18/20 4:00,Political Science,CAS,1,2022,1
+2/18/20 4:00,Misc,N/A,9,N/A,10
+2/18/20 4:00,Statistics,Wharton,2,2020,2
+2/18/20 4:00,Communications,CAS,1,2021,1
+2/18/20 4:00,English,CAS,1,2021,2
+2/18/20 4:00,PPE,CAS,1,2023,1
+2/18/20 4:00,Finance,Wharton,2,2021,2
+2/18/20 4:00,Mechanical Engineering,NULL,1,N/A,1
+2/18/20 4:00,Business Analytics,Wharton,2,2020,2
+2/18/20 4:00,Fine Arts,NULL,1,2021,1
+2/18/20 4:00,Political Science,CAS,2,2023,2
+2/18/20 4:00,BBB,CAS,1,2020,4
+2/18/20 4:00,Misc,N/A,1,2022,1
+2/18/20 4:00,Cognitive Science,NULL,1,2021,1
+2/18/20 4:00,Systems Engineering,NULL,1,2022,1
+2/18/20 4:00,Computer Science,ENG,1,2020,1
+2/18/20 4:00,Undecided,NULL,1,2023,1
+2/18/20 4:00,Music,CAS,1,2020,1
+2/18/20 4:00,SSE,NULL,1,2020,1
+2/18/20 4:00,Fine Arts,NULL,1,2023,1
+2/18/20 4:00,Statistics,Wharton,3,2021,3
+2/18/20 4:00,Finance,Wharton,2,2020,2
+2/18/20 4:00,Business Analytics,Wharton,2,2021,2
+2/18/20 4:00,History,CAS,1,2023,1
+2/18/20 4:00,Economics,CAS,1,2021,1
+2/18/20 4:00,Misc,N/A,3,2023,4
+2/18/20 4:00,DMD,ENG,1,2020,1
+2/18/20 4:00,Computer Science,ENG,1,N/A,1
+2/18/20 4:00,Systems Engineering,NULL,2,2023,2
+2/18/20 4:00,GSWS,CAS,1,2020,1
+2/18/20 5:00,PPE,CAS,1,2020,1
+2/18/20 5:00,Nutrition,CAS,1,2021,1
+2/18/20 5:00,BBB,CAS,2,2023,2
+2/18/20 5:00,Philosophy,CAS,1,2021,1
+2/18/20 5:00,Statistics,Wharton,1,2022,1
+2/18/20 5:00,Political Science,CAS,1,2020,1
+2/18/20 5:00,Nutrition,CAS,1,2022,1
+2/18/20 5:00,Computer Science,ENG,4,2023,4
+2/18/20 5:00,PPE,CAS,2,2021,2
+2/18/20 5:00,Finance and Computer Science,NULL,1,2021,1
+2/18/20 5:00,Business Analytics,Wharton,2,2022,2
+2/18/20 5:00,Urban Studies,CAS,1,2022,1
+2/18/20 5:00,Economics,CAS,2,2020,2
+2/18/20 5:00,Nursing,NURS,1,2021,2
+2/18/20 5:00,Communications,CAS,1,2023,1
+2/18/20 5:00,DMD,ENG,7,2021,7
+2/18/20 5:00,Cognitive Science,NULL,1,2023,1
+2/18/20 5:00,CBE,ENG,2,2022,2
+2/18/20 5:00,Marketing,Wharton,1,2023,1
+2/18/20 5:00,Political Science,CAS,1,2021,2
+2/18/20 5:00,CBE,ENG,1,2023,2
+2/18/20 5:00,BBB,CAS,6,2022,6
+2/18/20 5:00,Chemistry,CAS,1,2023,1
+2/18/20 5:00,Misc,N/A,1,2020,1
+2/18/20 5:00,2022,NULL,1,N/A,1
+2/18/20 5:00,Economics,CAS,2,2023,2
+2/18/20 5:00,Computer Science,ENG,19,2022,21
+2/18/20 5:00,International Studies and Business,NULL,1,2023,1
+2/18/20 5:00,Math,NULL,1,2022,1
+2/18/20 5:00,Undecided, Wharton,1,2022,1
+2/18/20 5:00,Nursing,NURS,1,2020,1
+2/18/20 5:00,Mathematical Economics,CAS,1,2021,1
+2/18/20 5:00,Cognitive Science,NULL,1,2022,1
+2/18/20 5:00,Finance,Wharton,7,2022,7
+2/18/20 5:00,Bioegineering,NULL,1,2023,1
+2/18/20 5:00,OIDD,Wharton,2,2020,2
+2/18/20 5:00,Neuroscience,NULL,1,2022,1
+2/18/20 5:00,BBB,CAS,2,2021,2
+2/18/20 5:00,Misc,N/A,1,2021,1
+2/18/20 5:00,CBE,ENG,2,2021,2
+2/18/20 5:00,Computer Science,ENG,15,2021,16
+2/18/20 5:00,Political Science,CAS,1,2022,1
+2/18/20 5:00,Misc,N/A,9,N/A,10
+2/18/20 5:00,Marketing,Wharton,1,2022,1
+2/18/20 5:00,Statistics,Wharton,2,2020,2
+2/18/20 5:00,Communications,CAS,1,2021,1
+2/18/20 5:00,English,CAS,1,2021,2
+2/18/20 5:00,PPE,CAS,1,2023,1
+2/18/20 5:00,Finance,Wharton,2,2021,2
+2/18/20 5:00,Mechanical Engineering,NULL,1,N/A,1
+2/18/20 5:00,Business Analytics,Wharton,2,2020,2
+2/18/20 5:00,Fine Arts,NULL,1,2021,1
+2/18/20 5:00,Political Science,CAS,2,2023,2
+2/18/20 5:00,BBB,CAS,1,2020,4
+2/18/20 5:00,Misc,N/A,1,2022,1
+2/18/20 5:00,Cognitive Science,NULL,1,2021,1
+2/18/20 5:00,Systems Engineering,NULL,1,2022,1
+2/18/20 5:00,Computer Science,ENG,1,2020,1
+2/18/20 5:00,Undecided,NULL,1,2023,1
+2/18/20 5:00,Music,CAS,1,2020,1
+2/18/20 5:00,SSE,NULL,1,2020,1
+2/18/20 5:00,Fine Arts,NULL,1,2023,1
+2/18/20 5:00,Statistics,Wharton,3,2021,3
+2/18/20 5:00,Finance,Wharton,2,2020,2
+2/18/20 5:00,Business Analytics,Wharton,2,2021,2
+2/18/20 5:00,History,CAS,1,2023,1
+2/18/20 5:00,Economics,CAS,1,2021,1
+2/18/20 5:00,Misc,N/A,4,2023,4
+2/18/20 5:00,DMD,ENG,1,2020,1
+2/18/20 5:00,Computer Science,ENG,1,N/A,1
+2/18/20 5:00,Systems Engineering,NULL,2,2023,2
+2/18/20 5:00,GSWS,CAS,1,2020,1
+2/18/20 6:00,PPE,CAS,1,2020,1
+2/18/20 6:00,Nutrition,CAS,1,2021,1
+2/18/20 6:00,BBB,CAS,2,2023,2
+2/18/20 6:00,Philosophy,CAS,1,2021,1
+2/18/20 6:00,Statistics,Wharton,1,2022,1
+2/18/20 6:00,Political Science,CAS,1,2020,1
+2/18/20 6:00,Nutrition,CAS,1,2022,1
+2/18/20 6:00,Computer Science,ENG,4,2023,4
+2/18/20 6:00,PPE,CAS,2,2021,2
+2/18/20 6:00,Finance and Computer Science,NULL,1,2021,1
+2/18/20 6:00,Business Analytics,Wharton,2,2022,2
+2/18/20 6:00,Urban Studies,CAS,1,2022,1
+2/18/20 6:00,Economics,CAS,2,2020,2
+2/18/20 6:00,Nursing,NURS,1,2021,2
+2/18/20 6:00,Communications,CAS,1,2023,1
+2/18/20 6:00,DMD,ENG,7,2021,7
+2/18/20 6:00,Cognitive Science,NULL,1,2023,1
+2/18/20 6:00,CBE,ENG,2,2022,2
+2/18/20 6:00,Marketing,Wharton,1,2023,1
+2/18/20 6:00,Political Science,CAS,1,2021,2
+2/18/20 6:00,OIDD,Wharton,2,2020,2
+2/18/20 6:00,BBB,CAS,6,2022,6
+2/18/20 6:00,Chemistry,CAS,1,2023,1
+2/18/20 6:00,Misc,N/A,1,2020,1
+2/18/20 6:00,2022,NULL,1,N/A,1
+2/18/20 6:00,Economics,CAS,2,2023,2
+2/18/20 6:00,Computer Science,ENG,19,2022,21
+2/18/20 6:00,International Studies and Business,NULL,1,2023,1
+2/18/20 6:00,Math,NULL,1,2022,1
+2/18/20 6:00,Undecided, Wharton,1,2022,1
+2/18/20 6:00,Mathematical Economics,CAS,1,2021,1
+2/18/20 6:00,Cognitive Science,NULL,1,2022,1
+2/18/20 6:00,Finance,Wharton,7,2022,7
+2/18/20 6:00,Bioegineering,NULL,1,2023,1
+2/18/20 6:00,SSE,NULL,1,2020,1
+2/18/20 6:00,Neuroscience,NULL,1,2022,1
+2/18/20 6:00,BBB,CAS,2,2021,2
+2/18/20 6:00,Misc,N/A,1,2021,1
+2/18/20 6:00,CBE,ENG,2,2021,2
+2/18/20 6:00,Computer Science,ENG,15,2021,16
+2/18/20 6:00,Political Science,CAS,1,2022,1
+2/18/20 6:00,Misc,N/A,10,N/A,10
+2/18/20 6:00,Marketing,Wharton,1,2022,1
+2/18/20 6:00,Statistics,Wharton,2,2020,2
+2/18/20 6:00,Communications,CAS,1,2021,1
+2/18/20 6:00,English,CAS,1,2021,2
+2/18/20 6:00,PPE,CAS,1,2023,1
+2/18/20 6:00,Finance,Wharton,2,2021,2
+2/18/20 6:00,Mechanical Engineering,NULL,1,N/A,1
+2/18/20 6:00,Business Analytics,Wharton,2,2020,2
+2/18/20 6:00,Fine Arts,NULL,1,2021,1
+2/18/20 6:00,Political Science,CAS,2,2023,2
+2/18/20 6:00,BBB,CAS,2,2020,4
+2/18/20 6:00,Misc,N/A,1,2022,1
+2/18/20 6:00,Cognitive Science,NULL,1,2021,1
+2/18/20 6:00,Systems Engineering,NULL,1,2022,1
+2/18/20 6:00,Computer Science,ENG,1,2020,1
+2/18/20 6:00,Undecided,NULL,1,2023,1
+2/18/20 6:00,Music,CAS,1,2020,1
+2/18/20 6:00,Fine Arts,NULL,1,2023,1
+2/18/20 6:00,Computer Science,ENG,1,N/A,1
+2/18/20 6:00,Statistics,Wharton,3,2021,3
+2/18/20 6:00,Finance,Wharton,2,2020,2
+2/18/20 6:00,Business Analytics,Wharton,2,2021,2
+2/18/20 6:00,History,CAS,1,2023,1
+2/18/20 6:00,Economics,CAS,1,2021,1
+2/18/20 6:00,Misc,N/A,4,2023,4
+2/18/20 6:00,DMD,ENG,1,2020,1
+2/18/20 6:00,CBE,ENG,2,2023,2
+2/18/20 6:00,Systems Engineering,NULL,2,2023,2
+2/18/20 6:00,GSWS,CAS,1,2020,1
+2/18/20 7:00,PPE,CAS,1,2020,1
+2/18/20 7:00,Political Science,CAS,1,2020,1
+2/18/20 7:00,BBB,CAS,2,2023,2
+2/18/20 7:00,Philosophy,CAS,1,2021,1
+2/18/20 7:00,Statistics,Wharton,1,2022,1
+2/18/20 7:00,Computer Science,ENG,4,2023,4
+2/18/20 7:00,PPE,CAS,2,2021,2
+2/18/20 7:00,Finance and Computer Science,NULL,1,2021,1
+2/18/20 7:00,Business Analytics,Wharton,2,2022,2
+2/18/20 7:00,Urban Studies,CAS,1,2022,1
+2/18/20 7:00,Economics,CAS,1,2020,2
+2/18/20 7:00,Communications,CAS,1,2023,1
+2/18/20 7:00,DMD,ENG,6,2021,7
+2/18/20 7:00,Cognitive Science,NULL,1,2023,1
+2/18/20 7:00,CBE,ENG,2,2022,2
+2/18/20 7:00,Marketing,Wharton,1,2023,1
+2/18/20 7:00,Political Science,CAS,1,2021,2
+2/18/20 7:00,OIDD,Wharton,2,2020,2
+2/18/20 7:00,BBB,CAS,6,2022,6
+2/18/20 7:00,Chemistry,CAS,1,2023,1
+2/18/20 7:00,Misc,N/A,1,2020,1
+2/18/20 7:00,2022,NULL,1,N/A,1
+2/18/20 7:00,Economics,CAS,2,2023,2
+2/18/20 7:00,Computer Science,ENG,20,2022,21
+2/18/20 7:00,International Studies and Business,NULL,1,2023,1
+2/18/20 7:00,Math,NULL,1,2022,1
+2/18/20 7:00,Undecided, Wharton,1,2022,1
+2/18/20 7:00,Mathematical Economics,CAS,1,2021,1
+2/18/20 7:00,Cognitive Science,NULL,1,2022,1
+2/18/20 7:00,Finance,Wharton,6,2022,7
+2/18/20 7:00,Bioegineering,NULL,1,2023,1
+2/18/20 7:00,SSE,NULL,1,2020,1
+2/18/20 7:00,Neuroscience,NULL,1,2022,1
+2/18/20 7:00,BBB,CAS,2,2021,2
+2/18/20 7:00,Misc,N/A,1,2021,1
+2/18/20 7:00,CBE,ENG,2,2021,2
+2/18/20 7:00,Computer Science,ENG,15,2021,16
+2/18/20 7:00,Political Science,CAS,1,2022,1
+2/18/20 7:00,Misc,N/A,10,N/A,10
+2/18/20 7:00,Marketing,Wharton,1,2022,1
+2/18/20 7:00,Statistics,Wharton,2,2020,2
+2/18/20 7:00,Communications,CAS,1,2021,1
+2/18/20 7:00,English,CAS,1,2021,2
+2/18/20 7:00,PPE,CAS,1,2023,1
+2/18/20 7:00,Finance,Wharton,2,2021,2
+2/18/20 7:00,Mechanical Engineering,NULL,1,N/A,1
+2/18/20 7:00,Business Analytics,Wharton,2,2020,2
+2/18/20 7:00,Fine Arts,NULL,1,2021,1
+2/18/20 7:00,Nutrition,CAS,1,2022,1
+2/18/20 7:00,BBB,CAS,2,2020,4
+2/18/20 7:00,Cognitive Science,NULL,1,2021,1
+2/18/20 7:00,Systems Engineering,NULL,1,2022,1
+2/18/20 7:00,Computer Science,ENG,1,2020,1
+2/18/20 7:00,Political Science,CAS,2,2023,2
+2/18/20 7:00,Music,CAS,1,2020,1
+2/18/20 7:00,Fine Arts,NULL,1,2023,1
+2/18/20 7:00,Computer Science,ENG,1,N/A,1
+2/18/20 7:00,Statistics,Wharton,3,2021,3
+2/18/20 7:00,Finance,Wharton,1,2020,2
+2/18/20 7:00,Business Analytics,Wharton,2,2021,2
+2/18/20 7:00,History,CAS,1,2023,1
+2/18/20 7:00,Economics,CAS,1,2021,1
+2/18/20 7:00,Misc,N/A,4,2023,4
+2/18/20 7:00,DMD,ENG,1,2020,1
+2/18/20 7:00,CBE,ENG,2,2023,2
+2/18/20 7:00,Systems Engineering,NULL,2,2023,2
+2/18/20 7:00,GSWS,CAS,1,2020,1
+2/18/20 8:00,Political Science,CAS,1,2020,1
+2/18/20 8:00,BBB,CAS,1,2023,2
+2/18/20 8:00,Statistics,Wharton,1,2022,1
+2/18/20 8:00,Computer Science,ENG,3,2023,4
+2/18/20 8:00,PPE,CAS,2,2021,2
+2/18/20 8:00,Business Analytics,Wharton,2,2022,2
+2/18/20 8:00,Fine Arts,NULL,1,2021,1
+2/18/20 8:00,Economics,CAS,1,2020,2
+2/18/20 8:00,Chemistry,CAS,1,2023,1
+2/18/20 8:00,Philosophy,CAS,1,2021,1
+2/18/20 8:00,DMD,ENG,6,2021,7
+2/18/20 8:00,Cognitive Science,NULL,1,2023,1
+2/18/20 8:00,Math,NULL,1,2022,1
+2/18/20 8:00,Political Science,CAS,1,2021,2
+2/18/20 8:00,OIDD,Wharton,2,2020,2
+2/18/20 8:00,BBB,CAS,4,2022,6
+2/18/20 8:00,Marketing,Wharton,1,2023,1
+2/18/20 8:00,Misc,N/A,1,2020,1
+2/18/20 8:00,2022,NULL,1,N/A,1
+2/18/20 8:00,Economics,CAS,2,2023,2
+2/18/20 8:00,Computer Science,ENG,18,2022,21
+2/18/20 8:00,International Studies and Business,NULL,1,2023,1
+2/18/20 8:00,Statistics,Wharton,3,2021,3
+2/18/20 8:00,Undecided, Wharton,1,2022,1
+2/18/20 8:00,Cognitive Science,NULL,1,2022,1
+2/18/20 8:00,Finance,Wharton,4,2022,7
+2/18/20 8:00,Bioegineering,NULL,1,2023,1
+2/18/20 8:00,SSE,NULL,1,2020,1
+2/18/20 8:00,Neuroscience,NULL,1,2022,1
+2/18/20 8:00,BBB,CAS,2,2021,2
+2/18/20 8:00,Misc,N/A,1,2021,1
+2/18/20 8:00,Urban Studies,CAS,1,2022,1
+2/18/20 8:00,Computer Science,ENG,14,2021,16
+2/18/20 8:00,Political Science,CAS,1,2022,1
+2/18/20 8:00,Misc,N/A,9,N/A,10
+2/18/20 8:00,Marketing,Wharton,1,2022,1
+2/18/20 8:00,Statistics,Wharton,2,2020,2
+2/18/20 8:00,Communications,CAS,1,2021,1
+2/18/20 8:00,English,CAS,1,2021,2
+2/18/20 8:00,PPE,CAS,1,2023,1
+2/18/20 8:00,Finance,Wharton,2,2021,2
+2/18/20 8:00,Mechanical Engineering,NULL,1,N/A,1
+2/18/20 8:00,Business Analytics,Wharton,2,2020,2
+2/18/20 8:00,Nutrition,CAS,1,2022,1
+2/18/20 8:00,Cognitive Science,NULL,1,2021,1
+2/18/20 8:00,Systems Engineering,NULL,1,2022,1
+2/18/20 8:00,Computer Science,ENG,1,2020,1
+2/18/20 8:00,Political Science,CAS,2,2023,2
+2/18/20 8:00,Music,CAS,1,2020,1
+2/18/20 8:00,Fine Arts,NULL,1,2023,1
+2/18/20 8:00,Computer Science,ENG,1,N/A,1
+2/18/20 8:00,PPE,CAS,1,2020,1
+2/18/20 8:00,Finance,Wharton,1,2020,2
+2/18/20 8:00,Business Analytics,Wharton,2,2021,2
+2/18/20 8:00,History,CAS,1,2023,1
+2/18/20 8:00,Economics,CAS,1,2021,1
+2/18/20 8:00,Misc,N/A,3,2023,4
+2/18/20 8:00,DMD,ENG,1,2020,1
+2/18/20 8:00,CBE,ENG,2,2023,2
+2/18/20 8:00,Systems Engineering,NULL,2,2023,2
+2/18/20 8:00,GSWS,CAS,1,2020,1
+2/18/20 9:00,BBB,CAS,1,2023,2
+2/18/20 9:00,Statistics,Wharton,1,2022,1
+2/18/20 9:00,Computer Science,ENG,1,2023,4
+2/18/20 9:00,PPE,CAS,2,2021,2
+2/18/20 9:00,Business Analytics,Wharton,1,2022,2
+2/18/20 9:00,Fine Arts,NULL,1,2021,1
+2/18/20 9:00,Economics,CAS,1,2020,2
+2/18/20 9:00,Philosophy,CAS,1,2021,1
+2/18/20 9:00,DMD,ENG,4,2021,7
+2/18/20 9:00,Marketing,Wharton,1,2023,1
+2/18/20 9:00,OIDD,Wharton,2,2020,2
+2/18/20 9:00,BBB,CAS,1,2022,6
+2/18/20 9:00,Chemistry,CAS,1,2023,1
+2/18/20 9:00,Misc,N/A,1,2020,1
+2/18/20 9:00,2022,NULL,1,N/A,1
+2/18/20 9:00,Economics,CAS,1,2023,2
+2/18/20 9:00,Computer Science,ENG,15,2022,21
+2/18/20 9:00,International Studies and Business,NULL,1,2023,1
+2/18/20 9:00,Math,NULL,1,2022,1
+2/18/20 9:00,Undecided, Wharton,1,2022,1
+2/18/20 9:00,Finance,Wharton,3,2022,7
+2/18/20 9:00,Business Analytics,Wharton,1,2021,2
+2/18/20 9:00,SSE,NULL,1,2020,1
+2/18/20 9:00,BBB,CAS,1,2021,2
+2/18/20 9:00,Misc,N/A,1,2021,1
+2/18/20 9:00,Computer Science,ENG,10,2021,16
+2/18/20 9:00,Misc,N/A,8,N/A,10
+2/18/20 9:00,Marketing,Wharton,1,2022,1
+2/18/20 9:00,Statistics,Wharton,2,2020,2
+2/18/20 9:00,PPE,CAS,1,2023,1
+2/18/20 9:00,Finance,Wharton,2,2021,2
+2/18/20 9:00,Mechanical Engineering,NULL,1,N/A,1
+2/18/20 9:00,Business Analytics,Wharton,2,2020,2
+2/18/20 9:00,Cognitive Science,NULL,1,2021,1
+2/18/20 9:00,Systems Engineering,NULL,1,2022,1
+2/18/20 9:00,Computer Science,ENG,1,2020,1
+2/18/20 9:00,Computer Science,ENG,1,N/A,1
+2/18/20 9:00,Statistics,Wharton,1,2021,3
+2/18/20 9:00,Bioegineering,NULL,1,2023,1
+2/18/20 9:00,Economics,CAS,1,2021,1
+2/18/20 9:00,Misc,N/A,1,2023,4
+2/18/20 9:00,DMD,ENG,1,2020,1
+2/18/20 9:00,CBE,ENG,1,2023,2
+2/18/20 10:00,BBB,CAS,1,2023,2
+2/18/20 10:00,Statistics,Wharton,1,2022,1
+2/18/20 10:00,Computer Science,ENG,1,2023,4
+2/18/20 10:00,PPE,CAS,1,2021,2
+2/18/20 10:00,Business Analytics,Wharton,1,2022,2
+2/18/20 10:00,Fine Arts,NULL,1,2021,1
+2/18/20 10:00,Philosophy,CAS,1,2021,1
+2/18/20 10:00,DMD,ENG,3,2021,7
+2/18/20 10:00,Marketing,Wharton,1,2023,1
+2/18/20 10:00,SSE,NULL,1,2020,1
+2/18/20 10:00,BBB,CAS,1,2022,6
+2/18/20 10:00,Misc,N/A,1,2020,1
+2/18/20 10:00,Computer Science,ENG,8,2022,21
+2/18/20 10:00,Math,NULL,1,2022,1
+2/18/20 10:00,Economics,CAS,1,2023,2
+2/18/20 10:00,Finance,Wharton,1,2022,7
+2/18/20 10:00,BBB,CAS,1,2021,2
+2/18/20 10:00,Misc,N/A,1,2021,1
+2/18/20 10:00,Computer Science,ENG,4,2021,16
+2/18/20 10:00,Misc,N/A,5,N/A,10
+2/18/20 10:00,Marketing,Wharton,1,2022,1
+2/18/20 10:00,PPE,CAS,1,2023,1
+2/18/20 10:00,Finance,Wharton,1,2021,2
+2/18/20 10:00,Business Analytics,Wharton,1,2020,2
+2/18/20 10:00,Bioegineering,NULL,1,2023,1
+2/18/20 10:00,DMD,ENG,1,2020,1
+2/18/20 10:00,CBE,ENG,1,2023,2
+2/18/20 11:00,Misc,N/A,1,N/A,10
+2/18/20 11:00,Fine Arts,NULL,1,2021,1
+2/18/20 11:00,Computer Science,ENG,2,2021,16
+2/18/20 11:00,Computer Science,ENG,5,2022,21
+2/18/20 11:00,Marketing,Wharton,1,2022,1
+2/18/20 11:00,Economics,CAS,1,2023,2
+2/18/20 11:00,Philosophy,CAS,1,2021,1
+2/18/20 11:00,DMD,ENG,2,2021,7
+2/18/20 11:00,DMD,ENG,1,2020,1
+2/18/20 12:00,Computer Science,ENG,4,2022,21
+2/18/20 12:00,Fine Arts,NULL,1,2021,1
+2/18/20 12:00,Marketing,Wharton,1,2022,1
+2/18/20 12:00,Computer Science,ENG,1,2021,16
+2/18/20 13:00,Computer Science,ENG,2,2022,21
+2/18/20 13:00,Fine Arts,NULL,1,2021,1
+2/18/20 13:00,Marketing,Wharton,1,2022,1
+2/18/20 13:00,Computer Science,ENG,1,2021,16
+2/18/20 14:00,Computer Science,ENG,1,2022,21
+2/18/20 14:00,BBB,CAS,2,2020,4
+2/18/20 14:00,Fine Arts,NULL,1,2021,1
+2/18/20 14:00,Computer Science,ENG,1,2021,16
+2/18/20 15:00,BBB,CAS,2,2020,4
+2/18/20 15:00,Computer Science,ENG,1,2021,16
+2/18/20 16:00,BBB,CAS,2,2020,4
+2/18/20 16:00,Computer Science,ENG,1,2021,16
+2/18/20 17:00,BBB,CAS,2,2020,4
+2/18/20 17:00,CBE,ENG,1,2021,2
+2/18/20 17:00,Computer Science,ENG,1,2021,16
+2/18/20 18:00,BBB,CAS,2,2020,4
+2/18/20 18:00,CBE,ENG,1,2021,2
+2/18/20 18:00,Computer Science,ENG,1,2021,16
+2/18/20 19:00,BBB,CAS,2,2020,4
+2/18/20 19:00,Computer Science,ENG,1,2021,16
+2/18/20 20:00,Misc,N/A,1,N/A,10
+2/18/20 20:00,BBB,CAS,2,2020,4
+2/18/20 20:00,Computer Science,ENG,1,2021,16
+2/18/20 21:00,Misc,N/A,1,N/A,10
+2/18/20 21:00,BBB,CAS,2,2020,4
+2/18/20 21:00,Computer Science,ENG,1,2021,16
+2/18/20 22:00,Computer Science,ENG,1,2021,16
+2/18/20 22:00,Misc,N/A,1,N/A,10
+2/18/20 22:00,Finance,Wharton,1,2020,2
+2/18/20 22:00,Nursing,NURS,1,2020,1
+2/18/20 22:00,Economics,CAS,1,2020,2
+2/18/20 22:00,Finance and Computer Science,NULL,1,2021,1
+2/18/20 22:00,Nursing,NURS,1,2022,1
+2/18/20 23:00,BBB,CAS,1,2022,6
+2/18/20 23:00,Nutrition,CAS,1,2022,1
+2/18/20 23:00,Nursing,NURS,1,2020,1
+2/18/20 23:00,DMD,ENG,1,2021,7
+2/18/20 23:00,Finance,Wharton,1,2020,2
+2/18/20 23:00,Economics,CAS,1,2020,2
+2/18/20 23:00,Finance and Computer Science,NULL,1,2021,1
+2/18/20 23:00,Nursing,NURS,1,2022,1
+2/18/20 23:00,BBB,CAS,1,2020,4
+2/18/20 23:00,Misc,N/A,1,2022,1
+2/19/20 0:00,BBB,CAS,2,2023,2
+2/19/20 0:00,Computer Science,ENG,1,2023,4
+2/19/20 0:00,Business Analytics,Wharton,1,2022,2
+2/19/20 0:00,CBE,ENG,1,2021,2
+2/19/20 0:00,Economics,CAS,1,2020,2
+2/19/20 0:00,DMD,ENG,2,2021,7
+2/19/20 0:00,CBE,ENG,1,2022,2
+2/19/20 0:00,OIDD,Wharton,1,2020,2
+2/19/20 0:00,BBB,CAS,2,2022,6
+2/19/20 0:00,Chemistry,CAS,1,2023,1
+2/19/20 0:00,Computer Science,ENG,1,2022,21
+2/19/20 0:00,Statistics,Wharton,1,2021,3
+2/19/20 0:00,Finance,Wharton,1,2022,7
+2/19/20 0:00,Neuroscience,NULL,1,2022,1
+2/19/20 0:00,Misc,N/A,1,2021,1
+2/19/20 0:00,Urban Studies,CAS,1,2022,1
+2/19/20 0:00,Computer Science,ENG,1,2021,16
+2/19/20 0:00,Political Science,CAS,1,2022,1
+2/19/20 0:00,Statistics,Wharton,1,2020,2
+2/19/20 0:00,English,CAS,1,2021,2
+2/19/20 0:00,Finance,Wharton,1,2021,2
+2/19/20 0:00,Finance and Computer Science,NULL,1,2021,1
+2/19/20 0:00,Nutrition,CAS,1,2022,1
+2/19/20 0:00,BBB,CAS,2,2020,4
+2/19/20 0:00,Misc,N/A,1,2022,1
+2/19/20 0:00,Undecided,NULL,1,2023,1
+2/19/20 0:00,PPE,CAS,1,2020,1
+2/19/20 0:00,Finance,Wharton,1,2020,2
+2/19/20 0:00,Nursing,NURS,1,2022,1
+2/19/20 0:00,Misc,N/A,2,2023,4
+2/19/20 0:00,CBE,ENG,1,2023,2
+2/19/20 0:00,GSWS,CAS,1,2020,1
+2/19/20 1:00,BBB,CAS,2,2023,2
+2/19/20 1:00,Nutrition,CAS,1,2022,1
+2/19/20 1:00,Computer Science,ENG,2,2023,4
+2/19/20 1:00,Business Analytics,Wharton,1,2022,2
+2/19/20 1:00,Urban Studies,CAS,1,2022,1
+2/19/20 1:00,Economics,CAS,1,2020,2
+2/19/20 1:00,Philosophy,CAS,1,2021,1
+2/19/20 1:00,DMD,ENG,3,2021,7
+2/19/20 1:00,Cognitive Science,NULL,1,2023,1
+2/19/20 1:00,CBE,ENG,2,2022,2
+2/19/20 1:00,Political Science,CAS,1,2021,2
+2/19/20 1:00,OIDD,Wharton,2,2020,2
+2/19/20 1:00,BBB,CAS,4,2022,6
+2/19/20 1:00,Chemistry,CAS,1,2023,1
+2/19/20 1:00,Computer Science,ENG,5,2022,21
+2/19/20 1:00,Statistics,Wharton,3,2021,3
+2/19/20 1:00,Economics,CAS,1,2023,2
+2/19/20 1:00,Nursing,NURS,1,2020,1
+2/19/20 1:00,Mathematical Economics,CAS,1,2021,1
+2/19/20 1:00,Finance,Wharton,2,2022,7
+2/19/20 1:00,SSE,NULL,1,2020,1
+2/19/20 1:00,Neuroscience,NULL,1,2022,1
+2/19/20 1:00,BBB,CAS,1,2021,2
+2/19/20 1:00,Misc,N/A,1,2021,1
+2/19/20 1:00,CBE,ENG,2,2021,2
+2/19/20 1:00,Computer Science,ENG,7,2021,16
+2/19/20 1:00,Political Science,CAS,1,2022,1
+2/19/20 1:00,Misc,N/A,3,N/A,10
+2/19/20 1:00,Statistics,Wharton,2,2020,2
+2/19/20 1:00,Communications,CAS,1,2021,1
+2/19/20 1:00,English,CAS,1,2021,2
+2/19/20 1:00,Finance,Wharton,2,2021,2
+2/19/20 1:00,Finance and Computer Science,NULL,1,2021,1
+2/19/20 1:00,Political Science,CAS,1,2023,2
+2/19/20 1:00,BBB,CAS,2,2020,4
+2/19/20 1:00,Misc,N/A,1,2022,1
+2/19/20 1:00,Computer Science,ENG,1,2020,1
+2/19/20 1:00,Undecided,NULL,1,2023,1
+2/19/20 1:00,Music,CAS,1,2020,1
+2/19/20 1:00,PPE,CAS,1,2020,1
+2/19/20 1:00,Finance,Wharton,2,2020,2
+2/19/20 1:00,Business Analytics,Wharton,1,2021,2
+2/19/20 1:00,Economics,CAS,1,2021,1
+2/19/20 1:00,Misc,N/A,2,2023,4
+2/19/20 1:00,CBE,ENG,1,2023,2
+2/19/20 1:00,Systems Engineering,NULL,1,2023,2
+2/19/20 1:00,GSWS,CAS,1,2020,1
+2/19/20 2:00,Nutrition,CAS,1,2021,1
+2/19/20 2:00,BBB,CAS,2,2023,2
+2/19/20 2:00,Political Science,CAS,1,2020,1
+2/19/20 2:00,Nutrition,CAS,1,2022,1
+2/19/20 2:00,Computer Science,ENG,3,2023,4
+2/19/20 2:00,PPE,CAS,1,2021,2
+2/19/20 2:00,Business Analytics,Wharton,2,2022,2
+2/19/20 2:00,Urban Studies,CAS,1,2022,1
+2/19/20 2:00,Economics,CAS,2,2020,2
+2/19/20 2:00,Nursing,NURS,1,2021,2
+2/19/20 2:00,Communications,CAS,1,2023,1
+2/19/20 2:00,DMD,ENG,4,2021,7
+2/19/20 2:00,Cognitive Science,NULL,1,2023,1
+2/19/20 2:00,CBE,ENG,2,2022,2
+2/19/20 2:00,Political Science,CAS,1,2021,2
+2/19/20 2:00,OIDD,Wharton,2,2020,2
+2/19/20 2:00,BBB,CAS,4,2022,6
+2/19/20 2:00,Chemistry,CAS,1,2023,1
+2/19/20 2:00,Misc,N/A,1,2020,1
+2/19/20 2:00,Economics,CAS,2,2023,2
+2/19/20 2:00,Computer Science,ENG,8,2022,21
+2/19/20 2:00,International Studies and Business,NULL,1,2023,1
+2/19/20 2:00,Statistics,Wharton,3,2021,3
+2/19/20 2:00,Undecided, Wharton,1,2022,1
+2/19/20 2:00,Nursing,NURS,1,2020,1
+2/19/20 2:00,Mathematical Economics,CAS,1,2021,1
+2/19/20 2:00,Cognitive Science,NULL,1,2022,1
+2/19/20 2:00,Finance,Wharton,4,2022,7
+2/19/20 2:00,SSE,NULL,1,2020,1
+2/19/20 2:00,Neuroscience,NULL,1,2022,1
+2/19/20 2:00,BBB,CAS,1,2021,2
+2/19/20 2:00,Misc,N/A,1,2021,1
+2/19/20 2:00,CBE,ENG,2,2021,2
+2/19/20 2:00,Computer Science,ENG,9,2021,16
+2/19/20 2:00,Political Science,CAS,1,2022,1
+2/19/20 2:00,Misc,N/A,9,N/A,10
+2/19/20 2:00,Statistics,Wharton,2,2020,2
+2/19/20 2:00,Communications,CAS,1,2021,1
+2/19/20 2:00,English,CAS,1,2021,2
+2/19/20 2:00,Philosophy,CAS,1,2021,1
+2/19/20 2:00,Finance,Wharton,2,2021,2
+2/19/20 2:00,Finance and Computer Science,NULL,1,2021,1
+2/19/20 2:00,Political Science,CAS,2,2023,2
+2/19/20 2:00,BBB,CAS,4,2020,4
+2/19/20 2:00,Misc,N/A,1,2022,1
+2/19/20 2:00,Cognitive Science,NULL,1,2021,1
+2/19/20 2:00,Computer Science,ENG,1,2020,1
+2/19/20 2:00,Undecided,NULL,1,2023,1
+2/19/20 2:00,Music,CAS,1,2020,1
+2/19/20 2:00,Fine Arts,NULL,1,2023,1
+2/19/20 2:00,PPE,CAS,1,2020,1
+2/19/20 2:00,Finance,Wharton,2,2020,2
+2/19/20 2:00,Business Analytics,Wharton,2,2021,2
+2/19/20 2:00,History,CAS,1,2023,1
+2/19/20 2:00,Economics,CAS,1,2021,1
+2/19/20 2:00,Misc,N/A,2,2023,4
+2/19/20 2:00,CBE,ENG,1,2023,2
+2/19/20 2:00,Systems Engineering,NULL,2,2023,2
+2/19/20 2:00,GSWS,CAS,1,2020,1
+2/19/20 3:00,Nutrition,CAS,1,2021,1
+2/19/20 3:00,BBB,CAS,2,2023,2
+2/19/20 3:00,Philosophy,CAS,1,2021,1
+2/19/20 3:00,Statistics,Wharton,1,2022,1
+2/19/20 3:00,Political Science,CAS,1,2020,1
+2/19/20 3:00,Nutrition,CAS,1,2022,1
+2/19/20 3:00,Computer Science,ENG,4,2023,4
+2/19/20 3:00,PPE,CAS,2,2021,2
+2/19/20 3:00,Finance and Computer Science,NULL,1,2021,1
+2/19/20 3:00,Business Analytics,Wharton,2,2022,2
+2/19/20 3:00,Urban Studies,CAS,1,2022,1
+2/19/20 3:00,Economics,CAS,2,2020,2
+2/19/20 3:00,Nursing,NURS,1,2021,2
+2/19/20 3:00,Communications,CAS,1,2023,1
+2/19/20 3:00,DMD,ENG,6,2021,7
+2/19/20 3:00,Cognitive Science,NULL,1,2023,1
+2/19/20 3:00,CBE,ENG,2,2022,2
+2/19/20 3:00,Statistics,Wharton,3,2021,3
+2/19/20 3:00,Political Science,CAS,1,2021,2
+2/19/20 3:00,CBE,ENG,1,2023,2
+2/19/20 3:00,BBB,CAS,5,2022,6
+2/19/20 3:00,Chemistry,CAS,1,2023,1
+2/19/20 3:00,Misc,N/A,1,2020,1
+2/19/20 3:00,2022,NULL,1,N/A,1
+2/19/20 3:00,Economics,CAS,2,2023,2
+2/19/20 3:00,Computer Science,ENG,13,2022,21
+2/19/20 3:00,International Studies and Business,NULL,1,2023,1
+2/19/20 3:00,Marketing,Wharton,1,2023,1
+2/19/20 3:00,Undecided, Wharton,1,2022,1
+2/19/20 3:00,Nursing,NURS,1,2020,1
+2/19/20 3:00,Mathematical Economics,CAS,1,2021,1
+2/19/20 3:00,Cognitive Science,NULL,1,2022,1
+2/19/20 3:00,Finance,Wharton,6,2022,7
+2/19/20 3:00,Bioegineering,NULL,1,2023,1
+2/19/20 3:00,OIDD,Wharton,2,2020,2
+2/19/20 3:00,Neuroscience,NULL,1,2022,1
+2/19/20 3:00,BBB,CAS,1,2021,2
+2/19/20 3:00,Misc,N/A,1,2021,1
+2/19/20 3:00,CBE,ENG,2,2021,2
+2/19/20 3:00,Computer Science,ENG,12,2021,16
+2/19/20 3:00,Political Science,CAS,1,2022,1
+2/19/20 3:00,Misc,N/A,9,N/A,10
+2/19/20 3:00,Statistics,Wharton,2,2020,2
+2/19/20 3:00,Communications,CAS,1,2021,1
+2/19/20 3:00,English,CAS,1,2021,2
+2/19/20 3:00,PPE,CAS,1,2023,1
+2/19/20 3:00,Finance,Wharton,2,2021,2
+2/19/20 3:00,Mechanical Engineering,NULL,1,N/A,1
+2/19/20 3:00,Business Analytics,Wharton,2,2020,2
+2/19/20 3:00,Political Science,CAS,2,2023,2
+2/19/20 3:00,BBB,CAS,4,2020,4
+2/19/20 3:00,Misc,N/A,1,2022,1
+2/19/20 3:00,Cognitive Science,NULL,1,2021,1
+2/19/20 3:00,Systems Engineering,NULL,1,2022,1
+2/19/20 3:00,Computer Science,ENG,1,2020,1
+2/19/20 3:00,Undecided,NULL,1,2023,1
+2/19/20 3:00,Music,CAS,1,2020,1
+2/19/20 3:00,SSE,NULL,1,2020,1
+2/19/20 3:00,Fine Arts,NULL,1,2023,1
+2/19/20 3:00,PPE,CAS,1,2020,1
+2/19/20 3:00,Finance,Wharton,2,2020,2
+2/19/20 3:00,Business Analytics,Wharton,2,2021,2
+2/19/20 3:00,History,CAS,1,2023,1
+2/19/20 3:00,Economics,CAS,1,2021,1
+2/19/20 3:00,Misc,N/A,2,2023,4
+2/19/20 3:00,DMD,ENG,1,2020,1
+2/19/20 3:00,Computer Science,ENG,1,N/A,1
+2/19/20 3:00,Systems Engineering,NULL,2,2023,2
+2/19/20 3:00,GSWS,CAS,1,2020,1
+2/19/20 4:00,Nutrition,CAS,1,2021,1
+2/19/20 4:00,BBB,CAS,2,2023,2
+2/19/20 4:00,Philosophy,CAS,1,2021,1
+2/19/20 4:00,Statistics,Wharton,1,2022,1
+2/19/20 4:00,Political Science,CAS,1,2020,1
+2/19/20 4:00,Nutrition,CAS,1,2022,1
+2/19/20 4:00,Computer Science,ENG,4,2023,4
+2/19/20 4:00,PPE,CAS,2,2021,2
+2/19/20 4:00,Finance and Computer Science,NULL,1,2021,1
+2/19/20 4:00,Business Analytics,Wharton,2,2022,2
+2/19/20 4:00,Urban Studies,CAS,1,2022,1
+2/19/20 4:00,Economics,CAS,2,2020,2
+2/19/20 4:00,Nursing,NURS,1,2021,2
+2/19/20 4:00,Communications,CAS,1,2023,1
+2/19/20 4:00,DMD,ENG,7,2021,7
+2/19/20 4:00,Cognitive Science,NULL,1,2023,1
+2/19/20 4:00,CBE,ENG,2,2022,2
+2/19/20 4:00,Statistics,Wharton,3,2021,3
+2/19/20 4:00,Political Science,CAS,1,2021,2
+2/19/20 4:00,OIDD,Wharton,2,2020,2
+2/19/20 4:00,BBB,CAS,6,2022,6
+2/19/20 4:00,Chemistry,CAS,1,2023,1
+2/19/20 4:00,Misc,N/A,1,2020,1
+2/19/20 4:00,2022,NULL,1,N/A,1
+2/19/20 4:00,Economics,CAS,2,2023,2
+2/19/20 4:00,Computer Science,ENG,17,2022,21
+2/19/20 4:00,International Studies and Business,NULL,1,2023,1
+2/19/20 4:00,Marketing,Wharton,1,2023,1
+2/19/20 4:00,Undecided, Wharton,1,2022,1
+2/19/20 4:00,Nursing,NURS,1,2020,1
+2/19/20 4:00,Mathematical Economics,CAS,1,2021,1
+2/19/20 4:00,Cognitive Science,NULL,1,2022,1
+2/19/20 4:00,Finance,Wharton,6,2022,7
+2/19/20 4:00,Bioegineering,NULL,1,2023,1
+2/19/20 4:00,SSE,NULL,1,2020,1
+2/19/20 4:00,Neuroscience,NULL,1,2022,1
+2/19/20 4:00,BBB,CAS,1,2021,2
+2/19/20 4:00,Misc,N/A,1,2021,1
+2/19/20 4:00,CBE,ENG,2,2021,2
+2/19/20 4:00,Computer Science,ENG,15,2021,16
+2/19/20 4:00,Political Science,CAS,1,2022,1
+2/19/20 4:00,Misc,N/A,9,N/A,10
+2/19/20 4:00,Statistics,Wharton,2,2020,2
+2/19/20 4:00,Communications,CAS,1,2021,1
+2/19/20 4:00,English,CAS,1,2021,2
+2/19/20 4:00,PPE,CAS,1,2023,1
+2/19/20 4:00,Finance,Wharton,2,2021,2
+2/19/20 4:00,Mechanical Engineering,NULL,1,N/A,1
+2/19/20 4:00,Business Analytics,Wharton,2,2020,2
+2/19/20 4:00,Fine Arts,NULL,1,2021,1
+2/19/20 4:00,Political Science,CAS,2,2023,2
+2/19/20 4:00,BBB,CAS,4,2020,4
+2/19/20 4:00,Misc,N/A,1,2022,1
+2/19/20 4:00,Cognitive Science,NULL,1,2021,1
+2/19/20 4:00,Systems Engineering,NULL,1,2022,1
+2/19/20 4:00,Computer Science,ENG,1,2020,1
+2/19/20 4:00,Undecided,NULL,1,2023,1
+2/19/20 4:00,Music,CAS,1,2020,1
+2/19/20 4:00,Fine Arts,NULL,1,2023,1
+2/19/20 4:00,Computer Science,ENG,1,N/A,1
+2/19/20 4:00,PPE,CAS,1,2020,1
+2/19/20 4:00,Finance,Wharton,2,2020,2
+2/19/20 4:00,Business Analytics,Wharton,2,2021,2
+2/19/20 4:00,History,CAS,1,2023,1
+2/19/20 4:00,Economics,CAS,1,2021,1
+2/19/20 4:00,Misc,N/A,3,2023,4
+2/19/20 4:00,DMD,ENG,1,2020,1
+2/19/20 4:00,CBE,ENG,2,2023,2
+2/19/20 4:00,Systems Engineering,NULL,2,2023,2
+2/19/20 4:00,GSWS,CAS,1,2020,1
+2/19/20 5:00,Nutrition,CAS,1,2021,1
+2/19/20 5:00,BBB,CAS,2,2023,2
+2/19/20 5:00,Philosophy,CAS,1,2021,1
+2/19/20 5:00,Statistics,Wharton,1,2022,1
+2/19/20 5:00,Political Science,CAS,1,2020,1
+2/19/20 5:00,Nutrition,CAS,1,2022,1
+2/19/20 5:00,Computer Science,ENG,4,2023,4
+2/19/20 5:00,PPE,CAS,2,2021,2
+2/19/20 5:00,Finance and Computer Science,NULL,1,2021,1
+2/19/20 5:00,Business Analytics,Wharton,2,2022,2
+2/19/20 5:00,Urban Studies,CAS,1,2022,1
+2/19/20 5:00,Economics,CAS,2,2020,2
+2/19/20 5:00,Nursing,NURS,1,2021,2
+2/19/20 5:00,Communications,CAS,1,2023,1
+2/19/20 5:00,DMD,ENG,7,2021,7
+2/19/20 5:00,Cognitive Science,NULL,1,2023,1
+2/19/20 5:00,CBE,ENG,2,2022,2
+2/19/20 5:00,Statistics,Wharton,3,2021,3
+2/19/20 5:00,Political Science,CAS,1,2021,2
+2/19/20 5:00,OIDD,Wharton,2,2020,2
+2/19/20 5:00,BBB,CAS,6,2022,6
+2/19/20 5:00,Chemistry,CAS,1,2023,1
+2/19/20 5:00,Misc,N/A,1,2020,1
+2/19/20 5:00,2022,NULL,1,N/A,1
+2/19/20 5:00,Economics,CAS,2,2023,2
+2/19/20 5:00,Computer Science,ENG,17,2022,21
+2/19/20 5:00,International Studies and Business,NULL,1,2023,1
+2/19/20 5:00,Marketing,Wharton,1,2023,1
+2/19/20 5:00,Undecided, Wharton,1,2022,1
+2/19/20 5:00,Nursing,NURS,1,2020,1
+2/19/20 5:00,Mathematical Economics,CAS,1,2021,1
+2/19/20 5:00,Cognitive Science,NULL,1,2022,1
+2/19/20 5:00,Finance,Wharton,6,2022,7
+2/19/20 5:00,Bioegineering,NULL,1,2023,1
+2/19/20 5:00,SSE,NULL,1,2020,1
+2/19/20 5:00,Neuroscience,NULL,1,2022,1
+2/19/20 5:00,BBB,CAS,1,2021,2
+2/19/20 5:00,Misc,N/A,1,2021,1
+2/19/20 5:00,CBE,ENG,2,2021,2
+2/19/20 5:00,Computer Science,ENG,15,2021,16
+2/19/20 5:00,Political Science,CAS,1,2022,1
+2/19/20 5:00,Misc,N/A,9,N/A,10
+2/19/20 5:00,Marketing,Wharton,1,2022,1
+2/19/20 5:00,Statistics,Wharton,2,2020,2
+2/19/20 5:00,Communications,CAS,1,2021,1
+2/19/20 5:00,English,CAS,1,2021,2
+2/19/20 5:00,PPE,CAS,1,2023,1
+2/19/20 5:00,Finance,Wharton,2,2021,2
+2/19/20 5:00,Mechanical Engineering,NULL,1,N/A,1
+2/19/20 5:00,Business Analytics,Wharton,2,2020,2
+2/19/20 5:00,Fine Arts,NULL,1,2021,1
+2/19/20 5:00,Political Science,CAS,2,2023,2
+2/19/20 5:00,BBB,CAS,4,2020,4
+2/19/20 5:00,Misc,N/A,1,2022,1
+2/19/20 5:00,Cognitive Science,NULL,1,2021,1
+2/19/20 5:00,Systems Engineering,NULL,1,2022,1
+2/19/20 5:00,Computer Science,ENG,1,2020,1
+2/19/20 5:00,Undecided,NULL,1,2023,1
+2/19/20 5:00,Music,CAS,1,2020,1
+2/19/20 5:00,Fine Arts,NULL,1,2023,1
+2/19/20 5:00,Computer Science,ENG,1,N/A,1
+2/19/20 5:00,PPE,CAS,1,2020,1
+2/19/20 5:00,Finance,Wharton,2,2020,2
+2/19/20 5:00,Business Analytics,Wharton,2,2021,2
+2/19/20 5:00,History,CAS,1,2023,1
+2/19/20 5:00,Economics,CAS,1,2021,1
+2/19/20 5:00,Misc,N/A,4,2023,4
+2/19/20 5:00,DMD,ENG,1,2020,1
+2/19/20 5:00,CBE,ENG,2,2023,2
+2/19/20 5:00,Systems Engineering,NULL,2,2023,2
+2/19/20 5:00,GSWS,CAS,1,2020,1
+2/19/20 6:00,Nutrition,CAS,1,2021,1
+2/19/20 6:00,BBB,CAS,2,2023,2
+2/19/20 6:00,Philosophy,CAS,1,2021,1
+2/19/20 6:00,Statistics,Wharton,1,2022,1
+2/19/20 6:00,Political Science,CAS,1,2020,1
+2/19/20 6:00,Nutrition,CAS,1,2022,1
+2/19/20 6:00,Computer Science,ENG,4,2023,4
+2/19/20 6:00,PPE,CAS,2,2021,2
+2/19/20 6:00,Finance and Computer Science,NULL,1,2021,1
+2/19/20 6:00,Business Analytics,Wharton,2,2022,2
+2/19/20 6:00,Urban Studies,CAS,1,2022,1
+2/19/20 6:00,Economics,CAS,2,2020,2
+2/19/20 6:00,Nursing,NURS,1,2021,2
+2/19/20 6:00,Communications,CAS,1,2023,1
+2/19/20 6:00,DMD,ENG,7,2021,7
+2/19/20 6:00,Cognitive Science,NULL,1,2023,1
+2/19/20 6:00,CBE,ENG,2,2022,2
+2/19/20 6:00,Statistics,Wharton,3,2021,3
+2/19/20 6:00,Political Science,CAS,1,2021,2
+2/19/20 6:00,OIDD,Wharton,2,2020,2
+2/19/20 6:00,BBB,CAS,6,2022,6
+2/19/20 6:00,Chemistry,CAS,1,2023,1
+2/19/20 6:00,Misc,N/A,1,2020,1
+2/19/20 6:00,2022,NULL,1,N/A,1
+2/19/20 6:00,Economics,CAS,2,2023,2
+2/19/20 6:00,Computer Science,ENG,17,2022,21
+2/19/20 6:00,International Studies and Business,NULL,1,2023,1
+2/19/20 6:00,Marketing,Wharton,1,2023,1
+2/19/20 6:00,Undecided, Wharton,1,2022,1
+2/19/20 6:00,Nursing,NURS,1,2020,1
+2/19/20 6:00,Mathematical Economics,CAS,1,2021,1
+2/19/20 6:00,Cognitive Science,NULL,1,2022,1
+2/19/20 6:00,Finance,Wharton,6,2022,7
+2/19/20 6:00,Bioegineering,NULL,1,2023,1
+2/19/20 6:00,SSE,NULL,1,2020,1
+2/19/20 6:00,Neuroscience,NULL,1,2022,1
+2/19/20 6:00,BBB,CAS,1,2021,2
+2/19/20 6:00,Misc,N/A,1,2021,1
+2/19/20 6:00,CBE,ENG,2,2021,2
+2/19/20 6:00,Computer Science,ENG,15,2021,16
+2/19/20 6:00,Political Science,CAS,1,2022,1
+2/19/20 6:00,Misc,N/A,10,N/A,10
+2/19/20 6:00,Marketing,Wharton,1,2022,1
+2/19/20 6:00,Statistics,Wharton,2,2020,2
+2/19/20 6:00,Communications,CAS,1,2021,1
+2/19/20 6:00,English,CAS,1,2021,2
+2/19/20 6:00,PPE,CAS,1,2023,1
+2/19/20 6:00,Finance,Wharton,2,2021,2
+2/19/20 6:00,Mechanical Engineering,NULL,1,N/A,1
+2/19/20 6:00,Business Analytics,Wharton,2,2020,2
+2/19/20 6:00,Fine Arts,NULL,1,2021,1
+2/19/20 6:00,Political Science,CAS,2,2023,2
+2/19/20 6:00,BBB,CAS,4,2020,4
+2/19/20 6:00,Misc,N/A,1,2022,1
+2/19/20 6:00,Cognitive Science,NULL,1,2021,1
+2/19/20 6:00,Systems Engineering,NULL,1,2022,1
+2/19/20 6:00,Computer Science,ENG,1,2020,1
+2/19/20 6:00,Undecided,NULL,1,2023,1
+2/19/20 6:00,Music,CAS,1,2020,1
+2/19/20 6:00,Fine Arts,NULL,1,2023,1
+2/19/20 6:00,Computer Science,ENG,1,N/A,1
+2/19/20 6:00,PPE,CAS,1,2020,1
+2/19/20 6:00,Finance,Wharton,2,2020,2
+2/19/20 6:00,Business Analytics,Wharton,2,2021,2
+2/19/20 6:00,History,CAS,1,2023,1
+2/19/20 6:00,Economics,CAS,1,2021,1
+2/19/20 6:00,Misc,N/A,4,2023,4
+2/19/20 6:00,DMD,ENG,1,2020,1
+2/19/20 6:00,CBE,ENG,2,2023,2
+2/19/20 6:00,Systems Engineering,NULL,2,2023,2
+2/19/20 6:00,GSWS,CAS,1,2020,1
+2/19/20 7:00,Nutrition,CAS,1,2021,1
+2/19/20 7:00,BBB,CAS,2,2023,2
+2/19/20 7:00,Philosophy,CAS,1,2021,1
+2/19/20 7:00,Statistics,Wharton,1,2022,1
+2/19/20 7:00,Political Science,CAS,1,2020,1
+2/19/20 7:00,Computer Science,ENG,4,2023,4
+2/19/20 7:00,PPE,CAS,2,2021,2
+2/19/20 7:00,Finance and Computer Science,NULL,1,2021,1
+2/19/20 7:00,Business Analytics,Wharton,2,2022,2
+2/19/20 7:00,Urban Studies,CAS,1,2022,1
+2/19/20 7:00,Economics,CAS,1,2020,2
+2/19/20 7:00,Nursing,NURS,1,2021,2
+2/19/20 7:00,Communications,CAS,1,2023,1
+2/19/20 7:00,DMD,ENG,6,2021,7
+2/19/20 7:00,Cognitive Science,NULL,1,2023,1
+2/19/20 7:00,CBE,ENG,2,2022,2
+2/19/20 7:00,Statistics,Wharton,3,2021,3
+2/19/20 7:00,OIDD,Wharton,2,2020,2
+2/19/20 7:00,BBB,CAS,6,2022,6
+2/19/20 7:00,Chemistry,CAS,1,2023,1
+2/19/20 7:00,Misc,N/A,1,2020,1
+2/19/20 7:00,2022,NULL,1,N/A,1
+2/19/20 7:00,Economics,CAS,2,2023,2
+2/19/20 7:00,Computer Science,ENG,18,2022,21
+2/19/20 7:00,International Studies and Business,NULL,1,2023,1
+2/19/20 7:00,Marketing,Wharton,1,2023,1
+2/19/20 7:00,Undecided, Wharton,1,2022,1
+2/19/20 7:00,Nursing,NURS,1,2020,1
+2/19/20 7:00,Mathematical Economics,CAS,1,2021,1
+2/19/20 7:00,Cognitive Science,NULL,1,2022,1
+2/19/20 7:00,Finance,Wharton,6,2022,7
+2/19/20 7:00,Bioegineering,NULL,1,2023,1
+2/19/20 7:00,SSE,NULL,1,2020,1
+2/19/20 7:00,Neuroscience,NULL,1,2022,1
+2/19/20 7:00,BBB,CAS,1,2021,2
+2/19/20 7:00,Misc,N/A,1,2021,1
+2/19/20 7:00,CBE,ENG,2,2021,2
+2/19/20 7:00,Computer Science,ENG,15,2021,16
+2/19/20 7:00,Political Science,CAS,1,2022,1
+2/19/20 7:00,Misc,N/A,10,N/A,10
+2/19/20 7:00,Marketing,Wharton,1,2022,1
+2/19/20 7:00,Statistics,Wharton,2,2020,2
+2/19/20 7:00,Communications,CAS,1,2021,1
+2/19/20 7:00,English,CAS,1,2021,2
+2/19/20 7:00,PPE,CAS,1,2023,1
+2/19/20 7:00,Finance,Wharton,2,2021,2
+2/19/20 7:00,Mechanical Engineering,NULL,1,N/A,1
+2/19/20 7:00,Business Analytics,Wharton,2,2020,2
+2/19/20 7:00,Fine Arts,NULL,1,2021,1
+2/19/20 7:00,Nutrition,CAS,1,2022,1
+2/19/20 7:00,BBB,CAS,4,2020,4
+2/19/20 7:00,Cognitive Science,NULL,1,2021,1
+2/19/20 7:00,Systems Engineering,NULL,1,2022,1
+2/19/20 7:00,Computer Science,ENG,1,2020,1
+2/19/20 7:00,Political Science,CAS,2,2023,2
+2/19/20 7:00,Music,CAS,1,2020,1
+2/19/20 7:00,Fine Arts,NULL,1,2023,1
+2/19/20 7:00,Computer Science,ENG,1,N/A,1
+2/19/20 7:00,PPE,CAS,1,2020,1
+2/19/20 7:00,Finance,Wharton,1,2020,2
+2/19/20 7:00,Business Analytics,Wharton,2,2021,2
+2/19/20 7:00,History,CAS,1,2023,1
+2/19/20 7:00,Economics,CAS,1,2021,1
+2/19/20 7:00,Misc,N/A,4,2023,4
+2/19/20 7:00,DMD,ENG,1,2020,1
+2/19/20 7:00,CBE,ENG,2,2023,2
+2/19/20 7:00,Systems Engineering,NULL,2,2023,2
+2/19/20 7:00,GSWS,CAS,1,2020,1
+2/19/20 8:00,Political Science,CAS,1,2020,1
+2/19/20 8:00,BBB,CAS,1,2023,2
+2/19/20 8:00,Statistics,Wharton,1,2022,1
+2/19/20 8:00,Computer Science,ENG,3,2023,4
+2/19/20 8:00,PPE,CAS,2,2021,2
+2/19/20 8:00,Business Analytics,Wharton,2,2022,2
+2/19/20 8:00,CBE,ENG,1,2021,2
+2/19/20 8:00,Economics,CAS,1,2020,2
+2/19/20 8:00,Philosophy,CAS,1,2021,1
+2/19/20 8:00,DMD,ENG,6,2021,7
+2/19/20 8:00,Cognitive Science,NULL,1,2023,1
+2/19/20 8:00,CBE,ENG,1,2022,2
+2/19/20 8:00,Statistics,Wharton,3,2021,3
+2/19/20 8:00,OIDD,Wharton,2,2020,2
+2/19/20 8:00,BBB,CAS,3,2022,6
+2/19/20 8:00,Chemistry,CAS,1,2023,1
+2/19/20 8:00,Misc,N/A,1,2020,1
+2/19/20 8:00,2022,NULL,1,N/A,1
+2/19/20 8:00,Economics,CAS,2,2023,2
+2/19/20 8:00,Computer Science,ENG,18,2022,21
+2/19/20 8:00,International Studies and Business,NULL,1,2023,1
+2/19/20 8:00,Marketing,Wharton,1,2023,1
+2/19/20 8:00,Undecided, Wharton,1,2022,1
+2/19/20 8:00,Cognitive Science,NULL,1,2022,1
+2/19/20 8:00,Finance,Wharton,4,2022,7
+2/19/20 8:00,Bioegineering,NULL,1,2023,1
+2/19/20 8:00,SSE,NULL,1,2020,1
+2/19/20 8:00,BBB,CAS,1,2021,2
+2/19/20 8:00,Misc,N/A,1,2021,1
+2/19/20 8:00,Urban Studies,CAS,1,2022,1
+2/19/20 8:00,Computer Science,ENG,14,2021,16
+2/19/20 8:00,Political Science,CAS,1,2022,1
+2/19/20 8:00,Misc,N/A,10,N/A,10
+2/19/20 8:00,Marketing,Wharton,1,2022,1
+2/19/20 8:00,Statistics,Wharton,2,2020,2
+2/19/20 8:00,Communications,CAS,1,2021,1
+2/19/20 8:00,English,CAS,1,2021,2
+2/19/20 8:00,PPE,CAS,1,2023,1
+2/19/20 8:00,Finance,Wharton,2,2021,2
+2/19/20 8:00,Mechanical Engineering,NULL,1,N/A,1
+2/19/20 8:00,Business Analytics,Wharton,2,2020,2
+2/19/20 8:00,Fine Arts,NULL,1,2021,1
+2/19/20 8:00,BBB,CAS,3,2020,4
+2/19/20 8:00,Cognitive Science,NULL,1,2021,1
+2/19/20 8:00,Systems Engineering,NULL,1,2022,1
+2/19/20 8:00,Computer Science,ENG,1,2020,1
+2/19/20 8:00,Political Science,CAS,1,2023,2
+2/19/20 8:00,Music,CAS,1,2020,1
+2/19/20 8:00,Fine Arts,NULL,1,2023,1
+2/19/20 8:00,Computer Science,ENG,1,N/A,1
+2/19/20 8:00,PPE,CAS,1,2020,1
+2/19/20 8:00,Finance,Wharton,1,2020,2
+2/19/20 8:00,Business Analytics,Wharton,2,2021,2
+2/19/20 8:00,Economics,CAS,1,2021,1
+2/19/20 8:00,Misc,N/A,3,2023,4
+2/19/20 8:00,DMD,ENG,1,2020,1
+2/19/20 8:00,CBE,ENG,2,2023,2
+2/19/20 8:00,Systems Engineering,NULL,1,2023,2
+2/19/20 8:00,GSWS,CAS,1,2020,1
+2/19/20 9:00,Political Science,CAS,1,2020,1
+2/19/20 9:00,Fine Arts,NULL,1,2021,1
+2/19/20 9:00,Statistics,Wharton,1,2022,1
+2/19/20 9:00,Computer Science,ENG,2,2023,4
+2/19/20 9:00,PPE,CAS,2,2021,2
+2/19/20 9:00,Business Analytics,Wharton,1,2022,2
+2/19/20 9:00,Economics,CAS,1,2020,2
+2/19/20 9:00,Philosophy,CAS,1,2021,1
+2/19/20 9:00,DMD,ENG,5,2021,7
+2/19/20 9:00,CBE,ENG,1,2022,2
+2/19/20 9:00,Marketing,Wharton,1,2023,1
+2/19/20 9:00,OIDD,Wharton,2,2020,2
+2/19/20 9:00,BBB,CAS,2,2022,6
+2/19/20 9:00,Misc,N/A,1,2020,1
+2/19/20 9:00,Computer Science,ENG,13,2022,21
+2/19/20 9:00,International Studies and Business,NULL,1,2023,1
+2/19/20 9:00,Statistics,Wharton,1,2021,3
+2/19/20 9:00,Economics,CAS,2,2023,2
+2/19/20 9:00,Finance,Wharton,3,2022,7
+2/19/20 9:00,Bioegineering,NULL,1,2023,1
+2/19/20 9:00,SSE,NULL,1,2020,1
+2/19/20 9:00,Misc,N/A,1,2021,1
+2/19/20 9:00,CBE,ENG,1,2021,2
+2/19/20 9:00,Computer Science,ENG,12,2021,16
+2/19/20 9:00,Misc,N/A,7,N/A,10
+2/19/20 9:00,Marketing,Wharton,1,2022,1
+2/19/20 9:00,Statistics,Wharton,2,2020,2
+2/19/20 9:00,Communications,CAS,1,2021,1
+2/19/20 9:00,PPE,CAS,1,2023,1
+2/19/20 9:00,Finance,Wharton,1,2021,2
+2/19/20 9:00,Business Analytics,Wharton,2,2020,2
+2/19/20 9:00,Cognitive Science,NULL,1,2021,1
+2/19/20 9:00,Systems Engineering,NULL,1,2022,1
+2/19/20 9:00,Computer Science,ENG,1,2020,1
+2/19/20 9:00,Political Science,CAS,1,2023,2
+2/19/20 9:00,Music,CAS,1,2020,1
+2/19/20 9:00,CBE,ENG,1,2023,2
+2/19/20 9:00,PPE,CAS,1,2020,1
+2/19/20 9:00,Finance,Wharton,1,2020,2
+2/19/20 9:00,Business Analytics,Wharton,1,2021,2
+2/19/20 9:00,Economics,CAS,1,2021,1
+2/19/20 9:00,Misc,N/A,1,2023,4
+2/19/20 9:00,DMD,ENG,1,2020,1
+2/19/20 9:00,Computer Science,ENG,1,N/A,1
+2/19/20 9:00,Systems Engineering,NULL,1,2023,2
+2/19/20 9:00,GSWS,CAS,1,2020,1
+2/19/20 10:00,Political Science,CAS,1,2020,1
+2/19/20 10:00,Fine Arts,NULL,1,2021,1
+2/19/20 10:00,Statistics,Wharton,1,2022,1
+2/19/20 10:00,Computer Science,ENG,2,2023,4
+2/19/20 10:00,PPE,CAS,1,2021,2
+2/19/20 10:00,Business Analytics,Wharton,1,2022,2
+2/19/20 10:00,Philosophy,CAS,1,2021,1
+2/19/20 10:00,DMD,ENG,4,2021,7
+2/19/20 10:00,SSE,NULL,1,2020,1
+2/19/20 10:00,BBB,CAS,1,2022,6
+2/19/20 10:00,Misc,N/A,1,2020,1
+2/19/20 10:00,Computer Science,ENG,8,2022,21
+2/19/20 10:00,International Studies and Business,NULL,1,2023,1
+2/19/20 10:00,Marketing,Wharton,1,2023,1
+2/19/20 10:00,Economics,CAS,1,2023,2
+2/19/20 10:00,Finance,Wharton,2,2022,7
+2/19/20 10:00,Bioegineering,NULL,1,2023,1
+2/19/20 10:00,Misc,N/A,1,2021,1
+2/19/20 10:00,Computer Science,ENG,6,2021,16
+2/19/20 10:00,Misc,N/A,3,N/A,10
+2/19/20 10:00,Marketing,Wharton,1,2022,1
+2/19/20 10:00,PPE,CAS,1,2023,1
+2/19/20 10:00,Business Analytics,Wharton,1,2020,2
+2/19/20 10:00,Systems Engineering,NULL,1,2022,1
+2/19/20 10:00,Business Analytics,Wharton,1,2021,2
+2/19/20 10:00,Misc,N/A,1,2023,4
+2/19/20 10:00,DMD,ENG,1,2020,1
+2/19/20 10:00,CBE,ENG,1,2023,2
+2/19/20 11:00,Misc,N/A,2,N/A,10
+2/19/20 11:00,Fine Arts,NULL,1,2021,1
+2/19/20 11:00,Computer Science,ENG,1,2021,16
+2/19/20 11:00,Computer Science,ENG,7,2022,21
+2/19/20 11:00,Marketing,Wharton,1,2022,1
+2/19/20 11:00,Math,NULL,1,2022,1
+2/19/20 11:00,Economics,CAS,1,2023,2
+2/19/20 11:00,DMD,ENG,1,2021,7
+2/19/20 11:00,Finance,Wharton,2,2022,7
+2/19/20 11:00,Misc,N/A,1,2023,4
+2/19/20 11:00,DMD,ENG,1,2020,1
+2/19/20 11:00,SSE,NULL,1,2020,1
+2/19/20 12:00,Fine Arts,NULL,1,2021,1
+2/19/20 12:00,Computer Science,ENG,1,2021,16
+2/19/20 12:00,Computer Science,ENG,6,2022,21
+2/19/20 12:00,Marketing,Wharton,1,2022,1
+2/19/20 12:00,Math,NULL,1,2022,1
+2/19/20 12:00,Finance,Wharton,1,2022,7
+2/19/20 12:00,DMD,ENG,1,2020,1
+2/19/20 13:00,Fine Arts,NULL,1,2021,1
+2/19/20 13:00,Computer Science,ENG,2,2021,16
+2/19/20 13:00,Computer Science,ENG,2,2022,21
+2/19/20 13:00,Marketing,Wharton,1,2022,1
+2/19/20 13:00,Math,NULL,1,2022,1
+2/19/20 13:00,Finance,Wharton,1,2022,7
+2/19/20 14:00,Finance,Wharton,1,2022,7
+2/19/20 14:00,Computer Science,ENG,1,2022,21
+2/19/20 14:00,Fine Arts,NULL,1,2021,1
+2/19/20 14:00,Computer Science,ENG,2,2021,16
+2/19/20 14:00,Math,NULL,1,2022,1
+2/19/20 15:00,Computer Science,ENG,1,2021,16
+2/19/20 16:00,Computer Science,ENG,1,2021,16
+2/19/20 17:00,Computer Science,ENG,1,2021,16
+2/19/20 18:00,Computer Science,ENG,1,2021,16
+2/19/20 19:00,Computer Science,ENG,1,2021,16
+2/19/20 20:00,Misc,N/A,1,N/A,10
+2/19/20 20:00,Computer Science,ENG,1,2021,16
+2/19/20 21:00,Misc,N/A,1,N/A,10
+2/19/20 22:00,BBB,CAS,1,2022,6
+2/19/20 22:00,Misc,N/A,1,N/A,10
+2/19/20 22:00,Finance,Wharton,1,2020,2
+2/19/20 22:00,Economics,CAS,1,2020,2
+2/19/20 22:00,Finance and Computer Science,NULL,1,2021,1
+2/19/20 22:00,Nursing,NURS,1,2022,1
+2/19/20 22:00,BBB,CAS,1,2020,4
+2/19/20 23:00,BBB,CAS,2,2022,6
+2/19/20 23:00,Undecided,NULL,1,2023,1
+2/19/20 23:00,DMD,ENG,1,2021,7
+2/19/20 23:00,Finance,Wharton,1,2020,2
+2/19/20 23:00,Economics,CAS,1,2020,2
+2/19/20 23:00,Finance and Computer Science,NULL,1,2021,1
+2/19/20 23:00,Business Analytics,Wharton,1,2020,2
+2/19/20 23:00,Nursing,NURS,1,2022,1
+2/19/20 23:00,Nutrition,CAS,1,2022,1
+2/19/20 23:00,BBB,CAS,2,2020,4
+2/19/20 23:00,Misc,N/A,1,2022,1
+2/20/20 0:00,BBB,CAS,2,2023,2
+2/20/20 0:00,Business Analytics,Wharton,1,2022,2
+2/20/20 0:00,CBE,ENG,1,2021,2
+2/20/20 0:00,Economics,CAS,1,2020,2
+2/20/20 0:00,DMD,ENG,3,2021,7
+2/20/20 0:00,CBE,ENG,1,2022,2
+2/20/20 0:00,Political Science,CAS,1,2021,2
+2/20/20 0:00,BBB,CAS,2,2022,6
+2/20/20 0:00,Computer Science,ENG,1,2022,21
+2/20/20 0:00,Statistics,Wharton,2,2021,3
+2/20/20 0:00,Economics,CAS,1,2023,2
+2/20/20 0:00,Nursing,NURS,1,2020,1
+2/20/20 0:00,Finance,Wharton,1,2022,7
+2/20/20 0:00,Misc,N/A,1,2021,1
+2/20/20 0:00,Urban Studies,CAS,1,2022,1
+2/20/20 0:00,Computer Science,ENG,3,2021,16
+2/20/20 0:00,Political Science,CAS,1,2022,1
+2/20/20 0:00,Misc,N/A,1,N/A,10
+2/20/20 0:00,Communications,CAS,1,2021,1
+2/20/20 0:00,English,CAS,1,2021,2
+2/20/20 0:00,Finance,Wharton,1,2021,2
+2/20/20 0:00,Finance and Computer Science,NULL,1,2021,1
+2/20/20 0:00,Business Analytics,Wharton,1,2020,2
+2/20/20 0:00,Nutrition,CAS,1,2022,1
+2/20/20 0:00,BBB,CAS,2,2020,4
+2/20/20 0:00,Misc,N/A,1,2022,1
+2/20/20 0:00,Undecided,NULL,1,2023,1
+2/20/20 0:00,PPE,CAS,1,2020,1
+2/20/20 0:00,Finance,Wharton,1,2020,2
+2/20/20 0:00,Nursing,NURS,1,2022,1
+2/20/20 0:00,Misc,N/A,1,2023,4
+2/20/20 0:00,Systems Engineering,NULL,1,2023,2
+2/20/20 0:00,GSWS,CAS,1,2020,1
+2/20/20 1:00,Nutrition,CAS,1,2021,1
+2/20/20 1:00,BBB,CAS,2,2023,2
+2/20/20 1:00,Nutrition,CAS,1,2022,1
+2/20/20 1:00,Computer Science,ENG,2,2023,4
+2/20/20 1:00,Business Analytics,Wharton,1,2022,2
+2/20/20 1:00,Urban Studies,CAS,1,2022,1
+2/20/20 1:00,Economics,CAS,1,2020,2
+2/20/20 1:00,Nursing,NURS,1,2021,2
+2/20/20 1:00,DMD,ENG,3,2021,7
+2/20/20 1:00,Cognitive Science,NULL,1,2023,1
+2/20/20 1:00,CBE,ENG,2,2022,2
+2/20/20 1:00,Political Science,CAS,1,2021,2
+2/20/20 1:00,OIDD,Wharton,2,2020,2
+2/20/20 1:00,BBB,CAS,6,2022,6
+2/20/20 1:00,Chemistry,CAS,1,2023,1
+2/20/20 1:00,Computer Science,ENG,5,2022,21
+2/20/20 1:00,International Studies and Business,NULL,1,2023,1
+2/20/20 1:00,Statistics,Wharton,3,2021,3
+2/20/20 1:00,Economics,CAS,1,2023,2
+2/20/20 1:00,Mathematical Economics,CAS,1,2021,1
+2/20/20 1:00,Finance,Wharton,3,2022,7
+2/20/20 1:00,SSE,NULL,1,2020,1
+2/20/20 1:00,Neuroscience,NULL,1,2022,1
+2/20/20 1:00,BBB,CAS,1,2021,2
+2/20/20 1:00,Misc,N/A,1,2021,1
+2/20/20 1:00,CBE,ENG,2,2021,2
+2/20/20 1:00,Computer Science,ENG,7,2021,16
+2/20/20 1:00,Political Science,CAS,1,2022,1
+2/20/20 1:00,Misc,N/A,3,N/A,10
+2/20/20 1:00,Statistics,Wharton,2,2020,2
+2/20/20 1:00,Communications,CAS,1,2021,1
+2/20/20 1:00,English,CAS,1,2021,2
+2/20/20 1:00,Finance,Wharton,1,2021,2
+2/20/20 1:00,Finance and Computer Science,NULL,1,2021,1
+2/20/20 1:00,Business Analytics,Wharton,2,2020,2
+2/20/20 1:00,Political Science,CAS,2,2023,2
+2/20/20 1:00,BBB,CAS,2,2020,4
+2/20/20 1:00,Misc,N/A,1,2022,1
+2/20/20 1:00,Computer Science,ENG,1,2020,1
+2/20/20 1:00,Undecided,NULL,1,2023,1
+2/20/20 1:00,Music,CAS,1,2020,1
+2/20/20 1:00,PPE,CAS,1,2020,1
+2/20/20 1:00,Finance,Wharton,2,2020,2
+2/20/20 1:00,Business Analytics,Wharton,1,2021,2
+2/20/20 1:00,History,CAS,1,2023,1
+2/20/20 1:00,Economics,CAS,1,2021,1
+2/20/20 1:00,Misc,N/A,2,2023,4
+2/20/20 1:00,CBE,ENG,1,2023,2
+2/20/20 1:00,Systems Engineering,NULL,1,2023,2
+2/20/20 1:00,GSWS,CAS,1,2020,1
+2/20/20 2:00,Nutrition,CAS,1,2021,1
+2/20/20 2:00,BBB,CAS,2,2023,2
+2/20/20 2:00,Political Science,CAS,1,2020,1
+2/20/20 2:00,Nutrition,CAS,1,2022,1
+2/20/20 2:00,Computer Science,ENG,4,2023,4
+2/20/20 2:00,PPE,CAS,1,2021,2
+2/20/20 2:00,Business Analytics,Wharton,2,2022,2
+2/20/20 2:00,Urban Studies,CAS,1,2022,1
+2/20/20 2:00,Economics,CAS,2,2020,2
+2/20/20 2:00,Nursing,NURS,1,2021,2
+2/20/20 2:00,Communications,CAS,1,2023,1
+2/20/20 2:00,DMD,ENG,5,2021,7
+2/20/20 2:00,Cognitive Science,NULL,1,2023,1
+2/20/20 2:00,CBE,ENG,2,2022,2
+2/20/20 2:00,Statistics,Wharton,3,2021,3
+2/20/20 2:00,Political Science,CAS,1,2021,2
+2/20/20 2:00,OIDD,Wharton,2,2020,2
+2/20/20 2:00,BBB,CAS,6,2022,6
+2/20/20 2:00,Chemistry,CAS,1,2023,1
+2/20/20 2:00,Misc,N/A,1,2020,1
+2/20/20 2:00,Computer Science,ENG,6,2022,21
+2/20/20 2:00,International Studies and Business,NULL,1,2023,1
+2/20/20 2:00,Marketing,Wharton,1,2023,1
+2/20/20 2:00,Economics,CAS,2,2023,2
+2/20/20 2:00,Nursing,NURS,1,2020,1
+2/20/20 2:00,Mathematical Economics,CAS,1,2021,1
+2/20/20 2:00,Finance,Wharton,4,2022,7
+2/20/20 2:00,SSE,NULL,1,2020,1
+2/20/20 2:00,Neuroscience,NULL,1,2022,1
+2/20/20 2:00,BBB,CAS,1,2021,2
+2/20/20 2:00,Misc,N/A,1,2021,1
+2/20/20 2:00,CBE,ENG,2,2021,2
+2/20/20 2:00,Computer Science,ENG,13,2021,16
+2/20/20 2:00,Political Science,CAS,1,2022,1
+2/20/20 2:00,Misc,N/A,7,N/A,10
+2/20/20 2:00,Statistics,Wharton,2,2020,2
+2/20/20 2:00,Communications,CAS,1,2021,1
+2/20/20 2:00,English,CAS,1,2021,2
+2/20/20 2:00,Philosophy,CAS,1,2021,1
+2/20/20 2:00,Finance,Wharton,1,2021,2
+2/20/20 2:00,Finance and Computer Science,NULL,1,2021,1
+2/20/20 2:00,Business Analytics,Wharton,2,2020,2
+2/20/20 2:00,Political Science,CAS,2,2023,2
+2/20/20 2:00,BBB,CAS,4,2020,4
+2/20/20 2:00,Misc,N/A,1,2022,1
+2/20/20 2:00,Cognitive Science,NULL,1,2021,1
+2/20/20 2:00,Computer Science,ENG,1,2020,1
+2/20/20 2:00,Undecided,NULL,1,2023,1
+2/20/20 2:00,Music,CAS,1,2020,1
+2/20/20 2:00,Fine Arts,NULL,1,2023,1
+2/20/20 2:00,PPE,CAS,1,2020,1
+2/20/20 2:00,Finance,Wharton,2,2020,2
+2/20/20 2:00,Business Analytics,Wharton,2,2021,2
+2/20/20 2:00,History,CAS,1,2023,1
+2/20/20 2:00,Economics,CAS,1,2021,1
+2/20/20 2:00,Misc,N/A,2,2023,4
+2/20/20 2:00,CBE,ENG,2,2023,2
+2/20/20 2:00,Systems Engineering,NULL,2,2023,2
+2/20/20 2:00,GSWS,CAS,1,2020,1
+2/20/20 3:00,Nutrition,CAS,1,2021,1
+2/20/20 3:00,BBB,CAS,2,2023,2
+2/20/20 3:00,Philosophy,CAS,1,2021,1
+2/20/20 3:00,Statistics,Wharton,1,2022,1
+2/20/20 3:00,Political Science,CAS,1,2020,1
+2/20/20 3:00,Nutrition,CAS,1,2022,1
+2/20/20 3:00,Computer Science,ENG,4,2023,4
+2/20/20 3:00,PPE,CAS,2,2021,2
+2/20/20 3:00,Finance and Computer Science,NULL,1,2021,1
+2/20/20 3:00,Business Analytics,Wharton,2,2022,2
+2/20/20 3:00,Urban Studies,CAS,1,2022,1
+2/20/20 3:00,Economics,CAS,2,2020,2
+2/20/20 3:00,Nursing,NURS,1,2021,2
+2/20/20 3:00,Communications,CAS,1,2023,1
+2/20/20 3:00,DMD,ENG,7,2021,7
+2/20/20 3:00,Cognitive Science,NULL,1,2023,1
+2/20/20 3:00,CBE,ENG,2,2022,2
+2/20/20 3:00,Statistics,Wharton,3,2021,3
+2/20/20 3:00,Political Science,CAS,1,2021,2
+2/20/20 3:00,OIDD,Wharton,2,2020,2
+2/20/20 3:00,BBB,CAS,6,2022,6
+2/20/20 3:00,Chemistry,CAS,1,2023,1
+2/20/20 3:00,Misc,N/A,1,2020,1
+2/20/20 3:00,2022,NULL,1,N/A,1
+2/20/20 3:00,Economics,CAS,2,2023,2
+2/20/20 3:00,Computer Science,ENG,13,2022,21
+2/20/20 3:00,International Studies and Business,NULL,1,2023,1
+2/20/20 3:00,Marketing,Wharton,1,2023,1
+2/20/20 3:00,Undecided, Wharton,1,2022,1
+2/20/20 3:00,Nursing,NURS,1,2020,1
+2/20/20 3:00,Mathematical Economics,CAS,1,2021,1
+2/20/20 3:00,Cognitive Science,NULL,1,2022,1
+2/20/20 3:00,Finance,Wharton,6,2022,7
+2/20/20 3:00,Bioegineering,NULL,1,2023,1
+2/20/20 3:00,SSE,NULL,1,2020,1
+2/20/20 3:00,Neuroscience,NULL,1,2022,1
+2/20/20 3:00,BBB,CAS,1,2021,2
+2/20/20 3:00,Misc,N/A,1,2021,1
+2/20/20 3:00,CBE,ENG,2,2021,2
+2/20/20 3:00,Computer Science,ENG,13,2021,16
+2/20/20 3:00,Political Science,CAS,1,2022,1
+2/20/20 3:00,Misc,N/A,9,N/A,10
+2/20/20 3:00,Statistics,Wharton,2,2020,2
+2/20/20 3:00,Communications,CAS,1,2021,1
+2/20/20 3:00,English,CAS,1,2021,2
+2/20/20 3:00,PPE,CAS,1,2023,1
+2/20/20 3:00,Finance,Wharton,2,2021,2
+2/20/20 3:00,Mechanical Engineering,NULL,1,N/A,1
+2/20/20 3:00,Business Analytics,Wharton,2,2020,2
+2/20/20 3:00,Political Science,CAS,2,2023,2
+2/20/20 3:00,BBB,CAS,4,2020,4
+2/20/20 3:00,Misc,N/A,1,2022,1
+2/20/20 3:00,Cognitive Science,NULL,1,2021,1
+2/20/20 3:00,Systems Engineering,NULL,1,2022,1
+2/20/20 3:00,Computer Science,ENG,1,2020,1
+2/20/20 3:00,Undecided,NULL,1,2023,1
+2/20/20 3:00,Music,CAS,1,2020,1
+2/20/20 3:00,Fine Arts,NULL,1,2023,1
+2/20/20 3:00,PPE,CAS,1,2020,1
+2/20/20 3:00,Finance,Wharton,2,2020,2
+2/20/20 3:00,Business Analytics,Wharton,2,2021,2
+2/20/20 3:00,History,CAS,1,2023,1
+2/20/20 3:00,Economics,CAS,1,2021,1
+2/20/20 3:00,Misc,N/A,2,2023,4
+2/20/20 3:00,DMD,ENG,1,2020,1
+2/20/20 3:00,CBE,ENG,2,2023,2
+2/20/20 3:00,Systems Engineering,NULL,2,2023,2
+2/20/20 3:00,GSWS,CAS,1,2020,1
+2/20/20 4:00,Nutrition,CAS,1,2021,1
+2/20/20 4:00,BBB,CAS,2,2023,2
+2/20/20 4:00,Philosophy,CAS,1,2021,1
+2/20/20 4:00,Statistics,Wharton,1,2022,1
+2/20/20 4:00,Political Science,CAS,1,2020,1
+2/20/20 4:00,Nutrition,CAS,1,2022,1
+2/20/20 4:00,Computer Science,ENG,4,2023,4
+2/20/20 4:00,PPE,CAS,2,2021,2
+2/20/20 4:00,Finance and Computer Science,NULL,1,2021,1
+2/20/20 4:00,Business Analytics,Wharton,2,2022,2
+2/20/20 4:00,Urban Studies,CAS,1,2022,1
+2/20/20 4:00,Economics,CAS,2,2020,2
+2/20/20 4:00,Nursing,NURS,1,2021,2
+2/20/20 4:00,Communications,CAS,1,2023,1
+2/20/20 4:00,DMD,ENG,7,2021,7
+2/20/20 4:00,Cognitive Science,NULL,1,2023,1
+2/20/20 4:00,CBE,ENG,2,2022,2
+2/20/20 4:00,Statistics,Wharton,3,2021,3
+2/20/20 4:00,Political Science,CAS,1,2021,2
+2/20/20 4:00,OIDD,Wharton,2,2020,2
+2/20/20 4:00,BBB,CAS,6,2022,6
+2/20/20 4:00,Chemistry,CAS,1,2023,1
+2/20/20 4:00,Misc,N/A,1,2020,1
+2/20/20 4:00,2022,NULL,1,N/A,1
+2/20/20 4:00,Economics,CAS,2,2023,2
+2/20/20 4:00,Computer Science,ENG,18,2022,21
+2/20/20 4:00,International Studies and Business,NULL,1,2023,1
+2/20/20 4:00,Marketing,Wharton,1,2023,1
+2/20/20 4:00,Undecided, Wharton,1,2022,1
+2/20/20 4:00,Nursing,NURS,1,2020,1
+2/20/20 4:00,Mathematical Economics,CAS,1,2021,1
+2/20/20 4:00,Cognitive Science,NULL,1,2022,1
+2/20/20 4:00,Finance,Wharton,6,2022,7
+2/20/20 4:00,Bioegineering,NULL,1,2023,1
+2/20/20 4:00,SSE,NULL,1,2020,1
+2/20/20 4:00,Neuroscience,NULL,1,2022,1
+2/20/20 4:00,BBB,CAS,1,2021,2
+2/20/20 4:00,Misc,N/A,1,2021,1
+2/20/20 4:00,CBE,ENG,2,2021,2
+2/20/20 4:00,Computer Science,ENG,15,2021,16
+2/20/20 4:00,Political Science,CAS,1,2022,1
+2/20/20 4:00,Misc,N/A,9,N/A,10
+2/20/20 4:00,Marketing,Wharton,1,2022,1
+2/20/20 4:00,Statistics,Wharton,2,2020,2
+2/20/20 4:00,Communications,CAS,1,2021,1
+2/20/20 4:00,English,CAS,1,2021,2
+2/20/20 4:00,PPE,CAS,1,2023,1
+2/20/20 4:00,Finance,Wharton,2,2021,2
+2/20/20 4:00,Mechanical Engineering,NULL,1,N/A,1
+2/20/20 4:00,Business Analytics,Wharton,2,2020,2
+2/20/20 4:00,Fine Arts,NULL,1,2021,1
+2/20/20 4:00,Political Science,CAS,2,2023,2
+2/20/20 4:00,BBB,CAS,4,2020,4
+2/20/20 4:00,Misc,N/A,1,2022,1
+2/20/20 4:00,Cognitive Science,NULL,1,2021,1
+2/20/20 4:00,Systems Engineering,NULL,1,2022,1
+2/20/20 4:00,Computer Science,ENG,1,2020,1
+2/20/20 4:00,Undecided,NULL,1,2023,1
+2/20/20 4:00,Music,CAS,1,2020,1
+2/20/20 4:00,Fine Arts,NULL,1,2023,1
+2/20/20 4:00,Computer Science,ENG,1,N/A,1
+2/20/20 4:00,PPE,CAS,1,2020,1
+2/20/20 4:00,Finance,Wharton,2,2020,2
+2/20/20 4:00,Business Analytics,Wharton,2,2021,2
+2/20/20 4:00,History,CAS,1,2023,1
+2/20/20 4:00,Economics,CAS,1,2021,1
+2/20/20 4:00,Misc,N/A,4,2023,4
+2/20/20 4:00,DMD,ENG,1,2020,1
+2/20/20 4:00,CBE,ENG,2,2023,2
+2/20/20 4:00,Systems Engineering,NULL,2,2023,2
+2/20/20 4:00,GSWS,CAS,1,2020,1
+2/20/20 5:00,Nutrition,CAS,1,2021,1
+2/20/20 5:00,BBB,CAS,2,2023,2
+2/20/20 5:00,Philosophy,CAS,1,2021,1
+2/20/20 5:00,Statistics,Wharton,1,2022,1
+2/20/20 5:00,Political Science,CAS,1,2020,1
+2/20/20 5:00,Nutrition,CAS,1,2022,1
+2/20/20 5:00,Computer Science,ENG,4,2023,4
+2/20/20 5:00,PPE,CAS,2,2021,2
+2/20/20 5:00,Finance and Computer Science,NULL,1,2021,1
+2/20/20 5:00,Business Analytics,Wharton,2,2022,2
+2/20/20 5:00,Urban Studies,CAS,1,2022,1
+2/20/20 5:00,Economics,CAS,2,2020,2
+2/20/20 5:00,Nursing,NURS,1,2021,2
+2/20/20 5:00,Communications,CAS,1,2023,1
+2/20/20 5:00,DMD,ENG,7,2021,7
+2/20/20 5:00,Cognitive Science,NULL,1,2023,1
+2/20/20 5:00,CBE,ENG,2,2022,2
+2/20/20 5:00,Statistics,Wharton,3,2021,3
+2/20/20 5:00,Political Science,CAS,1,2021,2
+2/20/20 5:00,OIDD,Wharton,2,2020,2
+2/20/20 5:00,BBB,CAS,6,2022,6
+2/20/20 5:00,Chemistry,CAS,1,2023,1
+2/20/20 5:00,Misc,N/A,1,2020,1
+2/20/20 5:00,2022,NULL,1,N/A,1
+2/20/20 5:00,Economics,CAS,2,2023,2
+2/20/20 5:00,Computer Science,ENG,17,2022,21
+2/20/20 5:00,International Studies and Business,NULL,1,2023,1
+2/20/20 5:00,Marketing,Wharton,1,2023,1
+2/20/20 5:00,Undecided, Wharton,1,2022,1
+2/20/20 5:00,Nursing,NURS,1,2020,1
+2/20/20 5:00,Mathematical Economics,CAS,1,2021,1
+2/20/20 5:00,Cognitive Science,NULL,1,2022,1
+2/20/20 5:00,Finance,Wharton,6,2022,7
+2/20/20 5:00,Bioegineering,NULL,1,2023,1
+2/20/20 5:00,SSE,NULL,1,2020,1
+2/20/20 5:00,Neuroscience,NULL,1,2022,1
+2/20/20 5:00,BBB,CAS,1,2021,2
+2/20/20 5:00,Misc,N/A,1,2021,1
+2/20/20 5:00,CBE,ENG,2,2021,2
+2/20/20 5:00,Computer Science,ENG,15,2021,16
+2/20/20 5:00,Political Science,CAS,1,2022,1
+2/20/20 5:00,Misc,N/A,9,N/A,10
+2/20/20 5:00,Marketing,Wharton,1,2022,1
+2/20/20 5:00,Statistics,Wharton,2,2020,2
+2/20/20 5:00,Communications,CAS,1,2021,1
+2/20/20 5:00,English,CAS,1,2021,2
+2/20/20 5:00,PPE,CAS,1,2023,1
+2/20/20 5:00,Finance,Wharton,2,2021,2
+2/20/20 5:00,Mechanical Engineering,NULL,1,N/A,1
+2/20/20 5:00,Business Analytics,Wharton,2,2020,2
+2/20/20 5:00,Fine Arts,NULL,1,2021,1
+2/20/20 5:00,Political Science,CAS,2,2023,2
+2/20/20 5:00,BBB,CAS,4,2020,4
+2/20/20 5:00,Misc,N/A,1,2022,1
+2/20/20 5:00,Cognitive Science,NULL,1,2021,1
+2/20/20 5:00,Systems Engineering,NULL,1,2022,1
+2/20/20 5:00,Computer Science,ENG,1,2020,1
+2/20/20 5:00,Undecided,NULL,1,2023,1
+2/20/20 5:00,Music,CAS,1,2020,1
+2/20/20 5:00,Fine Arts,NULL,1,2023,1
+2/20/20 5:00,Computer Science,ENG,1,N/A,1
+2/20/20 5:00,PPE,CAS,1,2020,1
+2/20/20 5:00,Finance,Wharton,2,2020,2
+2/20/20 5:00,Business Analytics,Wharton,2,2021,2
+2/20/20 5:00,History,CAS,1,2023,1
+2/20/20 5:00,Economics,CAS,1,2021,1
+2/20/20 5:00,Misc,N/A,4,2023,4
+2/20/20 5:00,DMD,ENG,1,2020,1
+2/20/20 5:00,CBE,ENG,2,2023,2
+2/20/20 5:00,Systems Engineering,NULL,2,2023,2
+2/20/20 5:00,GSWS,CAS,1,2020,1
+2/20/20 6:00,PPE,CAS,1,2020,1
+2/20/20 6:00,Nutrition,CAS,1,2021,1
+2/20/20 6:00,BBB,CAS,2,2023,2
+2/20/20 6:00,Philosophy,CAS,1,2021,1
+2/20/20 6:00,Statistics,Wharton,1,2022,1
+2/20/20 6:00,Political Science,CAS,1,2020,1
+2/20/20 6:00,Nutrition,CAS,1,2022,1
+2/20/20 6:00,Computer Science,ENG,4,2023,4
+2/20/20 6:00,PPE,CAS,2,2021,2
+2/20/20 6:00,Finance and Computer Science,NULL,1,2021,1
+2/20/20 6:00,Business Analytics,Wharton,2,2022,2
+2/20/20 6:00,Urban Studies,CAS,1,2022,1
+2/20/20 6:00,Economics,CAS,2,2020,2
+2/20/20 6:00,Nursing,NURS,1,2021,2
+2/20/20 6:00,Communications,CAS,1,2023,1
+2/20/20 6:00,DMD,ENG,7,2021,7
+2/20/20 6:00,Cognitive Science,NULL,1,2023,1
+2/20/20 6:00,CBE,ENG,2,2022,2
+2/20/20 6:00,Marketing,Wharton,1,2023,1
+2/20/20 6:00,Political Science,CAS,1,2021,2
+2/20/20 6:00,OIDD,Wharton,2,2020,2
+2/20/20 6:00,BBB,CAS,6,2022,6
+2/20/20 6:00,Chemistry,CAS,1,2023,1
+2/20/20 6:00,Misc,N/A,1,2020,1
+2/20/20 6:00,2022,NULL,1,N/A,1
+2/20/20 6:00,Economics,CAS,2,2023,2
+2/20/20 6:00,Computer Science,ENG,18,2022,21
+2/20/20 6:00,International Studies and Business,NULL,1,2023,1
+2/20/20 6:00,Math,NULL,1,2022,1
+2/20/20 6:00,Undecided, Wharton,1,2022,1
+2/20/20 6:00,Mathematical Economics,CAS,1,2021,1
+2/20/20 6:00,Cognitive Science,NULL,1,2022,1
+2/20/20 6:00,Finance,Wharton,7,2022,7
+2/20/20 6:00,Bioegineering,NULL,1,2023,1
+2/20/20 6:00,SSE,NULL,1,2020,1
+2/20/20 6:00,Neuroscience,NULL,1,2022,1
+2/20/20 6:00,BBB,CAS,1,2021,2
+2/20/20 6:00,Misc,N/A,1,2021,1
+2/20/20 6:00,CBE,ENG,2,2021,2
+2/20/20 6:00,Computer Science,ENG,15,2021,16
+2/20/20 6:00,Political Science,CAS,1,2022,1
+2/20/20 6:00,Misc,N/A,10,N/A,10
+2/20/20 6:00,Marketing,Wharton,1,2022,1
+2/20/20 6:00,Statistics,Wharton,2,2020,2
+2/20/20 6:00,Communications,CAS,1,2021,1
+2/20/20 6:00,English,CAS,1,2021,2
+2/20/20 6:00,PPE,CAS,1,2023,1
+2/20/20 6:00,Finance,Wharton,2,2021,2
+2/20/20 6:00,Mechanical Engineering,NULL,1,N/A,1
+2/20/20 6:00,Business Analytics,Wharton,2,2020,2
+2/20/20 6:00,Fine Arts,NULL,1,2021,1
+2/20/20 6:00,Political Science,CAS,2,2023,2
+2/20/20 6:00,BBB,CAS,4,2020,4
+2/20/20 6:00,Misc,N/A,1,2022,1
+2/20/20 6:00,Cognitive Science,NULL,1,2021,1
+2/20/20 6:00,Systems Engineering,NULL,1,2022,1
+2/20/20 6:00,Computer Science,ENG,1,2020,1
+2/20/20 6:00,Undecided,NULL,1,2023,1
+2/20/20 6:00,Music,CAS,1,2020,1
+2/20/20 6:00,Fine Arts,NULL,1,2023,1
+2/20/20 6:00,Computer Science,ENG,1,N/A,1
+2/20/20 6:00,Statistics,Wharton,3,2021,3
+2/20/20 6:00,Finance,Wharton,2,2020,2
+2/20/20 6:00,Business Analytics,Wharton,2,2021,2
+2/20/20 6:00,History,CAS,1,2023,1
+2/20/20 6:00,Economics,CAS,1,2021,1
+2/20/20 6:00,Misc,N/A,4,2023,4
+2/20/20 6:00,DMD,ENG,1,2020,1
+2/20/20 6:00,CBE,ENG,2,2023,2
+2/20/20 6:00,Systems Engineering,NULL,2,2023,2
+2/20/20 6:00,GSWS,CAS,1,2020,1
+2/20/20 7:00,Political Science,CAS,1,2020,1
+2/20/20 7:00,BBB,CAS,2,2023,2
+2/20/20 7:00,Philosophy,CAS,1,2021,1
+2/20/20 7:00,Statistics,Wharton,1,2022,1
+2/20/20 7:00,Computer Science,ENG,4,2023,4
+2/20/20 7:00,PPE,CAS,2,2021,2
+2/20/20 7:00,Finance and Computer Science,NULL,1,2021,1
+2/20/20 7:00,Business Analytics,Wharton,2,2022,2
+2/20/20 7:00,Urban Studies,CAS,1,2022,1
+2/20/20 7:00,Economics,CAS,1,2020,2
+2/20/20 7:00,Chemistry,CAS,1,2023,1
+2/20/20 7:00,Communications,CAS,1,2023,1
+2/20/20 7:00,DMD,ENG,6,2021,7
+2/20/20 7:00,Cognitive Science,NULL,1,2023,1
+2/20/20 7:00,CBE,ENG,2,2022,2
+2/20/20 7:00,Math,NULL,1,2022,1
+2/20/20 7:00,Political Science,CAS,1,2021,2
+2/20/20 7:00,OIDD,Wharton,2,2020,2
+2/20/20 7:00,BBB,CAS,6,2022,6
+2/20/20 7:00,Marketing,Wharton,1,2023,1
+2/20/20 7:00,Misc,N/A,1,2020,1
+2/20/20 7:00,2022,NULL,1,N/A,1
+2/20/20 7:00,Economics,CAS,2,2023,2
+2/20/20 7:00,Computer Science,ENG,19,2022,21
+2/20/20 7:00,International Studies and Business,NULL,1,2023,1
+2/20/20 7:00,Statistics,Wharton,3,2021,3
+2/20/20 7:00,Undecided, Wharton,1,2022,1
+2/20/20 7:00,Mathematical Economics,CAS,1,2021,1
+2/20/20 7:00,Cognitive Science,NULL,1,2022,1
+2/20/20 7:00,Finance,Wharton,7,2022,7
+2/20/20 7:00,Bioegineering,NULL,1,2023,1
+2/20/20 7:00,SSE,NULL,1,2020,1
+2/20/20 7:00,Neuroscience,NULL,1,2022,1
+2/20/20 7:00,BBB,CAS,1,2021,2
+2/20/20 7:00,Misc,N/A,1,2021,1
+2/20/20 7:00,CBE,ENG,2,2021,2
+2/20/20 7:00,Computer Science,ENG,15,2021,16
+2/20/20 7:00,Political Science,CAS,1,2022,1
+2/20/20 7:00,Misc,N/A,10,N/A,10
+2/20/20 7:00,Marketing,Wharton,1,2022,1
+2/20/20 7:00,Statistics,Wharton,2,2020,2
+2/20/20 7:00,Communications,CAS,1,2021,1
+2/20/20 7:00,English,CAS,1,2021,2
+2/20/20 7:00,PPE,CAS,1,2023,1
+2/20/20 7:00,Finance,Wharton,2,2021,2
+2/20/20 7:00,Mechanical Engineering,NULL,1,N/A,1
+2/20/20 7:00,Business Analytics,Wharton,2,2020,2
+2/20/20 7:00,Fine Arts,NULL,1,2021,1
+2/20/20 7:00,Nutrition,CAS,1,2022,1
+2/20/20 7:00,BBB,CAS,4,2020,4
+2/20/20 7:00,Cognitive Science,NULL,1,2021,1
+2/20/20 7:00,Systems Engineering,NULL,1,2022,1
+2/20/20 7:00,Computer Science,ENG,1,2020,1
+2/20/20 7:00,Political Science,CAS,2,2023,2
+2/20/20 7:00,Music,CAS,1,2020,1
+2/20/20 7:00,Fine Arts,NULL,1,2023,1
+2/20/20 7:00,Computer Science,ENG,1,N/A,1
+2/20/20 7:00,PPE,CAS,1,2020,1
+2/20/20 7:00,Finance,Wharton,1,2020,2
+2/20/20 7:00,Business Analytics,Wharton,2,2021,2
+2/20/20 7:00,History,CAS,1,2023,1
+2/20/20 7:00,Economics,CAS,1,2021,1
+2/20/20 7:00,Misc,N/A,4,2023,4
+2/20/20 7:00,DMD,ENG,1,2020,1
+2/20/20 7:00,CBE,ENG,2,2023,2
+2/20/20 7:00,Systems Engineering,NULL,2,2023,2
+2/20/20 7:00,GSWS,CAS,1,2020,1
+2/20/20 8:00,Political Science,CAS,1,2020,1
+2/20/20 8:00,BBB,CAS,1,2023,2
+2/20/20 8:00,Statistics,Wharton,1,2022,1
+2/20/20 8:00,Computer Science,ENG,3,2023,4
+2/20/20 8:00,PPE,CAS,2,2021,2
+2/20/20 8:00,Business Analytics,Wharton,2,2022,2
+2/20/20 8:00,Fine Arts,NULL,1,2021,1
+2/20/20 8:00,Economics,CAS,1,2020,2
+2/20/20 8:00,Philosophy,CAS,1,2021,1
+2/20/20 8:00,DMD,ENG,6,2021,7
+2/20/20 8:00,Cognitive Science,NULL,1,2023,1
+2/20/20 8:00,Marketing,Wharton,1,2023,1
+2/20/20 8:00,Political Science,CAS,1,2021,2
+2/20/20 8:00,OIDD,Wharton,2,2020,2
+2/20/20 8:00,BBB,CAS,5,2022,6
+2/20/20 8:00,Chemistry,CAS,1,2023,1
+2/20/20 8:00,Misc,N/A,1,2020,1
+2/20/20 8:00,2022,NULL,1,N/A,1
+2/20/20 8:00,Economics,CAS,2,2023,2
+2/20/20 8:00,Computer Science,ENG,17,2022,21
+2/20/20 8:00,Statistics,Wharton,1,2021,3
+2/20/20 8:00,International Studies and Business,NULL,1,2023,1
+2/20/20 8:00,Math,NULL,1,2022,1
+2/20/20 8:00,Undecided, Wharton,1,2022,1
+2/20/20 8:00,Cognitive Science,NULL,1,2022,1
+2/20/20 8:00,Finance,Wharton,4,2022,7
+2/20/20 8:00,Business Analytics,Wharton,1,2021,2
+2/20/20 8:00,SSE,NULL,1,2020,1
+2/20/20 8:00,Neuroscience,NULL,1,2022,1
+2/20/20 8:00,BBB,CAS,1,2021,2
+2/20/20 8:00,Misc,N/A,1,2021,1
+2/20/20 8:00,Urban Studies,CAS,1,2022,1
+2/20/20 8:00,Computer Science,ENG,13,2021,16
+2/20/20 8:00,Political Science,CAS,1,2022,1
+2/20/20 8:00,Misc,N/A,9,N/A,10
+2/20/20 8:00,Marketing,Wharton,1,2022,1
+2/20/20 8:00,Statistics,Wharton,2,2020,2
+2/20/20 8:00,Communications,CAS,1,2021,1
+2/20/20 8:00,English,CAS,1,2021,2
+2/20/20 8:00,PPE,CAS,1,2023,1
+2/20/20 8:00,Finance,Wharton,2,2021,2
+2/20/20 8:00,Mechanical Engineering,NULL,1,N/A,1
+2/20/20 8:00,Business Analytics,Wharton,2,2020,2
+2/20/20 8:00,BBB,CAS,2,2020,4
+2/20/20 8:00,Cognitive Science,NULL,1,2021,1
+2/20/20 8:00,Systems Engineering,NULL,1,2022,1
+2/20/20 8:00,Computer Science,ENG,1,2020,1
+2/20/20 8:00,Political Science,CAS,2,2023,2
+2/20/20 8:00,Music,CAS,1,2020,1
+2/20/20 8:00,Fine Arts,NULL,1,2023,1
+2/20/20 8:00,Computer Science,ENG,1,N/A,1
+2/20/20 8:00,PPE,CAS,1,2020,1
+2/20/20 8:00,Finance,Wharton,1,2020,2
+2/20/20 8:00,Bioegineering,NULL,1,2023,1
+2/20/20 8:00,History,CAS,1,2023,1
+2/20/20 8:00,Economics,CAS,1,2021,1
+2/20/20 8:00,Misc,N/A,2,2023,4
+2/20/20 8:00,DMD,ENG,1,2020,1
+2/20/20 8:00,CBE,ENG,2,2023,2
+2/20/20 8:00,Systems Engineering,NULL,2,2023,2
+2/20/20 8:00,GSWS,CAS,1,2020,1
+2/20/20 9:00,BBB,CAS,1,2023,2
+2/20/20 9:00,Statistics,Wharton,1,2022,1
+2/20/20 9:00,Computer Science,ENG,1,2023,4
+2/20/20 9:00,PPE,CAS,2,2021,2
+2/20/20 9:00,Business Analytics,Wharton,1,2022,2
+2/20/20 9:00,Fine Arts,NULL,1,2021,1
+2/20/20 9:00,Economics,CAS,1,2020,2
+2/20/20 9:00,Philosophy,CAS,1,2021,1
+2/20/20 9:00,DMD,ENG,4,2021,7
+2/20/20 9:00,OIDD,Wharton,2,2020,2
+2/20/20 9:00,BBB,CAS,3,2022,6
+2/20/20 9:00,Chemistry,CAS,1,2023,1
+2/20/20 9:00,Misc,N/A,1,2020,1
+2/20/20 9:00,2022,NULL,1,N/A,1
+2/20/20 9:00,Economics,CAS,1,2023,2
+2/20/20 9:00,Computer Science,ENG,13,2022,21
+2/20/20 9:00,Math,NULL,1,2022,1
+2/20/20 9:00,Undecided, Wharton,1,2022,1
+2/20/20 9:00,Finance,Wharton,3,2022,7
+2/20/20 9:00,Bioegineering,NULL,1,2023,1
+2/20/20 9:00,SSE,NULL,1,2020,1
+2/20/20 9:00,Neuroscience,NULL,1,2022,1
+2/20/20 9:00,Misc,N/A,1,2021,1
+2/20/20 9:00,Computer Science,ENG,10,2021,16
+2/20/20 9:00,Misc,N/A,8,N/A,10
+2/20/20 9:00,Marketing,Wharton,1,2022,1
+2/20/20 9:00,Statistics,Wharton,2,2020,2
+2/20/20 9:00,PPE,CAS,1,2023,1
+2/20/20 9:00,Finance,Wharton,1,2021,2
+2/20/20 9:00,Mechanical Engineering,NULL,1,N/A,1
+2/20/20 9:00,Business Analytics,Wharton,1,2020,2
+2/20/20 9:00,BBB,CAS,2,2020,4
+2/20/20 9:00,Cognitive Science,NULL,1,2021,1
+2/20/20 9:00,Systems Engineering,NULL,1,2022,1
+2/20/20 9:00,Computer Science,ENG,1,2020,1
+2/20/20 9:00,CBE,ENG,2,2023,2
+2/20/20 9:00,Business Analytics,Wharton,1,2021,2
+2/20/20 9:00,Economics,CAS,1,2021,1
+2/20/20 9:00,Misc,N/A,2,2023,4
+2/20/20 9:00,DMD,ENG,1,2020,1
+2/20/20 9:00,Computer Science,ENG,1,N/A,1
+2/20/20 10:00,BBB,CAS,1,2023,2
+2/20/20 10:00,Statistics,Wharton,1,2022,1
+2/20/20 10:00,PPE,CAS,2,2021,2
+2/20/20 10:00,Business Analytics,Wharton,1,2022,2
+2/20/20 10:00,Fine Arts,NULL,1,2021,1
+2/20/20 10:00,Philosophy,CAS,1,2021,1
+2/20/20 10:00,DMD,ENG,2,2021,7
+2/20/20 10:00,OIDD,Wharton,1,2020,2
+2/20/20 10:00,Misc,N/A,1,2020,1
+2/20/20 10:00,Computer Science,ENG,8,2022,21
+2/20/20 10:00,Math,NULL,1,2022,1
+2/20/20 10:00,Finance,Wharton,1,2022,7
+2/20/20 10:00,Bioegineering,NULL,1,2023,1
+2/20/20 10:00,SSE,NULL,1,2020,1
+2/20/20 10:00,Misc,N/A,1,2021,1
+2/20/20 10:00,Computer Science,ENG,6,2021,16
+2/20/20 10:00,Misc,N/A,4,N/A,10
+2/20/20 10:00,Marketing,Wharton,1,2022,1
+2/20/20 10:00,Statistics,Wharton,1,2020,2
+2/20/20 10:00,PPE,CAS,1,2023,1
+2/20/20 10:00,Finance,Wharton,1,2021,2
+2/20/20 10:00,CBE,ENG,1,2023,2
+2/20/20 10:00,Business Analytics,Wharton,1,2021,2
+2/20/20 10:00,Misc,N/A,1,2023,4
+2/20/20 10:00,DMD,ENG,1,2020,1
+2/20/20 10:00,Computer Science,ENG,1,N/A,1
+2/20/20 11:00,DMD,ENG,1,2020,1
+2/20/20 11:00,Computer Science,ENG,1,2021,16
+2/20/20 11:00,Computer Science,ENG,5,2022,21
+2/20/20 11:00,CBE,ENG,1,2023,2
+2/20/20 11:00,Misc,N/A,1,N/A,10
+2/20/20 11:00,Fine Arts,NULL,1,2021,1
+2/20/20 11:00,Finance,Wharton,1,2021,2
+2/20/20 11:00,Finance,Wharton,1,2022,7
+2/20/20 11:00,Math,NULL,1,2022,1
+2/20/20 11:00,Computer Science,ENG,1,N/A,1
+2/20/20 12:00,Finance,Wharton,1,2022,7
+2/20/20 12:00,Computer Science,ENG,4,2022,21
+2/20/20 12:00,Fine Arts,NULL,1,2021,1
+2/20/20 12:00,Computer Science,ENG,1,2021,16
+2/20/20 12:00,Math,NULL,1,2022,1
+2/20/20 13:00,Fine Arts,NULL,1,2021,1
+2/20/20 13:00,Computer Science,ENG,1,2021,16
+2/20/20 14:00,Fine Arts,NULL,1,2021,1
+2/20/20 14:00,Computer Science,ENG,2,2021,16
+2/20/20 15:00,Computer Science,ENG,1,2021,16
+2/20/20 16:00,Computer Science,ENG,1,2021,16
+2/20/20 17:00,Computer Science,ENG,1,2021,16
+2/20/20 18:00,Computer Science,ENG,1,2021,16
+2/20/20 19:00,Computer Science,ENG,1,2021,16
+2/20/20 20:00,Misc,N/A,1,N/A,10
+2/20/20 20:00,Computer Science,ENG,1,2021,16
+2/20/20 21:00,Misc,N/A,1,N/A,10
+2/20/20 21:00,Computer Science,ENG,1,2021,16
+2/20/20 22:00,Misc,N/A,1,N/A,10
+2/20/20 22:00,Finance,Wharton,1,2020,2
+2/20/20 22:00,Nursing,NURS,1,2020,1
+2/20/20 22:00,Economics,CAS,1,2020,2
+2/20/20 22:00,Finance and Computer Science,NULL,1,2021,1
+2/20/20 22:00,Nursing,NURS,1,2022,1
+2/20/20 23:00,BBB,CAS,1,2022,6
+2/20/20 23:00,Undecided,NULL,1,2023,1
+2/20/20 23:00,Nursing,NURS,1,2020,1
+2/20/20 23:00,DMD,ENG,1,2021,7
+2/20/20 23:00,Finance,Wharton,1,2020,2
+2/20/20 23:00,Economics,CAS,1,2020,2
+2/20/20 23:00,Finance and Computer Science,NULL,1,2021,1
+2/20/20 23:00,Nursing,NURS,1,2022,1
+2/20/20 23:00,Nutrition,CAS,1,2022,1
+2/20/20 23:00,BBB,CAS,1,2020,4
+2/20/20 23:00,Misc,N/A,1,2022,1
+2/21/20 0:00,BBB,CAS,2,2023,2
+2/21/20 0:00,Economics,CAS,1,2020,2
+2/21/20 0:00,DMD,ENG,2,2021,7
+2/21/20 0:00,CBE,ENG,2,2022,2
+2/21/20 0:00,Political Science,CAS,1,2021,2
+2/21/20 0:00,BBB,CAS,1,2022,6
+2/21/20 0:00,Statistics,Wharton,2,2021,3
+2/21/20 0:00,Economics,CAS,1,2023,2
+2/21/20 0:00,Finance,Wharton,2,2022,7
+2/21/20 0:00,Misc,N/A,1,2021,1
+2/21/20 0:00,CBE,ENG,1,2021,2
+2/21/20 0:00,Political Science,CAS,1,2022,1
+2/21/20 0:00,Finance,Wharton,1,2021,2
+2/21/20 0:00,Finance and Computer Science,NULL,1,2021,1
+2/21/20 0:00,Business Analytics,Wharton,1,2020,2
+2/21/20 0:00,BBB,CAS,1,2020,4
+2/21/20 0:00,Misc,N/A,1,2022,1
+2/21/20 0:00,Nutrition,CAS,1,2022,1
+2/21/20 0:00,PPE,CAS,1,2020,1
+2/21/20 0:00,Finance,Wharton,1,2020,2
+2/21/20 0:00,Nursing,NURS,1,2022,1
+2/21/20 0:00,Misc,N/A,1,2023,4
+2/21/20 0:00,GSWS,CAS,1,2020,1
+2/21/20 1:00,BBB,CAS,2,2023,2
+2/21/20 1:00,Computer Science,ENG,2,2023,4
+2/21/20 1:00,Business Analytics,Wharton,1,2022,2
+2/21/20 1:00,Urban Studies,CAS,1,2022,1
+2/21/20 1:00,Economics,CAS,1,2020,2
+2/21/20 1:00,Philosophy,CAS,1,2021,1
+2/21/20 1:00,DMD,ENG,4,2021,7
+2/21/20 1:00,Cognitive Science,NULL,1,2023,1
+2/21/20 1:00,CBE,ENG,2,2022,2
+2/21/20 1:00,Political Science,CAS,1,2021,2
+2/21/20 1:00,SSE,NULL,1,2020,1
+2/21/20 1:00,BBB,CAS,3,2022,6
+2/21/20 1:00,Chemistry,CAS,1,2023,1
+2/21/20 1:00,Computer Science,ENG,4,2022,21
+2/21/20 1:00,International Studies and Business,NULL,1,2023,1
+2/21/20 1:00,Statistics,Wharton,3,2021,3
+2/21/20 1:00,Economics,CAS,1,2023,2
+2/21/20 1:00,Mathematical Economics,CAS,1,2021,1
+2/21/20 1:00,Finance,Wharton,4,2022,7
+2/21/20 1:00,BBB,CAS,1,2021,2
+2/21/20 1:00,Misc,N/A,1,2021,1
+2/21/20 1:00,CBE,ENG,2,2021,2
+2/21/20 1:00,Computer Science,ENG,7,2021,16
+2/21/20 1:00,Political Science,CAS,1,2022,1
+2/21/20 1:00,Misc,N/A,3,N/A,10
+2/21/20 1:00,Communications,CAS,1,2021,1
+2/21/20 1:00,English,CAS,1,2021,2
+2/21/20 1:00,Finance,Wharton,1,2021,2
+2/21/20 1:00,Finance and Computer Science,NULL,1,2021,1
+2/21/20 1:00,Business Analytics,Wharton,2,2020,2
+2/21/20 1:00,Nutrition,CAS,1,2022,1
+2/21/20 1:00,BBB,CAS,1,2020,4
+2/21/20 1:00,Misc,N/A,1,2022,1
+2/21/20 1:00,Computer Science,ENG,1,2020,1
+2/21/20 1:00,Political Science,CAS,1,2023,2
+2/21/20 1:00,Music,CAS,1,2020,1
+2/21/20 1:00,PPE,CAS,1,2020,1
+2/21/20 1:00,Finance,Wharton,2,2020,2
+2/21/20 1:00,Business Analytics,Wharton,1,2021,2
+2/21/20 1:00,History,CAS,1,2023,1
+2/21/20 1:00,Economics,CAS,1,2021,1
+2/21/20 1:00,Misc,N/A,1,2023,4
+2/21/20 1:00,CBE,ENG,1,2023,2
+2/21/20 1:00,GSWS,CAS,1,2020,1
+2/21/20 2:00,Nutrition,CAS,1,2021,1
+2/21/20 2:00,BBB,CAS,2,2023,2
+2/21/20 2:00,Finance and Computer Science,NULL,1,2021,1
+2/21/20 2:00,Political Science,CAS,1,2020,1
+2/21/20 2:00,Computer Science,ENG,3,2023,4
+2/21/20 2:00,PPE,CAS,1,2021,2
+2/21/20 2:00,Business Analytics,Wharton,2,2022,2
+2/21/20 2:00,Urban Studies,CAS,1,2022,1
+2/21/20 2:00,Economics,CAS,2,2020,2
+2/21/20 2:00,Nursing,NURS,1,2021,2
+2/21/20 2:00,Communications,CAS,1,2023,1
+2/21/20 2:00,DMD,ENG,5,2021,7
+2/21/20 2:00,Cognitive Science,NULL,1,2023,1
+2/21/20 2:00,CBE,ENG,2,2022,2
+2/21/20 2:00,Statistics,Wharton,3,2021,3
+2/21/20 2:00,Political Science,CAS,1,2021,2
+2/21/20 2:00,CBE,ENG,1,2023,2
+2/21/20 2:00,BBB,CAS,5,2022,6
+2/21/20 2:00,Chemistry,CAS,1,2023,1
+2/21/20 2:00,Misc,N/A,1,2020,1
+2/21/20 2:00,2022,NULL,1,N/A,1
+2/21/20 2:00,Computer Science,ENG,8,2022,21
+2/21/20 2:00,International Studies and Business,NULL,1,2023,1
+2/21/20 2:00,Math,NULL,1,2022,1
+2/21/20 2:00,Economics,CAS,2,2023,2
+2/21/20 2:00,Nursing,NURS,1,2020,1
+2/21/20 2:00,Mathematical Economics,CAS,1,2021,1
+2/21/20 2:00,Finance,Wharton,6,2022,7
+2/21/20 2:00,OIDD,Wharton,1,2020,2
+2/21/20 2:00,Neuroscience,NULL,1,2022,1
+2/21/20 2:00,BBB,CAS,1,2021,2
+2/21/20 2:00,Misc,N/A,1,2021,1
+2/21/20 2:00,CBE,ENG,2,2021,2
+2/21/20 2:00,Computer Science,ENG,11,2021,16
+2/21/20 2:00,Political Science,CAS,1,2022,1
+2/21/20 2:00,Misc,N/A,5,N/A,10
+2/21/20 2:00,Statistics,Wharton,1,2020,2
+2/21/20 2:00,Communications,CAS,1,2021,1
+2/21/20 2:00,English,CAS,1,2021,2
+2/21/20 2:00,Philosophy,CAS,1,2021,1
+2/21/20 2:00,Finance,Wharton,1,2021,2
+2/21/20 2:00,Mechanical Engineering,NULL,1,N/A,1
+2/21/20 2:00,Business Analytics,Wharton,2,2020,2
+2/21/20 2:00,Nutrition,CAS,1,2022,1
+2/21/20 2:00,BBB,CAS,3,2020,4
+2/21/20 2:00,Misc,N/A,1,2022,1
+2/21/20 2:00,Cognitive Science,NULL,1,2021,1
+2/21/20 2:00,Computer Science,ENG,1,2020,1
+2/21/20 2:00,Political Science,CAS,2,2023,2
+2/21/20 2:00,Music,CAS,1,2020,1
+2/21/20 2:00,SSE,NULL,1,2020,1
+2/21/20 2:00,Fine Arts,NULL,1,2023,1
+2/21/20 2:00,PPE,CAS,1,2020,1
+2/21/20 2:00,Finance,Wharton,2,2020,2
+2/21/20 2:00,Business Analytics,Wharton,2,2021,2
+2/21/20 2:00,History,CAS,1,2023,1
+2/21/20 2:00,Economics,CAS,1,2021,1
+2/21/20 2:00,Misc,N/A,1,2023,4
+2/21/20 2:00,Computer Science,ENG,1,N/A,1
+2/21/20 2:00,Systems Engineering,NULL,2,2023,2
+2/21/20 2:00,GSWS,CAS,1,2020,1
+2/21/20 3:00,Nutrition,CAS,1,2021,1
+2/21/20 3:00,BBB,CAS,2,2023,2
+2/21/20 3:00,Philosophy,CAS,1,2021,1
+2/21/20 3:00,Statistics,Wharton,1,2022,1
+2/21/20 3:00,Political Science,CAS,1,2020,1
+2/21/20 3:00,Nutrition,CAS,1,2022,1
+2/21/20 3:00,Computer Science,ENG,4,2023,4
+2/21/20 3:00,PPE,CAS,2,2021,2
+2/21/20 3:00,Finance and Computer Science,NULL,1,2021,1
+2/21/20 3:00,Business Analytics,Wharton,2,2022,2
+2/21/20 3:00,Urban Studies,CAS,1,2022,1
+2/21/20 3:00,Economics,CAS,2,2020,2
+2/21/20 3:00,Nursing,NURS,1,2021,2
+2/21/20 3:00,Communications,CAS,1,2023,1
+2/21/20 3:00,DMD,ENG,6,2021,7
+2/21/20 3:00,Cognitive Science,NULL,1,2023,1
+2/21/20 3:00,CBE,ENG,2,2022,2
+2/21/20 3:00,Math,NULL,1,2022,1
+2/21/20 3:00,Political Science,CAS,1,2021,2
+2/21/20 3:00,OIDD,Wharton,2,2020,2
+2/21/20 3:00,BBB,CAS,5,2022,6
+2/21/20 3:00,Marketing,Wharton,1,2023,1
+2/21/20 3:00,Misc,N/A,1,2020,1
+2/21/20 3:00,2022,NULL,1,N/A,1
+2/21/20 3:00,Computer Science,ENG,15,2022,21
+2/21/20 3:00,International Studies and Business,NULL,1,2023,1
+2/21/20 3:00,Statistics,Wharton,3,2021,3
+2/21/20 3:00,Economics,CAS,2,2023,2
+2/21/20 3:00,Nursing,NURS,1,2020,1
+2/21/20 3:00,Mathematical Economics,CAS,1,2021,1
+2/21/20 3:00,Cognitive Science,NULL,1,2022,1
+2/21/20 3:00,Finance,Wharton,6,2022,7
+2/21/20 3:00,Bioegineering,NULL,1,2023,1
+2/21/20 3:00,SSE,NULL,1,2020,1
+2/21/20 3:00,Neuroscience,NULL,1,2022,1
+2/21/20 3:00,BBB,CAS,1,2021,2
+2/21/20 3:00,Chemistry,CAS,1,2023,1
+2/21/20 3:00,Misc,N/A,1,2021,1
+2/21/20 3:00,CBE,ENG,2,2021,2
+2/21/20 3:00,Computer Science,ENG,12,2021,16
+2/21/20 3:00,Political Science,CAS,1,2022,1
+2/21/20 3:00,Misc,N/A,9,N/A,10
+2/21/20 3:00,Statistics,Wharton,2,2020,2
+2/21/20 3:00,Communications,CAS,1,2021,1
+2/21/20 3:00,English,CAS,1,2021,2
+2/21/20 3:00,PPE,CAS,1,2023,1
+2/21/20 3:00,Finance,Wharton,2,2021,2
+2/21/20 3:00,Mechanical Engineering,NULL,1,N/A,1
+2/21/20 3:00,Business Analytics,Wharton,2,2020,2
+2/21/20 3:00,Political Science,CAS,2,2023,2
+2/21/20 3:00,BBB,CAS,3,2020,4
+2/21/20 3:00,Misc,N/A,1,2022,1
+2/21/20 3:00,Cognitive Science,NULL,1,2021,1
+2/21/20 3:00,Computer Science,ENG,1,2020,1
+2/21/20 3:00,Undecided,NULL,1,2023,1
+2/21/20 3:00,Music,CAS,1,2020,1
+2/21/20 3:00,Fine Arts,NULL,1,2023,1
+2/21/20 3:00,Computer Science,ENG,1,N/A,1
+2/21/20 3:00,PPE,CAS,1,2020,1
+2/21/20 3:00,Finance,Wharton,2,2020,2
+2/21/20 3:00,Business Analytics,Wharton,2,2021,2
+2/21/20 3:00,History,CAS,1,2023,1
+2/21/20 3:00,Economics,CAS,1,2021,1
+2/21/20 3:00,Misc,N/A,2,2023,4
+2/21/20 3:00,DMD,ENG,1,2020,1
+2/21/20 3:00,CBE,ENG,2,2023,2
+2/21/20 3:00,Systems Engineering,NULL,2,2023,2
+2/21/20 3:00,GSWS,CAS,1,2020,1
+2/21/20 4:00,PPE,CAS,1,2020,1
+2/21/20 4:00,Nutrition,CAS,1,2021,1
+2/21/20 4:00,BBB,CAS,2,2023,2
+2/21/20 4:00,Philosophy,CAS,1,2021,1
+2/21/20 4:00,Statistics,Wharton,1,2022,1
+2/21/20 4:00,Political Science,CAS,1,2020,1
+2/21/20 4:00,Nutrition,CAS,1,2022,1
+2/21/20 4:00,Computer Science,ENG,4,2023,4
+2/21/20 4:00,PPE,CAS,2,2021,2
+2/21/20 4:00,Finance and Computer Science,NULL,1,2021,1
+2/21/20 4:00,Business Analytics,Wharton,2,2022,2
+2/21/20 4:00,Urban Studies,CAS,1,2022,1
+2/21/20 4:00,Economics,CAS,2,2020,2
+2/21/20 4:00,Nursing,NURS,1,2021,2
+2/21/20 4:00,Communications,CAS,1,2023,1
+2/21/20 4:00,DMD,ENG,7,2021,7
+2/21/20 4:00,Cognitive Science,NULL,1,2023,1
+2/21/20 4:00,CBE,ENG,2,2022,2
+2/21/20 4:00,Marketing,Wharton,1,2023,1
+2/21/20 4:00,Political Science,CAS,1,2021,2
+2/21/20 4:00,OIDD,Wharton,2,2020,2
+2/21/20 4:00,BBB,CAS,5,2022,6
+2/21/20 4:00,Chemistry,CAS,1,2023,1
+2/21/20 4:00,Misc,N/A,1,2020,1
+2/21/20 4:00,2022,NULL,1,N/A,1
+2/21/20 4:00,Economics,CAS,2,2023,2
+2/21/20 4:00,Computer Science,ENG,17,2022,21
+2/21/20 4:00,International Studies and Business,NULL,1,2023,1
+2/21/20 4:00,Math,NULL,1,2022,1
+2/21/20 4:00,Undecided, Wharton,1,2022,1
+2/21/20 4:00,Nursing,NURS,1,2020,1
+2/21/20 4:00,Mathematical Economics,CAS,1,2021,1
+2/21/20 4:00,Cognitive Science,NULL,1,2022,1
+2/21/20 4:00,Finance,Wharton,7,2022,7
+2/21/20 4:00,Bioegineering,NULL,1,2023,1
+2/21/20 4:00,SSE,NULL,1,2020,1
+2/21/20 4:00,Neuroscience,NULL,1,2022,1
+2/21/20 4:00,BBB,CAS,1,2021,2
+2/21/20 4:00,Misc,N/A,1,2021,1
+2/21/20 4:00,CBE,ENG,2,2021,2
+2/21/20 4:00,Computer Science,ENG,15,2021,16
+2/21/20 4:00,Political Science,CAS,1,2022,1
+2/21/20 4:00,Misc,N/A,9,N/A,10
+2/21/20 4:00,Statistics,Wharton,2,2020,2
+2/21/20 4:00,Communications,CAS,1,2021,1
+2/21/20 4:00,English,CAS,1,2021,2
+2/21/20 4:00,PPE,CAS,1,2023,1
+2/21/20 4:00,Finance,Wharton,2,2021,2
+2/21/20 4:00,Mechanical Engineering,NULL,1,N/A,1
+2/21/20 4:00,Business Analytics,Wharton,2,2020,2
+2/21/20 4:00,Fine Arts,NULL,1,2021,1
+2/21/20 4:00,Political Science,CAS,2,2023,2
+2/21/20 4:00,BBB,CAS,3,2020,4
+2/21/20 4:00,Misc,N/A,1,2022,1
+2/21/20 4:00,Cognitive Science,NULL,1,2021,1
+2/21/20 4:00,Systems Engineering,NULL,1,2022,1
+2/21/20 4:00,Computer Science,ENG,1,2020,1
+2/21/20 4:00,Undecided,NULL,1,2023,1
+2/21/20 4:00,Music,CAS,1,2020,1
+2/21/20 4:00,Fine Arts,NULL,1,2023,1
+2/21/20 4:00,Computer Science,ENG,1,N/A,1
+2/21/20 4:00,Statistics,Wharton,3,2021,3
+2/21/20 4:00,Finance,Wharton,2,2020,2
+2/21/20 4:00,Business Analytics,Wharton,2,2021,2
+2/21/20 4:00,History,CAS,1,2023,1
+2/21/20 4:00,Economics,CAS,1,2021,1
+2/21/20 4:00,Misc,N/A,3,2023,4
+2/21/20 4:00,DMD,ENG,1,2020,1
+2/21/20 4:00,CBE,ENG,2,2023,2
+2/21/20 4:00,Systems Engineering,NULL,2,2023,2
+2/21/20 4:00,GSWS,CAS,1,2020,1
+2/21/20 5:00,PPE,CAS,1,2020,1
+2/21/20 5:00,Nutrition,CAS,1,2021,1
+2/21/20 5:00,BBB,CAS,2,2023,2
+2/21/20 5:00,Philosophy,CAS,1,2021,1
+2/21/20 5:00,Statistics,Wharton,1,2022,1
+2/21/20 5:00,Political Science,CAS,1,2020,1
+2/21/20 5:00,Nutrition,CAS,1,2022,1
+2/21/20 5:00,Computer Science,ENG,4,2023,4
+2/21/20 5:00,PPE,CAS,2,2021,2
+2/21/20 5:00,Finance and Computer Science,NULL,1,2021,1
+2/21/20 5:00,Business Analytics,Wharton,2,2022,2
+2/21/20 5:00,Urban Studies,CAS,1,2022,1
+2/21/20 5:00,Economics,CAS,2,2020,2
+2/21/20 5:00,Nursing,NURS,1,2021,2
+2/21/20 5:00,Communications,CAS,1,2023,1
+2/21/20 5:00,DMD,ENG,7,2021,7
+2/21/20 5:00,Cognitive Science,NULL,1,2023,1
+2/21/20 5:00,CBE,ENG,2,2022,2
+2/21/20 5:00,Marketing,Wharton,1,2023,1
+2/21/20 5:00,Political Science,CAS,1,2021,2
+2/21/20 5:00,OIDD,Wharton,2,2020,2
+2/21/20 5:00,BBB,CAS,5,2022,6
+2/21/20 5:00,Chemistry,CAS,1,2023,1
+2/21/20 5:00,Misc,N/A,1,2020,1
+2/21/20 5:00,2022,NULL,1,N/A,1
+2/21/20 5:00,Economics,CAS,2,2023,2
+2/21/20 5:00,Computer Science,ENG,19,2022,21
+2/21/20 5:00,International Studies and Business,NULL,1,2023,1
+2/21/20 5:00,Math,NULL,1,2022,1
+2/21/20 5:00,Undecided, Wharton,1,2022,1
+2/21/20 5:00,Nursing,NURS,1,2020,1
+2/21/20 5:00,Mathematical Economics,CAS,1,2021,1
+2/21/20 5:00,Cognitive Science,NULL,1,2022,1
+2/21/20 5:00,Finance,Wharton,7,2022,7
+2/21/20 5:00,Bioegineering,NULL,1,2023,1
+2/21/20 5:00,SSE,NULL,1,2020,1
+2/21/20 5:00,Neuroscience,NULL,1,2022,1
+2/21/20 5:00,BBB,CAS,1,2021,2
+2/21/20 5:00,Misc,N/A,1,2021,1
+2/21/20 5:00,CBE,ENG,2,2021,2
+2/21/20 5:00,Computer Science,ENG,15,2021,16
+2/21/20 5:00,Political Science,CAS,1,2022,1
+2/21/20 5:00,Misc,N/A,9,N/A,10
+2/21/20 5:00,Marketing,Wharton,1,2022,1
+2/21/20 5:00,Statistics,Wharton,2,2020,2
+2/21/20 5:00,Communications,CAS,1,2021,1
+2/21/20 5:00,English,CAS,1,2021,2
+2/21/20 5:00,PPE,CAS,1,2023,1
+2/21/20 5:00,Finance,Wharton,2,2021,2
+2/21/20 5:00,Mechanical Engineering,NULL,1,N/A,1
+2/21/20 5:00,Business Analytics,Wharton,2,2020,2
+2/21/20 5:00,Fine Arts,NULL,1,2021,1
+2/21/20 5:00,Political Science,CAS,2,2023,2
+2/21/20 5:00,BBB,CAS,3,2020,4
+2/21/20 5:00,Misc,N/A,1,2022,1
+2/21/20 5:00,Cognitive Science,NULL,1,2021,1
+2/21/20 5:00,Systems Engineering,NULL,1,2022,1
+2/21/20 5:00,Computer Science,ENG,1,2020,1
+2/21/20 5:00,Undecided,NULL,1,2023,1
+2/21/20 5:00,Music,CAS,1,2020,1
+2/21/20 5:00,Fine Arts,NULL,1,2023,1
+2/21/20 5:00,Computer Science,ENG,1,N/A,1
+2/21/20 5:00,Statistics,Wharton,3,2021,3
+2/21/20 5:00,Finance,Wharton,2,2020,2
+2/21/20 5:00,Business Analytics,Wharton,2,2021,2
+2/21/20 5:00,History,CAS,1,2023,1
+2/21/20 5:00,Economics,CAS,1,2021,1
+2/21/20 5:00,Misc,N/A,4,2023,4
+2/21/20 5:00,DMD,ENG,1,2020,1
+2/21/20 5:00,CBE,ENG,2,2023,2
+2/21/20 5:00,Systems Engineering,NULL,2,2023,2
+2/21/20 5:00,GSWS,CAS,1,2020,1
+2/21/20 6:00,PPE,CAS,1,2020,1
+2/21/20 6:00,Nutrition,CAS,1,2021,1
+2/21/20 6:00,BBB,CAS,2,2023,2
+2/21/20 6:00,Philosophy,CAS,1,2021,1
+2/21/20 6:00,Statistics,Wharton,1,2022,1
+2/21/20 6:00,Political Science,CAS,1,2020,1
+2/21/20 6:00,Nutrition,CAS,1,2022,1
+2/21/20 6:00,Computer Science,ENG,4,2023,4
+2/21/20 6:00,PPE,CAS,2,2021,2
+2/21/20 6:00,Finance and Computer Science,NULL,1,2021,1
+2/21/20 6:00,Business Analytics,Wharton,2,2022,2
+2/21/20 6:00,Urban Studies,CAS,1,2022,1
+2/21/20 6:00,Economics,CAS,2,2020,2
+2/21/20 6:00,Nursing,NURS,1,2021,2
+2/21/20 6:00,Communications,CAS,1,2023,1
+2/21/20 6:00,DMD,ENG,7,2021,7
+2/21/20 6:00,Cognitive Science,NULL,1,2023,1
+2/21/20 6:00,CBE,ENG,2,2022,2
+2/21/20 6:00,Marketing,Wharton,1,2023,1
+2/21/20 6:00,Political Science,CAS,1,2021,2
+2/21/20 6:00,OIDD,Wharton,2,2020,2
+2/21/20 6:00,BBB,CAS,5,2022,6
+2/21/20 6:00,Chemistry,CAS,1,2023,1
+2/21/20 6:00,Misc,N/A,1,2020,1
+2/21/20 6:00,2022,NULL,1,N/A,1
+2/21/20 6:00,Economics,CAS,2,2023,2
+2/21/20 6:00,Computer Science,ENG,18,2022,21
+2/21/20 6:00,International Studies and Business,NULL,1,2023,1
+2/21/20 6:00,Math,NULL,1,2022,1
+2/21/20 6:00,Undecided, Wharton,1,2022,1
+2/21/20 6:00,Nursing,NURS,1,2020,1
+2/21/20 6:00,Mathematical Economics,CAS,1,2021,1
+2/21/20 6:00,Cognitive Science,NULL,1,2022,1
+2/21/20 6:00,Finance,Wharton,7,2022,7
+2/21/20 6:00,Bioegineering,NULL,1,2023,1
+2/21/20 6:00,SSE,NULL,1,2020,1
+2/21/20 6:00,Neuroscience,NULL,1,2022,1
+2/21/20 6:00,BBB,CAS,1,2021,2
+2/21/20 6:00,Misc,N/A,1,2021,1
+2/21/20 6:00,CBE,ENG,2,2021,2
+2/21/20 6:00,Computer Science,ENG,15,2021,16
+2/21/20 6:00,Political Science,CAS,1,2022,1
+2/21/20 6:00,Misc,N/A,10,N/A,10
+2/21/20 6:00,Marketing,Wharton,1,2022,1
+2/21/20 6:00,Statistics,Wharton,2,2020,2
+2/21/20 6:00,Communications,CAS,1,2021,1
+2/21/20 6:00,English,CAS,1,2021,2
+2/21/20 6:00,PPE,CAS,1,2023,1
+2/21/20 6:00,Finance,Wharton,2,2021,2
+2/21/20 6:00,Mechanical Engineering,NULL,1,N/A,1
+2/21/20 6:00,Business Analytics,Wharton,2,2020,2
+2/21/20 6:00,Fine Arts,NULL,1,2021,1
+2/21/20 6:00,Political Science,CAS,2,2023,2
+2/21/20 6:00,BBB,CAS,3,2020,4
+2/21/20 6:00,Misc,N/A,1,2022,1
+2/21/20 6:00,Cognitive Science,NULL,1,2021,1
+2/21/20 6:00,Systems Engineering,NULL,1,2022,1
+2/21/20 6:00,Computer Science,ENG,1,2020,1
+2/21/20 6:00,Undecided,NULL,1,2023,1
+2/21/20 6:00,Music,CAS,1,2020,1
+2/21/20 6:00,Fine Arts,NULL,1,2023,1
+2/21/20 6:00,Computer Science,ENG,1,N/A,1
+2/21/20 6:00,Statistics,Wharton,3,2021,3
+2/21/20 6:00,Finance,Wharton,2,2020,2
+2/21/20 6:00,Business Analytics,Wharton,2,2021,2
+2/21/20 6:00,History,CAS,1,2023,1
+2/21/20 6:00,Economics,CAS,1,2021,1
+2/21/20 6:00,Misc,N/A,4,2023,4
+2/21/20 6:00,DMD,ENG,1,2020,1
+2/21/20 6:00,CBE,ENG,2,2023,2
+2/21/20 6:00,Systems Engineering,NULL,2,2023,2
+2/21/20 6:00,GSWS,CAS,1,2020,1
+2/21/20 7:00,PPE,CAS,1,2020,1
+2/21/20 7:00,Nutrition,CAS,1,2021,1
+2/21/20 7:00,BBB,CAS,2,2023,2
+2/21/20 7:00,Philosophy,CAS,1,2021,1
+2/21/20 7:00,Statistics,Wharton,1,2022,1
+2/21/20 7:00,Political Science,CAS,1,2020,1
+2/21/20 7:00,Nutrition,CAS,1,2022,1
+2/21/20 7:00,Computer Science,ENG,4,2023,4
+2/21/20 7:00,PPE,CAS,2,2021,2
+2/21/20 7:00,Finance and Computer Science,NULL,1,2021,1
+2/21/20 7:00,Business Analytics,Wharton,2,2022,2
+2/21/20 7:00,Urban Studies,CAS,1,2022,1
+2/21/20 7:00,Economics,CAS,1,2020,2
+2/21/20 7:00,Nursing,NURS,1,2021,2
+2/21/20 7:00,Communications,CAS,1,2023,1
+2/21/20 7:00,DMD,ENG,6,2021,7
+2/21/20 7:00,Cognitive Science,NULL,1,2023,1
+2/21/20 7:00,CBE,ENG,2,2022,2
+2/21/20 7:00,Marketing,Wharton,1,2023,1
+2/21/20 7:00,OIDD,Wharton,2,2020,2
+2/21/20 7:00,BBB,CAS,5,2022,6
+2/21/20 7:00,Chemistry,CAS,1,2023,1
+2/21/20 7:00,Misc,N/A,1,2020,1
+2/21/20 7:00,2022,NULL,1,N/A,1
+2/21/20 7:00,Economics,CAS,2,2023,2
+2/21/20 7:00,Computer Science,ENG,18,2022,21
+2/21/20 7:00,International Studies and Business,NULL,1,2023,1
+2/21/20 7:00,Math,NULL,1,2022,1
+2/21/20 7:00,Undecided, Wharton,1,2022,1
+2/21/20 7:00,Nursing,NURS,1,2020,1
+2/21/20 7:00,Mathematical Economics,CAS,1,2021,1
+2/21/20 7:00,Cognitive Science,NULL,1,2022,1
+2/21/20 7:00,Finance,Wharton,7,2022,7
+2/21/20 7:00,Bioegineering,NULL,1,2023,1
+2/21/20 7:00,SSE,NULL,1,2020,1
+2/21/20 7:00,Neuroscience,NULL,1,2022,1
+2/21/20 7:00,BBB,CAS,1,2021,2
+2/21/20 7:00,Misc,N/A,1,2021,1
+2/21/20 7:00,CBE,ENG,2,2021,2
+2/21/20 7:00,Computer Science,ENG,15,2021,16
+2/21/20 7:00,Political Science,CAS,1,2022,1
+2/21/20 7:00,Misc,N/A,10,N/A,10
+2/21/20 7:00,Marketing,Wharton,1,2022,1
+2/21/20 7:00,Statistics,Wharton,2,2020,2
+2/21/20 7:00,Communications,CAS,1,2021,1
+2/21/20 7:00,English,CAS,1,2021,2
+2/21/20 7:00,PPE,CAS,1,2023,1
+2/21/20 7:00,Finance,Wharton,2,2021,2
+2/21/20 7:00,Mechanical Engineering,NULL,1,N/A,1
+2/21/20 7:00,Business Analytics,Wharton,2,2020,2
+2/21/20 7:00,Fine Arts,NULL,1,2021,1
+2/21/20 7:00,Political Science,CAS,2,2023,2
+2/21/20 7:00,BBB,CAS,3,2020,4
+2/21/20 7:00,Cognitive Science,NULL,1,2021,1
+2/21/20 7:00,Systems Engineering,NULL,1,2022,1
+2/21/20 7:00,Computer Science,ENG,1,2020,1
+2/21/20 7:00,Undecided,NULL,1,2023,1
+2/21/20 7:00,Music,CAS,1,2020,1
+2/21/20 7:00,Fine Arts,NULL,1,2023,1
+2/21/20 7:00,Computer Science,ENG,1,N/A,1
+2/21/20 7:00,Statistics,Wharton,3,2021,3
+2/21/20 7:00,Finance,Wharton,1,2020,2
+2/21/20 7:00,Business Analytics,Wharton,2,2021,2
+2/21/20 7:00,History,CAS,1,2023,1
+2/21/20 7:00,Economics,CAS,1,2021,1
+2/21/20 7:00,Misc,N/A,4,2023,4
+2/21/20 7:00,DMD,ENG,1,2020,1
+2/21/20 7:00,CBE,ENG,2,2023,2
+2/21/20 7:00,Systems Engineering,NULL,2,2023,2
+2/21/20 7:00,GSWS,CAS,1,2020,1
+2/21/20 8:00,PPE,CAS,1,2020,1
+2/21/20 8:00,Political Science,CAS,1,2020,1
+2/21/20 8:00,BBB,CAS,2,2023,2
+2/21/20 8:00,Statistics,Wharton,1,2022,1
+2/21/20 8:00,Computer Science,ENG,3,2023,4
+2/21/20 8:00,PPE,CAS,2,2021,2
+2/21/20 8:00,Business Analytics,Wharton,2,2022,2
+2/21/20 8:00,CBE,ENG,1,2021,2
+2/21/20 8:00,Economics,CAS,1,2020,2
+2/21/20 8:00,Philosophy,CAS,1,2021,1
+2/21/20 8:00,DMD,ENG,6,2021,7
+2/21/20 8:00,Cognitive Science,NULL,1,2023,1
+2/21/20 8:00,CBE,ENG,2,2022,2
+2/21/20 8:00,Marketing,Wharton,1,2023,1
+2/21/20 8:00,OIDD,Wharton,2,2020,2
+2/21/20 8:00,BBB,CAS,4,2022,6
+2/21/20 8:00,Chemistry,CAS,1,2023,1
+2/21/20 8:00,Misc,N/A,1,2020,1
+2/21/20 8:00,2022,NULL,1,N/A,1
+2/21/20 8:00,Economics,CAS,2,2023,2
+2/21/20 8:00,Computer Science,ENG,18,2022,21
+2/21/20 8:00,International Studies and Business,NULL,1,2023,1
+2/21/20 8:00,Math,NULL,1,2022,1
+2/21/20 8:00,Undecided, Wharton,1,2022,1
+2/21/20 8:00,Nursing,NURS,1,2020,1
+2/21/20 8:00,Mathematical Economics,CAS,1,2021,1
+2/21/20 8:00,Cognitive Science,NULL,1,2022,1
+2/21/20 8:00,Finance,Wharton,5,2022,7
+2/21/20 8:00,Business Analytics,Wharton,1,2021,2
+2/21/20 8:00,SSE,NULL,1,2020,1
+2/21/20 8:00,Neuroscience,NULL,1,2022,1
+2/21/20 8:00,BBB,CAS,1,2021,2
+2/21/20 8:00,Misc,N/A,1,2021,1
+2/21/20 8:00,Urban Studies,CAS,1,2022,1
+2/21/20 8:00,Computer Science,ENG,13,2021,16
+2/21/20 8:00,Political Science,CAS,1,2022,1
+2/21/20 8:00,Misc,N/A,10,N/A,10
+2/21/20 8:00,Marketing,Wharton,1,2022,1
+2/21/20 8:00,Statistics,Wharton,2,2020,2
+2/21/20 8:00,Communications,CAS,1,2021,1
+2/21/20 8:00,English,CAS,1,2021,2
+2/21/20 8:00,PPE,CAS,1,2023,1
+2/21/20 8:00,Finance,Wharton,2,2021,2
+2/21/20 8:00,Mechanical Engineering,NULL,1,N/A,1
+2/21/20 8:00,Business Analytics,Wharton,2,2020,2
+2/21/20 8:00,Fine Arts,NULL,1,2021,1
+2/21/20 8:00,Political Science,CAS,1,2023,2
+2/21/20 8:00,BBB,CAS,3,2020,4
+2/21/20 8:00,Cognitive Science,NULL,1,2021,1
+2/21/20 8:00,Systems Engineering,NULL,1,2022,1
+2/21/20 8:00,Computer Science,ENG,1,2020,1
+2/21/20 8:00,Undecided,NULL,1,2023,1
+2/21/20 8:00,Music,CAS,1,2020,1
+2/21/20 8:00,Fine Arts,NULL,1,2023,1
+2/21/20 8:00,Computer Science,ENG,1,N/A,1
+2/21/20 8:00,Statistics,Wharton,2,2021,3
+2/21/20 8:00,Finance,Wharton,1,2020,2
+2/21/20 8:00,Bioegineering,NULL,1,2023,1
+2/21/20 8:00,Economics,CAS,1,2021,1
+2/21/20 8:00,Misc,N/A,3,2023,4
+2/21/20 8:00,DMD,ENG,1,2020,1
+2/21/20 8:00,CBE,ENG,2,2023,2
+2/21/20 8:00,Systems Engineering,NULL,2,2023,2
+2/21/20 8:00,GSWS,CAS,1,2020,1
+2/21/20 9:00,Political Science,CAS,1,2020,1
+2/21/20 9:00,Fine Arts,NULL,1,2021,1
+2/21/20 9:00,Statistics,Wharton,1,2022,1
+2/21/20 9:00,Computer Science,ENG,3,2023,4
+2/21/20 9:00,PPE,CAS,2,2021,2
+2/21/20 9:00,Business Analytics,Wharton,1,2022,2
+2/21/20 9:00,Economics,CAS,1,2020,2
+2/21/20 9:00,Philosophy,CAS,1,2021,1
+2/21/20 9:00,DMD,ENG,5,2021,7
+2/21/20 9:00,CBE,ENG,1,2022,2
+2/21/20 9:00,Marketing,Wharton,1,2023,1
+2/21/20 9:00,OIDD,Wharton,2,2020,2
+2/21/20 9:00,BBB,CAS,3,2022,6
+2/21/20 9:00,Chemistry,CAS,1,2023,1
+2/21/20 9:00,Misc,N/A,1,2020,1
+2/21/20 9:00,2022,NULL,1,N/A,1
+2/21/20 9:00,PPE,CAS,1,2020,1
+2/21/20 9:00,Computer Science,ENG,17,2022,21
+2/21/20 9:00,Math,NULL,1,2022,1
+2/21/20 9:00,Economics,CAS,2,2023,2
+2/21/20 9:00,Nursing,NURS,1,2020,1
+2/21/20 9:00,Cognitive Science,NULL,1,2022,1
+2/21/20 9:00,Finance,Wharton,3,2022,7
+2/21/20 9:00,Business Analytics,Wharton,1,2021,2
+2/21/20 9:00,SSE,NULL,1,2020,1
+2/21/20 9:00,Neuroscience,NULL,1,2022,1
+2/21/20 9:00,Fine Arts,NULL,1,2023,1
+2/21/20 9:00,Misc,N/A,1,2021,1
+2/21/20 9:00,Urban Studies,CAS,1,2022,1
+2/21/20 9:00,Computer Science,ENG,12,2021,16
+2/21/20 9:00,Misc,N/A,9,N/A,10
+2/21/20 9:00,Marketing,Wharton,1,2022,1
+2/21/20 9:00,Statistics,Wharton,2,2020,2
+2/21/20 9:00,Communications,CAS,1,2021,1
+2/21/20 9:00,English,CAS,1,2021,2
+2/21/20 9:00,PPE,CAS,1,2023,1
+2/21/20 9:00,Finance,Wharton,2,2021,2
+2/21/20 9:00,Mechanical Engineering,NULL,1,N/A,1
+2/21/20 9:00,Business Analytics,Wharton,1,2020,2
+2/21/20 9:00,BBB,CAS,2,2020,4
+2/21/20 9:00,Cognitive Science,NULL,1,2021,1
+2/21/20 9:00,Systems Engineering,NULL,1,2022,1
+2/21/20 9:00,Computer Science,ENG,1,2020,1
+2/21/20 9:00,Political Science,CAS,1,2023,2
+2/21/20 9:00,Music,CAS,1,2020,1
+2/21/20 9:00,Computer Science,ENG,1,N/A,1
+2/21/20 9:00,Statistics,Wharton,2,2021,3
+2/21/20 9:00,Finance,Wharton,1,2020,2
+2/21/20 9:00,Bioegineering,NULL,1,2023,1
+2/21/20 9:00,Economics,CAS,1,2021,1
+2/21/20 9:00,Misc,N/A,2,2023,4
+2/21/20 9:00,DMD,ENG,1,2020,1
+2/21/20 9:00,CBE,ENG,2,2023,2
+2/21/20 9:00,Systems Engineering,NULL,2,2023,2
+2/21/20 9:00,GSWS,CAS,1,2020,1
+2/21/20 10:00,Political Science,CAS,1,2020,1
+2/21/20 10:00,Fine Arts,NULL,1,2021,1
+2/21/20 10:00,Statistics,Wharton,1,2022,1
+2/21/20 10:00,Computer Science,ENG,2,2023,4
+2/21/20 10:00,PPE,CAS,1,2021,2
+2/21/20 10:00,Business Analytics,Wharton,1,2022,2
+2/21/20 10:00,Philosophy,CAS,1,2021,1
+2/21/20 10:00,DMD,ENG,4,2021,7
+2/21/20 10:00,CBE,ENG,1,2022,2
+2/21/20 10:00,Marketing,Wharton,1,2023,1
+2/21/20 10:00,OIDD,Wharton,2,2020,2
+2/21/20 10:00,BBB,CAS,2,2022,6
+2/21/20 10:00,Misc,N/A,1,2020,1
+2/21/20 10:00,Computer Science,ENG,9,2022,21
+2/21/20 10:00,Math,NULL,1,2022,1
+2/21/20 10:00,Economics,CAS,1,2023,2
+2/21/20 10:00,Finance,Wharton,3,2022,7
+2/21/20 10:00,SSE,NULL,1,2020,1
+2/21/20 10:00,Neuroscience,NULL,1,2022,1
+2/21/20 10:00,Fine Arts,NULL,1,2023,1
+2/21/20 10:00,Misc,N/A,1,2021,1
+2/21/20 10:00,Computer Science,ENG,8,2021,16
+2/21/20 10:00,Misc,N/A,5,N/A,10
+2/21/20 10:00,Marketing,Wharton,1,2022,1
+2/21/20 10:00,Statistics,Wharton,2,2020,2
+2/21/20 10:00,PPE,CAS,1,2023,1
+2/21/20 10:00,Finance,Wharton,1,2021,2
+2/21/20 10:00,BBB,CAS,2,2020,4
+2/21/20 10:00,Systems Engineering,NULL,1,2022,1
+2/21/20 10:00,CBE,ENG,1,2023,2
+2/21/20 10:00,Bioegineering,NULL,1,2023,1
+2/21/20 10:00,Misc,N/A,1,2023,4
+2/21/20 10:00,DMD,ENG,1,2020,1
+2/21/20 10:00,Computer Science,ENG,1,N/A,1
+2/21/20 10:00,Systems Engineering,NULL,2,2023,2
+2/21/20 11:00,Fine Arts,NULL,1,2021,1
+2/21/20 11:00,Computer Science,ENG,3,2021,16
+2/21/20 11:00,Computer Science,ENG,7,2022,21
+2/21/20 11:00,Marketing,Wharton,1,2022,1
+2/21/20 11:00,Statistics,Wharton,1,2020,2
+2/21/20 11:00,Fine Arts,NULL,1,2023,1
+2/21/20 11:00,PPE,CAS,1,2021,2
+2/21/20 11:00,CBE,ENG,1,2023,2
+2/21/20 11:00,Misc,N/A,5,N/A,10
+2/21/20 11:00,SSE,NULL,1,2020,1
+2/21/20 11:00,Finance,Wharton,1,2021,2
+2/21/20 11:00,DMD,ENG,2,2021,7
+2/21/20 11:00,Finance,Wharton,1,2022,7
+2/21/20 11:00,Math,NULL,1,2022,1
+2/21/20 11:00,Computer Science,ENG,1,N/A,1
+2/21/20 11:00,OIDD,Wharton,1,2020,2
+2/21/20 12:00,Fine Arts,NULL,1,2021,1
+2/21/20 12:00,Computer Science,ENG,2,2021,16
+2/21/20 12:00,Computer Science,ENG,5,2022,21
+2/21/20 12:00,Marketing,Wharton,1,2022,1
+2/21/20 12:00,Math,NULL,1,2022,1
+2/21/20 12:00,Misc,N/A,4,N/A,10
+2/21/20 12:00,Finance,Wharton,1,2022,7
+2/21/20 12:00,Fine Arts,NULL,1,2023,1
+2/21/20 13:00,Misc,N/A,2,N/A,10
+2/21/20 13:00,Computer Science,ENG,1,2022,21
+2/21/20 13:00,Fine Arts,NULL,1,2021,1
+2/21/20 13:00,Marketing,Wharton,1,2022,1
+2/21/20 13:00,Computer Science,ENG,2,2021,16
+2/21/20 14:00,Misc,N/A,2,N/A,10
+2/21/20 14:00,Fine Arts,NULL,1,2021,1
+2/21/20 14:00,Computer Science,ENG,2,2021,16
+2/21/20 15:00,Computer Science,ENG,1,2021,16
+2/21/20 16:00,Computer Science,ENG,1,2021,16
+2/21/20 17:00,Computer Science,ENG,1,2021,16
+2/21/20 18:00,Computer Science,ENG,1,2021,16
+2/21/20 19:00,Computer Science,ENG,1,2021,16
+2/21/20 20:00,Computer Science,ENG,1,2021,16
+2/21/20 21:00,Computer Science,ENG,1,2021,16
+2/21/20 22:00,Nursing,NURS,1,2022,1
+2/21/20 22:00,Finance,Wharton,1,2020,2
+2/21/20 22:00,Economics,CAS,1,2020,2
+2/21/20 22:00,Computer Science,ENG,1,2021,16
+2/21/20 22:00,Finance and Computer Science,NULL,1,2021,1
+2/21/20 23:00,BBB,CAS,2,2022,6
+2/21/20 23:00,Nutrition,CAS,1,2022,1
+2/21/20 23:00,DMD,ENG,1,2021,7
+2/21/20 23:00,Finance,Wharton,1,2020,2
+2/21/20 23:00,Economics,CAS,1,2020,2
+2/21/20 23:00,Finance and Computer Science,NULL,1,2021,1
+2/21/20 23:00,Nursing,NURS,1,2022,1
+2/21/20 23:00,BBB,CAS,1,2020,4
+2/22/20 0:00,BBB,CAS,2,2022,6
+2/22/20 0:00,Misc,N/A,1,2021,1
+2/22/20 0:00,Computer Science,ENG,1,2020,1
+2/22/20 0:00,Political Science,CAS,1,2023,2
+2/22/20 0:00,Finance and Computer Science,NULL,1,2021,1
+2/22/20 0:00,2022,NULL,1,N/A,1
+2/22/20 0:00,Political Science,CAS,1,2022,1
+2/22/20 0:00,Misc,N/A,1,2022,1
+2/22/20 0:00,CBE,ENG,1,2022,2
+2/22/20 0:00,Finance,Wharton,1,2022,7
+2/22/20 0:00,DMD,ENG,2,2021,7
+2/22/20 0:00,Finance,Wharton,1,2020,2
+2/22/20 0:00,Computer Science,ENG,1,2022,21
+2/22/20 0:00,Economics,CAS,1,2020,2
+2/22/20 0:00,History,CAS,1,2023,1
+2/22/20 0:00,Mechanical Engineering,NULL,1,N/A,1
+2/22/20 0:00,Nursing,NURS,1,2022,1
+2/22/20 0:00,Misc,N/A,1,2023,4
+2/22/20 0:00,Statistics,Wharton,2,2021,3
+2/22/20 0:00,BBB,CAS,1,2021,2
+2/22/20 0:00,Finance,Wharton,1,2021,2
+2/22/20 1:00,BBB,CAS,1,2023,2
+2/22/20 1:00,Finance and Computer Science,NULL,1,2021,1
+2/22/20 1:00,Computer Science,ENG,2,2023,4
+2/22/20 1:00,Business Analytics,Wharton,1,2022,2
+2/22/20 1:00,Economics,CAS,1,2020,2
+2/22/20 1:00,DMD,ENG,3,2021,7
+2/22/20 1:00,Cognitive Science,NULL,1,2023,1
+2/22/20 1:00,CBE,ENG,1,2022,2
+2/22/20 1:00,SSE,NULL,1,2020,1
+2/22/20 1:00,BBB,CAS,4,2022,6
+2/22/20 1:00,Chemistry,CAS,1,2023,1
+2/22/20 1:00,2022,NULL,1,N/A,1
+2/22/20 1:00,Computer Science,ENG,4,2022,21
+2/22/20 1:00,Statistics,Wharton,2,2021,3
+2/22/20 1:00,Finance,Wharton,3,2022,7
+2/22/20 1:00,Neuroscience,NULL,1,2022,1
+2/22/20 1:00,BBB,CAS,1,2021,2
+2/22/20 1:00,Misc,N/A,1,2021,1
+2/22/20 1:00,Urban Studies,CAS,1,2022,1
+2/22/20 1:00,Computer Science,ENG,4,2021,16
+2/22/20 1:00,Political Science,CAS,1,2022,1
+2/22/20 1:00,Misc,N/A,2,N/A,10
+2/22/20 1:00,English,CAS,1,2021,2
+2/22/20 1:00,Finance,Wharton,1,2021,2
+2/22/20 1:00,Mechanical Engineering,NULL,1,N/A,1
+2/22/20 1:00,Business Analytics,Wharton,1,2020,2
+2/22/20 1:00,Nutrition,CAS,1,2022,1
+2/22/20 1:00,BBB,CAS,2,2020,4
+2/22/20 1:00,Misc,N/A,1,2022,1
+2/22/20 1:00,Computer Science,ENG,1,2020,1
+2/22/20 1:00,Political Science,CAS,1,2023,2
+2/22/20 1:00,Music,CAS,1,2020,1
+2/22/20 1:00,PPE,CAS,1,2020,1
+2/22/20 1:00,Finance,Wharton,2,2020,2
+2/22/20 1:00,History,CAS,1,2023,1
+2/22/20 1:00,Economics,CAS,1,2021,1
+2/22/20 1:00,Misc,N/A,2,2023,4
+2/22/20 1:00,CBE,ENG,1,2023,2
+2/22/20 1:00,GSWS,CAS,1,2020,1
+2/22/20 2:00,Nutrition,CAS,1,2021,1
+2/22/20 2:00,BBB,CAS,2,2023,2
+2/22/20 2:00,Finance and Computer Science,NULL,1,2021,1
+2/22/20 2:00,Nutrition,CAS,1,2022,1
+2/22/20 2:00,Computer Science,ENG,2,2023,4
+2/22/20 2:00,PPE,CAS,1,2021,2
+2/22/20 2:00,Business Analytics,Wharton,2,2022,2
+2/22/20 2:00,Urban Studies,CAS,1,2022,1
+2/22/20 2:00,Economics,CAS,1,2020,2
+2/22/20 2:00,Nursing,NURS,1,2021,2
+2/22/20 2:00,Communications,CAS,1,2023,1
+2/22/20 2:00,DMD,ENG,5,2021,7
+2/22/20 2:00,Cognitive Science,NULL,1,2023,1
+2/22/20 2:00,CBE,ENG,2,2022,2
+2/22/20 2:00,Statistics,Wharton,3,2021,3
+2/22/20 2:00,Political Science,CAS,1,2021,2
+2/22/20 2:00,OIDD,Wharton,2,2020,2
+2/22/20 2:00,BBB,CAS,4,2022,6
+2/22/20 2:00,Chemistry,CAS,1,2023,1
+2/22/20 2:00,Misc,N/A,1,2020,1
+2/22/20 2:00,2022,NULL,1,N/A,1
+2/22/20 2:00,Computer Science,ENG,10,2022,21
+2/22/20 2:00,International Studies and Business,NULL,1,2023,1
+2/22/20 2:00,Math,NULL,1,2022,1
+2/22/20 2:00,Economics,CAS,2,2023,2
+2/22/20 2:00,Cognitive Science,NULL,1,2022,1
+2/22/20 2:00,Finance,Wharton,6,2022,7
+2/22/20 2:00,SSE,NULL,1,2020,1
+2/22/20 2:00,Neuroscience,NULL,1,2022,1
+2/22/20 2:00,BBB,CAS,1,2021,2
+2/22/20 2:00,Misc,N/A,1,2021,1
+2/22/20 2:00,CBE,ENG,1,2021,2
+2/22/20 2:00,Computer Science,ENG,11,2021,16
+2/22/20 2:00,Political Science,CAS,1,2022,1
+2/22/20 2:00,Misc,N/A,4,N/A,10
+2/22/20 2:00,Statistics,Wharton,2,2020,2
+2/22/20 2:00,Communications,CAS,1,2021,1
+2/22/20 2:00,English,CAS,1,2021,2
+2/22/20 2:00,Philosophy,CAS,1,2021,1
+2/22/20 2:00,Finance,Wharton,2,2021,2
+2/22/20 2:00,Mechanical Engineering,NULL,1,N/A,1
+2/22/20 2:00,Business Analytics,Wharton,2,2020,2
+2/22/20 2:00,Fine Arts,NULL,1,2021,1
+2/22/20 2:00,Political Science,CAS,2,2023,2
+2/22/20 2:00,BBB,CAS,4,2020,4
+2/22/20 2:00,Misc,N/A,1,2022,1
+2/22/20 2:00,Computer Science,ENG,1,2020,1
+2/22/20 2:00,Undecided,NULL,1,2023,1
+2/22/20 2:00,Music,CAS,1,2020,1
+2/22/20 2:00,PPE,CAS,1,2020,1
+2/22/20 2:00,Finance,Wharton,2,2020,2
+2/22/20 2:00,Business Analytics,Wharton,2,2021,2
+2/22/20 2:00,History,CAS,1,2023,1
+2/22/20 2:00,Economics,CAS,1,2021,1
+2/22/20 2:00,Misc,N/A,2,2023,4
+2/22/20 2:00,CBE,ENG,1,2023,2
+2/22/20 2:00,Systems Engineering,NULL,2,2023,2
+2/22/20 2:00,GSWS,CAS,1,2020,1
+2/22/20 3:00,Nutrition,CAS,1,2021,1
+2/22/20 3:00,BBB,CAS,2,2023,2
+2/22/20 3:00,Philosophy,CAS,1,2021,1
+2/22/20 3:00,Statistics,Wharton,1,2022,1
+2/22/20 3:00,Political Science,CAS,1,2020,1
+2/22/20 3:00,Nutrition,CAS,1,2022,1
+2/22/20 3:00,Computer Science,ENG,3,2023,4
+2/22/20 3:00,PPE,CAS,2,2021,2
+2/22/20 3:00,Finance and Computer Science,NULL,1,2021,1
+2/22/20 3:00,Business Analytics,Wharton,2,2022,2
+2/22/20 3:00,Urban Studies,CAS,1,2022,1
+2/22/20 3:00,Economics,CAS,1,2020,2
+2/22/20 3:00,Nursing,NURS,1,2021,2
+2/22/20 3:00,Communications,CAS,1,2023,1
+2/22/20 3:00,DMD,ENG,7,2021,7
+2/22/20 3:00,Cognitive Science,NULL,1,2023,1
+2/22/20 3:00,CBE,ENG,2,2022,2
+2/22/20 3:00,Math,NULL,1,2022,1
+2/22/20 3:00,Political Science,CAS,1,2021,2
+2/22/20 3:00,OIDD,Wharton,2,2020,2
+2/22/20 3:00,BBB,CAS,5,2022,6
+2/22/20 3:00,Marketing,Wharton,1,2023,1
+2/22/20 3:00,Misc,N/A,1,2020,1
+2/22/20 3:00,2022,NULL,1,N/A,1
+2/22/20 3:00,Computer Science,ENG,17,2022,21
+2/22/20 3:00,International Studies and Business,NULL,1,2023,1
+2/22/20 3:00,Statistics,Wharton,3,2021,3
+2/22/20 3:00,Economics,CAS,2,2023,2
+2/22/20 3:00,Mathematical Economics,CAS,1,2021,1
+2/22/20 3:00,Cognitive Science,NULL,1,2022,1
+2/22/20 3:00,Finance,Wharton,6,2022,7
+2/22/20 3:00,Bioegineering,NULL,1,2023,1
+2/22/20 3:00,SSE,NULL,1,2020,1
+2/22/20 3:00,Neuroscience,NULL,1,2022,1
+2/22/20 3:00,BBB,CAS,1,2021,2
+2/22/20 3:00,Chemistry,CAS,1,2023,1
+2/22/20 3:00,Misc,N/A,1,2021,1
+2/22/20 3:00,CBE,ENG,2,2021,2
+2/22/20 3:00,Computer Science,ENG,12,2021,16
+2/22/20 3:00,Political Science,CAS,1,2022,1
+2/22/20 3:00,Misc,N/A,9,N/A,10
+2/22/20 3:00,Statistics,Wharton,2,2020,2
+2/22/20 3:00,Communications,CAS,1,2021,1
+2/22/20 3:00,English,CAS,1,2021,2
+2/22/20 3:00,PPE,CAS,1,2023,1
+2/22/20 3:00,Finance,Wharton,2,2021,2
+2/22/20 3:00,Mechanical Engineering,NULL,1,N/A,1
+2/22/20 3:00,Business Analytics,Wharton,2,2020,2
+2/22/20 3:00,Fine Arts,NULL,1,2021,1
+2/22/20 3:00,Political Science,CAS,2,2023,2
+2/22/20 3:00,BBB,CAS,4,2020,4
+2/22/20 3:00,Misc,N/A,1,2022,1
+2/22/20 3:00,Cognitive Science,NULL,1,2021,1
+2/22/20 3:00,Computer Science,ENG,1,2020,1
+2/22/20 3:00,Undecided,NULL,1,2023,1
+2/22/20 3:00,Music,CAS,1,2020,1
+2/22/20 3:00,Fine Arts,NULL,1,2023,1
+2/22/20 3:00,PPE,CAS,1,2020,1
+2/22/20 3:00,Finance,Wharton,2,2020,2
+2/22/20 3:00,Business Analytics,Wharton,2,2021,2
+2/22/20 3:00,History,CAS,1,2023,1
+2/22/20 3:00,Economics,CAS,1,2021,1
+2/22/20 3:00,Misc,N/A,3,2023,4
+2/22/20 3:00,DMD,ENG,1,2020,1
+2/22/20 3:00,CBE,ENG,2,2023,2
+2/22/20 3:00,Systems Engineering,NULL,2,2023,2
+2/22/20 3:00,GSWS,CAS,1,2020,1
+2/22/20 4:00,PPE,CAS,1,2020,1
+2/22/20 4:00,Nutrition,CAS,1,2021,1
+2/22/20 4:00,BBB,CAS,2,2023,2
+2/22/20 4:00,Philosophy,CAS,1,2021,1
+2/22/20 4:00,Statistics,Wharton,1,2022,1
+2/22/20 4:00,Political Science,CAS,1,2020,1
+2/22/20 4:00,Nutrition,CAS,1,2022,1
+2/22/20 4:00,Computer Science,ENG,3,2023,4
+2/22/20 4:00,PPE,CAS,2,2021,2
+2/22/20 4:00,Finance and Computer Science,NULL,1,2021,1
+2/22/20 4:00,Business Analytics,Wharton,2,2022,2
+2/22/20 4:00,Urban Studies,CAS,1,2022,1
+2/22/20 4:00,Economics,CAS,2,2020,2
+2/22/20 4:00,Nursing,NURS,1,2021,2
+2/22/20 4:00,Communications,CAS,1,2023,1
+2/22/20 4:00,DMD,ENG,7,2021,7
+2/22/20 4:00,Cognitive Science,NULL,1,2023,1
+2/22/20 4:00,CBE,ENG,2,2022,2
+2/22/20 4:00,Marketing,Wharton,1,2023,1
+2/22/20 4:00,Political Science,CAS,1,2021,2
+2/22/20 4:00,OIDD,Wharton,2,2020,2
+2/22/20 4:00,BBB,CAS,5,2022,6
+2/22/20 4:00,Chemistry,CAS,1,2023,1
+2/22/20 4:00,Misc,N/A,1,2020,1
+2/22/20 4:00,2022,NULL,1,N/A,1
+2/22/20 4:00,Economics,CAS,2,2023,2
+2/22/20 4:00,Computer Science,ENG,17,2022,21
+2/22/20 4:00,International Studies and Business,NULL,1,2023,1
+2/22/20 4:00,Math,NULL,1,2022,1
+2/22/20 4:00,Undecided, Wharton,1,2022,1
+2/22/20 4:00,Nursing,NURS,1,2020,1
+2/22/20 4:00,Mathematical Economics,CAS,1,2021,1
+2/22/20 4:00,Cognitive Science,NULL,1,2022,1
+2/22/20 4:00,Finance,Wharton,7,2022,7
+2/22/20 4:00,Bioegineering,NULL,1,2023,1
+2/22/20 4:00,SSE,NULL,1,2020,1
+2/22/20 4:00,Neuroscience,NULL,1,2022,1
+2/22/20 4:00,BBB,CAS,1,2021,2
+2/22/20 4:00,Misc,N/A,1,2021,1
+2/22/20 4:00,CBE,ENG,2,2021,2
+2/22/20 4:00,Computer Science,ENG,15,2021,16
+2/22/20 4:00,Political Science,CAS,1,2022,1
+2/22/20 4:00,Misc,N/A,9,N/A,10
+2/22/20 4:00,Statistics,Wharton,2,2020,2
+2/22/20 4:00,Communications,CAS,1,2021,1
+2/22/20 4:00,English,CAS,1,2021,2
+2/22/20 4:00,PPE,CAS,1,2023,1
+2/22/20 4:00,Finance,Wharton,2,2021,2
+2/22/20 4:00,Mechanical Engineering,NULL,1,N/A,1
+2/22/20 4:00,Business Analytics,Wharton,2,2020,2
+2/22/20 4:00,Fine Arts,NULL,1,2021,1
+2/22/20 4:00,Political Science,CAS,2,2023,2
+2/22/20 4:00,BBB,CAS,4,2020,4
+2/22/20 4:00,Misc,N/A,1,2022,1
+2/22/20 4:00,Cognitive Science,NULL,1,2021,1
+2/22/20 4:00,Systems Engineering,NULL,1,2022,1
+2/22/20 4:00,Computer Science,ENG,1,2020,1
+2/22/20 4:00,Undecided,NULL,1,2023,1
+2/22/20 4:00,Music,CAS,1,2020,1
+2/22/20 4:00,Fine Arts,NULL,1,2023,1
+2/22/20 4:00,Computer Science,ENG,1,N/A,1
+2/22/20 4:00,Statistics,Wharton,3,2021,3
+2/22/20 4:00,Finance,Wharton,2,2020,2
+2/22/20 4:00,Business Analytics,Wharton,2,2021,2
+2/22/20 4:00,History,CAS,1,2023,1
+2/22/20 4:00,Economics,CAS,1,2021,1
+2/22/20 4:00,Misc,N/A,3,2023,4
+2/22/20 4:00,DMD,ENG,1,2020,1
+2/22/20 4:00,CBE,ENG,2,2023,2
+2/22/20 4:00,Systems Engineering,NULL,2,2023,2
+2/22/20 4:00,GSWS,CAS,1,2020,1
+2/22/20 5:00,PPE,CAS,1,2020,1
+2/22/20 5:00,Nutrition,CAS,1,2021,1
+2/22/20 5:00,BBB,CAS,2,2023,2
+2/22/20 5:00,Philosophy,CAS,1,2021,1
+2/22/20 5:00,Statistics,Wharton,1,2022,1
+2/22/20 5:00,Political Science,CAS,1,2020,1
+2/22/20 5:00,Nutrition,CAS,1,2022,1
+2/22/20 5:00,Computer Science,ENG,4,2023,4
+2/22/20 5:00,PPE,CAS,2,2021,2
+2/22/20 5:00,Finance and Computer Science,NULL,1,2021,1
+2/22/20 5:00,Business Analytics,Wharton,2,2022,2
+2/22/20 5:00,Urban Studies,CAS,1,2022,1
+2/22/20 5:00,Economics,CAS,2,2020,2
+2/22/20 5:00,Nursing,NURS,1,2021,2
+2/22/20 5:00,Communications,CAS,1,2023,1
+2/22/20 5:00,DMD,ENG,7,2021,7
+2/22/20 5:00,Cognitive Science,NULL,1,2023,1
+2/22/20 5:00,CBE,ENG,2,2022,2
+2/22/20 5:00,Marketing,Wharton,1,2023,1
+2/22/20 5:00,Political Science,CAS,1,2021,2
+2/22/20 5:00,OIDD,Wharton,2,2020,2
+2/22/20 5:00,BBB,CAS,5,2022,6
+2/22/20 5:00,Chemistry,CAS,1,2023,1
+2/22/20 5:00,Misc,N/A,1,2020,1
+2/22/20 5:00,2022,NULL,1,N/A,1
+2/22/20 5:00,Economics,CAS,2,2023,2
+2/22/20 5:00,Computer Science,ENG,19,2022,21
+2/22/20 5:00,International Studies and Business,NULL,1,2023,1
+2/22/20 5:00,Math,NULL,1,2022,1
+2/22/20 5:00,Undecided, Wharton,1,2022,1
+2/22/20 5:00,Nursing,NURS,1,2020,1
+2/22/20 5:00,Mathematical Economics,CAS,1,2021,1
+2/22/20 5:00,Cognitive Science,NULL,1,2022,1
+2/22/20 5:00,Finance,Wharton,7,2022,7
+2/22/20 5:00,Bioegineering,NULL,1,2023,1
+2/22/20 5:00,SSE,NULL,1,2020,1
+2/22/20 5:00,Neuroscience,NULL,1,2022,1
+2/22/20 5:00,BBB,CAS,1,2021,2
+2/22/20 5:00,Misc,N/A,1,2021,1
+2/22/20 5:00,CBE,ENG,2,2021,2
+2/22/20 5:00,Computer Science,ENG,15,2021,16
+2/22/20 5:00,Political Science,CAS,1,2022,1
+2/22/20 5:00,Misc,N/A,9,N/A,10
+2/22/20 5:00,Marketing,Wharton,1,2022,1
+2/22/20 5:00,Statistics,Wharton,2,2020,2
+2/22/20 5:00,Communications,CAS,1,2021,1
+2/22/20 5:00,English,CAS,1,2021,2
+2/22/20 5:00,PPE,CAS,1,2023,1
+2/22/20 5:00,Finance,Wharton,2,2021,2
+2/22/20 5:00,Mechanical Engineering,NULL,1,N/A,1
+2/22/20 5:00,Business Analytics,Wharton,2,2020,2
+2/22/20 5:00,Fine Arts,NULL,1,2021,1
+2/22/20 5:00,Political Science,CAS,2,2023,2
+2/22/20 5:00,BBB,CAS,4,2020,4
+2/22/20 5:00,Misc,N/A,1,2022,1
+2/22/20 5:00,Cognitive Science,NULL,1,2021,1
+2/22/20 5:00,Systems Engineering,NULL,1,2022,1
+2/22/20 5:00,Computer Science,ENG,1,2020,1
+2/22/20 5:00,Undecided,NULL,1,2023,1
+2/22/20 5:00,Music,CAS,1,2020,1
+2/22/20 5:00,Fine Arts,NULL,1,2023,1
+2/22/20 5:00,Computer Science,ENG,1,N/A,1
+2/22/20 5:00,Statistics,Wharton,3,2021,3
+2/22/20 5:00,Finance,Wharton,2,2020,2
+2/22/20 5:00,Business Analytics,Wharton,2,2021,2
+2/22/20 5:00,History,CAS,1,2023,1
+2/22/20 5:00,Economics,CAS,1,2021,1
+2/22/20 5:00,Misc,N/A,3,2023,4
+2/22/20 5:00,DMD,ENG,1,2020,1
+2/22/20 5:00,CBE,ENG,2,2023,2
+2/22/20 5:00,Systems Engineering,NULL,2,2023,2
+2/22/20 5:00,GSWS,CAS,1,2020,1
+2/22/20 6:00,PPE,CAS,1,2020,1
+2/22/20 6:00,Nutrition,CAS,1,2021,1
+2/22/20 6:00,BBB,CAS,2,2023,2
+2/22/20 6:00,Philosophy,CAS,1,2021,1
+2/22/20 6:00,Statistics,Wharton,1,2022,1
+2/22/20 6:00,Political Science,CAS,1,2020,1
+2/22/20 6:00,Nutrition,CAS,1,2022,1
+2/22/20 6:00,Computer Science,ENG,4,2023,4
+2/22/20 6:00,PPE,CAS,2,2021,2
+2/22/20 6:00,Finance and Computer Science,NULL,1,2021,1
+2/22/20 6:00,Business Analytics,Wharton,2,2022,2
+2/22/20 6:00,Urban Studies,CAS,1,2022,1
+2/22/20 6:00,Economics,CAS,2,2020,2
+2/22/20 6:00,Nursing,NURS,1,2021,2
+2/22/20 6:00,Communications,CAS,1,2023,1
+2/22/20 6:00,DMD,ENG,7,2021,7
+2/22/20 6:00,Cognitive Science,NULL,1,2023,1
+2/22/20 6:00,CBE,ENG,2,2022,2
+2/22/20 6:00,Marketing,Wharton,1,2023,1
+2/22/20 6:00,Political Science,CAS,1,2021,2
+2/22/20 6:00,OIDD,Wharton,2,2020,2
+2/22/20 6:00,BBB,CAS,5,2022,6
+2/22/20 6:00,Chemistry,CAS,1,2023,1
+2/22/20 6:00,Misc,N/A,1,2020,1
+2/22/20 6:00,2022,NULL,1,N/A,1
+2/22/20 6:00,Economics,CAS,2,2023,2
+2/22/20 6:00,Computer Science,ENG,18,2022,21
+2/22/20 6:00,International Studies and Business,NULL,1,2023,1
+2/22/20 6:00,Math,NULL,1,2022,1
+2/22/20 6:00,Undecided, Wharton,1,2022,1
+2/22/20 6:00,Nursing,NURS,1,2020,1
+2/22/20 6:00,Mathematical Economics,CAS,1,2021,1
+2/22/20 6:00,Cognitive Science,NULL,1,2022,1
+2/22/20 6:00,Finance,Wharton,7,2022,7
+2/22/20 6:00,Bioegineering,NULL,1,2023,1
+2/22/20 6:00,SSE,NULL,1,2020,1
+2/22/20 6:00,Neuroscience,NULL,1,2022,1
+2/22/20 6:00,BBB,CAS,1,2021,2
+2/22/20 6:00,Misc,N/A,1,2021,1
+2/22/20 6:00,CBE,ENG,2,2021,2
+2/22/20 6:00,Computer Science,ENG,15,2021,16
+2/22/20 6:00,Political Science,CAS,1,2022,1
+2/22/20 6:00,Misc,N/A,10,N/A,10
+2/22/20 6:00,Marketing,Wharton,1,2022,1
+2/22/20 6:00,Statistics,Wharton,2,2020,2
+2/22/20 6:00,Communications,CAS,1,2021,1
+2/22/20 6:00,English,CAS,1,2021,2
+2/22/20 6:00,PPE,CAS,1,2023,1
+2/22/20 6:00,Finance,Wharton,2,2021,2
+2/22/20 6:00,Mechanical Engineering,NULL,1,N/A,1
+2/22/20 6:00,Business Analytics,Wharton,2,2020,2
+2/22/20 6:00,Fine Arts,NULL,1,2021,1
+2/22/20 6:00,Political Science,CAS,2,2023,2
+2/22/20 6:00,BBB,CAS,4,2020,4
+2/22/20 6:00,Misc,N/A,1,2022,1
+2/22/20 6:00,Cognitive Science,NULL,1,2021,1
+2/22/20 6:00,Systems Engineering,NULL,1,2022,1
+2/22/20 6:00,Computer Science,ENG,1,2020,1
+2/22/20 6:00,Undecided,NULL,1,2023,1
+2/22/20 6:00,Music,CAS,1,2020,1
+2/22/20 6:00,Fine Arts,NULL,1,2023,1
+2/22/20 6:00,Computer Science,ENG,1,N/A,1
+2/22/20 6:00,Statistics,Wharton,3,2021,3
+2/22/20 6:00,Finance,Wharton,2,2020,2
+2/22/20 6:00,Business Analytics,Wharton,2,2021,2
+2/22/20 6:00,History,CAS,1,2023,1
+2/22/20 6:00,Economics,CAS,1,2021,1
+2/22/20 6:00,Misc,N/A,3,2023,4
+2/22/20 6:00,DMD,ENG,1,2020,1
+2/22/20 6:00,CBE,ENG,2,2023,2
+2/22/20 6:00,Systems Engineering,NULL,2,2023,2
+2/22/20 6:00,GSWS,CAS,1,2020,1
+2/22/20 7:00,PPE,CAS,1,2020,1
+2/22/20 7:00,Nutrition,CAS,1,2021,1
+2/22/20 7:00,BBB,CAS,2,2023,2
+2/22/20 7:00,Philosophy,CAS,1,2021,1
+2/22/20 7:00,Statistics,Wharton,1,2022,1
+2/22/20 7:00,Political Science,CAS,1,2020,1
+2/22/20 7:00,Nutrition,CAS,1,2022,1
+2/22/20 7:00,Computer Science,ENG,4,2023,4
+2/22/20 7:00,PPE,CAS,2,2021,2
+2/22/20 7:00,Finance and Computer Science,NULL,1,2021,1
+2/22/20 7:00,Business Analytics,Wharton,1,2022,2
+2/22/20 7:00,Urban Studies,CAS,1,2022,1
+2/22/20 7:00,Economics,CAS,1,2020,2
+2/22/20 7:00,Nursing,NURS,1,2021,2
+2/22/20 7:00,Communications,CAS,1,2023,1
+2/22/20 7:00,DMD,ENG,6,2021,7
+2/22/20 7:00,Cognitive Science,NULL,1,2023,1
+2/22/20 7:00,CBE,ENG,2,2022,2
+2/22/20 7:00,Marketing,Wharton,1,2023,1
+2/22/20 7:00,Political Science,CAS,1,2021,2
+2/22/20 7:00,OIDD,Wharton,2,2020,2
+2/22/20 7:00,BBB,CAS,5,2022,6
+2/22/20 7:00,Chemistry,CAS,1,2023,1
+2/22/20 7:00,Misc,N/A,1,2020,1
+2/22/20 7:00,2022,NULL,1,N/A,1
+2/22/20 7:00,Economics,CAS,2,2023,2
+2/22/20 7:00,Computer Science,ENG,18,2022,21
+2/22/20 7:00,International Studies and Business,NULL,1,2023,1
+2/22/20 7:00,Math,NULL,1,2022,1
+2/22/20 7:00,Undecided, Wharton,1,2022,1
+2/22/20 7:00,Nursing,NURS,1,2020,1
+2/22/20 7:00,Mathematical Economics,CAS,1,2021,1
+2/22/20 7:00,Cognitive Science,NULL,1,2022,1
+2/22/20 7:00,Finance,Wharton,5,2022,7
+2/22/20 7:00,Bioegineering,NULL,1,2023,1
+2/22/20 7:00,SSE,NULL,1,2020,1
+2/22/20 7:00,Neuroscience,NULL,1,2022,1
+2/22/20 7:00,BBB,CAS,1,2021,2
+2/22/20 7:00,Misc,N/A,1,2021,1
+2/22/20 7:00,CBE,ENG,2,2021,2
+2/22/20 7:00,Computer Science,ENG,15,2021,16
+2/22/20 7:00,Political Science,CAS,1,2022,1
+2/22/20 7:00,Misc,N/A,10,N/A,10
+2/22/20 7:00,Marketing,Wharton,1,2022,1
+2/22/20 7:00,Statistics,Wharton,2,2020,2
+2/22/20 7:00,Communications,CAS,1,2021,1
+2/22/20 7:00,English,CAS,1,2021,2
+2/22/20 7:00,PPE,CAS,1,2023,1
+2/22/20 7:00,Finance,Wharton,2,2021,2
+2/22/20 7:00,Mechanical Engineering,NULL,1,N/A,1
+2/22/20 7:00,Business Analytics,Wharton,2,2020,2
+2/22/20 7:00,Fine Arts,NULL,1,2021,1
+2/22/20 7:00,Political Science,CAS,2,2023,2
+2/22/20 7:00,BBB,CAS,4,2020,4
+2/22/20 7:00,Misc,N/A,1,2022,1
+2/22/20 7:00,Cognitive Science,NULL,1,2021,1
+2/22/20 7:00,Systems Engineering,NULL,1,2022,1
+2/22/20 7:00,Computer Science,ENG,1,2020,1
+2/22/20 7:00,Undecided,NULL,1,2023,1
+2/22/20 7:00,Music,CAS,1,2020,1
+2/22/20 7:00,Fine Arts,NULL,1,2023,1
+2/22/20 7:00,Computer Science,ENG,1,N/A,1
+2/22/20 7:00,Statistics,Wharton,2,2021,3
+2/22/20 7:00,Finance,Wharton,1,2020,2
+2/22/20 7:00,Business Analytics,Wharton,2,2021,2
+2/22/20 7:00,History,CAS,1,2023,1
+2/22/20 7:00,Economics,CAS,1,2021,1
+2/22/20 7:00,Misc,N/A,3,2023,4
+2/22/20 7:00,DMD,ENG,1,2020,1
+2/22/20 7:00,CBE,ENG,2,2023,2
+2/22/20 7:00,Systems Engineering,NULL,2,2023,2
+2/22/20 7:00,GSWS,CAS,1,2020,1
+2/22/20 8:00,PPE,CAS,1,2020,1
+2/22/20 8:00,Nutrition,CAS,1,2021,1
+2/22/20 8:00,BBB,CAS,2,2023,2
+2/22/20 8:00,Statistics,Wharton,1,2022,1
+2/22/20 8:00,Political Science,CAS,1,2020,1
+2/22/20 8:00,Computer Science,ENG,3,2023,4
+2/22/20 8:00,PPE,CAS,2,2021,2
+2/22/20 8:00,Business Analytics,Wharton,1,2022,2
+2/22/20 8:00,Urban Studies,CAS,1,2022,1
+2/22/20 8:00,Economics,CAS,1,2020,2
+2/22/20 8:00,Nursing,NURS,1,2021,2
+2/22/20 8:00,Philosophy,CAS,1,2021,1
+2/22/20 8:00,DMD,ENG,6,2021,7
+2/22/20 8:00,Cognitive Science,NULL,1,2023,1
+2/22/20 8:00,CBE,ENG,2,2022,2
+2/22/20 8:00,Marketing,Wharton,1,2023,1
+2/22/20 8:00,Political Science,CAS,1,2021,2
+2/22/20 8:00,OIDD,Wharton,2,2020,2
+2/22/20 8:00,BBB,CAS,5,2022,6
+2/22/20 8:00,Chemistry,CAS,1,2023,1
+2/22/20 8:00,Misc,N/A,1,2020,1
+2/22/20 8:00,2022,NULL,1,N/A,1
+2/22/20 8:00,Economics,CAS,2,2023,2
+2/22/20 8:00,Computer Science,ENG,18,2022,21
+2/22/20 8:00,International Studies and Business,NULL,1,2023,1
+2/22/20 8:00,Math,NULL,1,2022,1
+2/22/20 8:00,Undecided, Wharton,1,2022,1
+2/22/20 8:00,Nursing,NURS,1,2020,1
+2/22/20 8:00,Mathematical Economics,CAS,1,2021,1
+2/22/20 8:00,Cognitive Science,NULL,1,2022,1
+2/22/20 8:00,Finance,Wharton,5,2022,7
+2/22/20 8:00,Bioegineering,NULL,1,2023,1
+2/22/20 8:00,SSE,NULL,1,2020,1
+2/22/20 8:00,Neuroscience,NULL,1,2022,1
+2/22/20 8:00,BBB,CAS,1,2021,2
+2/22/20 8:00,Misc,N/A,1,2021,1
+2/22/20 8:00,CBE,ENG,2,2021,2
+2/22/20 8:00,Computer Science,ENG,14,2021,16
+2/22/20 8:00,Political Science,CAS,1,2022,1
+2/22/20 8:00,Misc,N/A,10,N/A,10
+2/22/20 8:00,Marketing,Wharton,1,2022,1
+2/22/20 8:00,Statistics,Wharton,2,2020,2
+2/22/20 8:00,Communications,CAS,1,2021,1
+2/22/20 8:00,English,CAS,1,2021,2
+2/22/20 8:00,PPE,CAS,1,2023,1
+2/22/20 8:00,Finance,Wharton,2,2021,2
+2/22/20 8:00,Mechanical Engineering,NULL,1,N/A,1
+2/22/20 8:00,Business Analytics,Wharton,2,2020,2
+2/22/20 8:00,Fine Arts,NULL,1,2021,1
+2/22/20 8:00,Nutrition,CAS,1,2022,1
+2/22/20 8:00,BBB,CAS,4,2020,4
+2/22/20 8:00,Misc,N/A,1,2022,1
+2/22/20 8:00,Cognitive Science,NULL,1,2021,1
+2/22/20 8:00,Systems Engineering,NULL,1,2022,1
+2/22/20 8:00,Computer Science,ENG,1,2020,1
+2/22/20 8:00,Political Science,CAS,2,2023,2
+2/22/20 8:00,Music,CAS,1,2020,1
+2/22/20 8:00,Fine Arts,NULL,1,2023,1
+2/22/20 8:00,Computer Science,ENG,1,N/A,1
+2/22/20 8:00,Statistics,Wharton,2,2021,3
+2/22/20 8:00,Finance,Wharton,1,2020,2
+2/22/20 8:00,Business Analytics,Wharton,2,2021,2
+2/22/20 8:00,History,CAS,1,2023,1
+2/22/20 8:00,Economics,CAS,1,2021,1
+2/22/20 8:00,Misc,N/A,3,2023,4
+2/22/20 8:00,DMD,ENG,1,2020,1
+2/22/20 8:00,CBE,ENG,2,2023,2
+2/22/20 8:00,Systems Engineering,NULL,2,2023,2
+2/22/20 8:00,GSWS,CAS,1,2020,1
+2/22/20 9:00,Nutrition,CAS,1,2021,1
+2/22/20 9:00,BBB,CAS,1,2023,2
+2/22/20 9:00,Statistics,Wharton,1,2022,1
+2/22/20 9:00,Political Science,CAS,1,2020,1
+2/22/20 9:00,Computer Science,ENG,3,2023,4
+2/22/20 9:00,PPE,CAS,2,2021,2
+2/22/20 9:00,Business Analytics,Wharton,1,2022,2
+2/22/20 9:00,Urban Studies,CAS,1,2022,1
+2/22/20 9:00,Economics,CAS,1,2020,2
+2/22/20 9:00,Nursing,NURS,1,2021,2
+2/22/20 9:00,Philosophy,CAS,1,2021,1
+2/22/20 9:00,DMD,ENG,5,2021,7
+2/22/20 9:00,CBE,ENG,1,2022,2
+2/22/20 9:00,Math,NULL,1,2022,1
+2/22/20 9:00,Political Science,CAS,1,2021,2
+2/22/20 9:00,OIDD,Wharton,2,2020,2
+2/22/20 9:00,BBB,CAS,5,2022,6
+2/22/20 9:00,Marketing,Wharton,1,2023,1
+2/22/20 9:00,Misc,N/A,1,2020,1
+2/22/20 9:00,2022,NULL,1,N/A,1
+2/22/20 9:00,Economics,CAS,2,2023,2
+2/22/20 9:00,Computer Science,ENG,16,2022,21
+2/22/20 9:00,International Studies and Business,NULL,1,2023,1
+2/22/20 9:00,Statistics,Wharton,2,2021,3
+2/22/20 9:00,Undecided, Wharton,1,2022,1
+2/22/20 9:00,Nursing,NURS,1,2020,1
+2/22/20 9:00,Cognitive Science,NULL,1,2022,1
+2/22/20 9:00,Finance,Wharton,3,2022,7
+2/22/20 9:00,Bioegineering,NULL,1,2023,1
+2/22/20 9:00,SSE,NULL,1,2020,1
+2/22/20 9:00,Neuroscience,NULL,1,2022,1
+2/22/20 9:00,BBB,CAS,1,2021,2
+2/22/20 9:00,Misc,N/A,1,2021,1
+2/22/20 9:00,CBE,ENG,2,2021,2
+2/22/20 9:00,Computer Science,ENG,12,2021,16
+2/22/20 9:00,Chemistry,CAS,1,2023,1
+2/22/20 9:00,Misc,N/A,9,N/A,10
+2/22/20 9:00,Marketing,Wharton,1,2022,1
+2/22/20 9:00,Statistics,Wharton,2,2020,2
+2/22/20 9:00,Communications,CAS,1,2021,1
+2/22/20 9:00,English,CAS,1,2021,2
+2/22/20 9:00,PPE,CAS,1,2023,1
+2/22/20 9:00,Finance,Wharton,2,2021,2
+2/22/20 9:00,Mechanical Engineering,NULL,1,N/A,1
+2/22/20 9:00,Business Analytics,Wharton,2,2020,2
+2/22/20 9:00,Fine Arts,NULL,1,2021,1
+2/22/20 9:00,Nutrition,CAS,1,2022,1
+2/22/20 9:00,BBB,CAS,3,2020,4
+2/22/20 9:00,Misc,N/A,1,2022,1
+2/22/20 9:00,Cognitive Science,NULL,1,2021,1
+2/22/20 9:00,Systems Engineering,NULL,1,2022,1
+2/22/20 9:00,Computer Science,ENG,1,2020,1
+2/22/20 9:00,Political Science,CAS,1,2023,2
+2/22/20 9:00,Music,CAS,1,2020,1
+2/22/20 9:00,Fine Arts,NULL,1,2023,1
+2/22/20 9:00,Computer Science,ENG,1,N/A,1
+2/22/20 9:00,PPE,CAS,1,2020,1
+2/22/20 9:00,Finance,Wharton,1,2020,2
+2/22/20 9:00,Business Analytics,Wharton,2,2021,2
+2/22/20 9:00,Economics,CAS,1,2021,1
+2/22/20 9:00,Misc,N/A,2,2023,4
+2/22/20 9:00,DMD,ENG,1,2020,1
+2/22/20 9:00,CBE,ENG,2,2023,2
+2/22/20 9:00,Systems Engineering,NULL,2,2023,2
+2/22/20 9:00,GSWS,CAS,1,2020,1
+2/22/20 10:00,Nutrition,CAS,1,2021,1
+2/22/20 10:00,BBB,CAS,1,2023,2
+2/22/20 10:00,Statistics,Wharton,1,2022,1
+2/22/20 10:00,Political Science,CAS,1,2020,1
+2/22/20 10:00,Computer Science,ENG,2,2023,4
+2/22/20 10:00,PPE,CAS,1,2021,2
+2/22/20 10:00,Business Analytics,Wharton,1,2022,2
+2/22/20 10:00,Fine Arts,NULL,1,2021,1
+2/22/20 10:00,Economics,CAS,1,2020,2
+2/22/20 10:00,Nursing,NURS,1,2021,2
+2/22/20 10:00,Philosophy,CAS,1,2021,1
+2/22/20 10:00,DMD,ENG,3,2021,7
+2/22/20 10:00,Statistics,Wharton,2,2021,3
+2/22/20 10:00,Political Science,CAS,1,2021,2
+2/22/20 10:00,OIDD,Wharton,2,2020,2
+2/22/20 10:00,BBB,CAS,1,2022,6
+2/22/20 10:00,Marketing,Wharton,1,2023,1
+2/22/20 10:00,Misc,N/A,1,2020,1
+2/22/20 10:00,2022,NULL,1,N/A,1
+2/22/20 10:00,Computer Science,ENG,12,2022,21
+2/22/20 10:00,Math,NULL,1,2022,1
+2/22/20 10:00,Economics,CAS,2,2023,2
+2/22/20 10:00,Finance,Wharton,2,2022,7
+2/22/20 10:00,Bioegineering,NULL,1,2023,1
+2/22/20 10:00,SSE,NULL,1,2020,1
+2/22/20 10:00,Fine Arts,NULL,1,2023,1
+2/22/20 10:00,Misc,N/A,1,2021,1
+2/22/20 10:00,CBE,ENG,2,2021,2
+2/22/20 10:00,Computer Science,ENG,11,2021,16
+2/22/20 10:00,Misc,N/A,7,N/A,10
+2/22/20 10:00,Marketing,Wharton,1,2022,1
+2/22/20 10:00,Statistics,Wharton,2,2020,2
+2/22/20 10:00,Communications,CAS,1,2021,1
+2/22/20 10:00,PPE,CAS,1,2023,1
+2/22/20 10:00,Finance,Wharton,2,2021,2
+2/22/20 10:00,Mechanical Engineering,NULL,1,N/A,1
+2/22/20 10:00,Business Analytics,Wharton,2,2020,2
+2/22/20 10:00,BBB,CAS,2,2020,4
+2/22/20 10:00,Misc,N/A,1,2022,1
+2/22/20 10:00,Systems Engineering,NULL,1,2022,1
+2/22/20 10:00,Computer Science,ENG,1,2020,1
+2/22/20 10:00,Political Science,CAS,1,2023,2
+2/22/20 10:00,Music,CAS,1,2020,1
+2/22/20 10:00,CBE,ENG,1,2023,2
+2/22/20 10:00,PPE,CAS,1,2020,1
+2/22/20 10:00,Finance,Wharton,1,2020,2
+2/22/20 10:00,Business Analytics,Wharton,2,2021,2
+2/22/20 10:00,Misc,N/A,1,2023,4
+2/22/20 10:00,DMD,ENG,1,2020,1
+2/22/20 10:00,Computer Science,ENG,1,N/A,1
+2/22/20 10:00,Systems Engineering,NULL,2,2023,2
+2/22/20 10:00,GSWS,CAS,1,2020,1
+2/22/20 11:00,Political Science,CAS,1,2020,1
+2/22/20 11:00,BBB,CAS,1,2023,2
+2/22/20 11:00,Computer Science,ENG,1,2023,4
+2/22/20 11:00,PPE,CAS,1,2021,2
+2/22/20 11:00,Fine Arts,NULL,1,2021,1
+2/22/20 11:00,Economics,CAS,1,2020,2
+2/22/20 11:00,DMD,ENG,1,2021,7
+2/22/20 11:00,Statistics,Wharton,1,2021,3
+2/22/20 11:00,SSE,NULL,1,2020,1
+2/22/20 11:00,BBB,CAS,1,2022,6
+2/22/20 11:00,Computer Science,ENG,6,2022,21
+2/22/20 11:00,Math,NULL,1,2022,1
+2/22/20 11:00,Economics,CAS,1,2023,2
+2/22/20 11:00,Finance,Wharton,1,2022,7
+2/22/20 11:00,Fine Arts,NULL,1,2023,1
+2/22/20 11:00,CBE,ENG,1,2021,2
+2/22/20 11:00,Computer Science,ENG,5,2021,16
+2/22/20 11:00,Misc,N/A,5,N/A,10
+2/22/20 11:00,Marketing,Wharton,1,2022,1
+2/22/20 11:00,Finance,Wharton,1,2021,2
+2/22/20 11:00,Business Analytics,Wharton,2,2020,2
+2/22/20 11:00,BBB,CAS,2,2020,4
+2/22/20 11:00,Political Science,CAS,1,2023,2
+2/22/20 11:00,Computer Science,ENG,1,N/A,1
+2/22/20 11:00,Business Analytics,Wharton,1,2021,2
+2/22/20 11:00,DMD,ENG,1,2020,1
+2/22/20 11:00,CBE,ENG,1,2023,2
+2/22/20 11:00,Systems Engineering,NULL,1,2023,2
+2/22/20 12:00,BBB,CAS,1,2023,2
+2/22/20 12:00,Computer Science,ENG,2,2021,16
+2/22/20 12:00,Computer Science,ENG,6,2022,21
+2/22/20 12:00,Computer Science,ENG,1,2023,4
+2/22/20 12:00,Marketing,Wharton,1,2022,1
+2/22/20 12:00,Math,NULL,1,2022,1
+2/22/20 12:00,Misc,N/A,3,N/A,10
+2/22/20 12:00,Fine Arts,NULL,1,2021,1
+2/22/20 12:00,Economics,CAS,1,2020,2
+2/22/20 12:00,Finance,Wharton,1,2021,2
+2/22/20 12:00,Finance,Wharton,1,2022,7
+2/22/20 12:00,Statistics,Wharton,1,2021,3
+2/22/20 12:00,SSE,NULL,1,2020,1
+2/22/20 13:00,Misc,N/A,2,N/A,10
+2/22/20 13:00,Computer Science,ENG,4,2022,21
+2/22/20 13:00,Fine Arts,NULL,1,2021,1
+2/22/20 13:00,Marketing,Wharton,1,2022,1
+2/22/20 13:00,Computer Science,ENG,2,2021,16
+2/22/20 14:00,Fine Arts,NULL,1,2021,1
+2/22/20 14:00,Computer Science,ENG,2,2021,16
+2/22/20 14:00,Misc,N/A,2,N/A,10
+2/22/20 14:00,Marketing,Wharton,1,2022,1
+2/22/20 14:00,Computer Science,ENG,1,2022,21
+2/22/20 14:00,Mathematical Economics,CAS,1,2021,1
+2/22/20 15:00,Misc,N/A,1,N/A,10
+2/22/20 15:00,Fine Arts,NULL,1,2021,1
+2/22/20 15:00,Computer Science,ENG,2,2021,16
+2/22/20 16:00,Misc,N/A,1,N/A,10
+2/22/20 16:00,Fine Arts,NULL,1,2021,1
+2/22/20 16:00,Computer Science,ENG,2,2021,16
+2/22/20 17:00,Fine Arts,NULL,1,2021,1
+2/22/20 17:00,Computer Science,ENG,2,2021,16
+2/22/20 18:00,Computer Science,ENG,1,2021,16
+2/22/20 19:00,Computer Science,ENG,1,2021,16
+2/22/20 20:00,Computer Science,ENG,1,2021,16
+2/22/20 21:00,Computer Science,ENG,1,2021,16
+2/22/20 22:00,Computer Science,ENG,1,2021,16
+2/22/20 22:00,Computer Science,ENG,1,2022,21
+2/22/20 22:00,Finance,Wharton,1,2020,2
+2/22/20 22:00,Economics,CAS,1,2020,2
+2/22/20 22:00,Finance and Computer Science,NULL,1,2021,1
+2/22/20 22:00,Nursing,NURS,1,2022,1
+2/22/20 23:00,Political Science,CAS,1,2023,2
+2/22/20 23:00,Computer Science,ENG,1,2022,21
+2/22/20 23:00,DMD,ENG,1,2021,7
+2/22/20 23:00,Finance,Wharton,1,2020,2
+2/22/20 23:00,Economics,CAS,1,2020,2
+2/22/20 23:00,History,CAS,1,2023,1
+2/22/20 23:00,Finance and Computer Science,NULL,1,2021,1
+2/22/20 23:00,Nursing,NURS,1,2022,1
+2/22/20 23:00,BBB,CAS,1,2020,4
+2/23/20 0:00,BBB,CAS,2,2023,2
+2/23/20 0:00,Business Analytics,Wharton,1,2022,2
+2/23/20 0:00,Urban Studies,CAS,1,2022,1
+2/23/20 0:00,Economics,CAS,1,2020,2
+2/23/20 0:00,DMD,ENG,2,2021,7
+2/23/20 0:00,CBE,ENG,2,2022,2
+2/23/20 0:00,Political Science,CAS,1,2021,2
+2/23/20 0:00,OIDD,Wharton,1,2020,2
+2/23/20 0:00,BBB,CAS,4,2022,6
+2/23/20 0:00,Chemistry,CAS,1,2023,1
+2/23/20 0:00,Computer Science,ENG,3,2022,21
+2/23/20 0:00,Statistics,Wharton,2,2021,3
+2/23/20 0:00,Nursing,NURS,1,2020,1
+2/23/20 0:00,Mathematical Economics,CAS,1,2021,1
+2/23/20 0:00,Finance,Wharton,3,2022,7
+2/23/20 0:00,Neuroscience,NULL,1,2022,1
+2/23/20 0:00,Misc,N/A,1,2021,1
+2/23/20 0:00,CBE,ENG,1,2021,2
+2/23/20 0:00,Political Science,CAS,1,2022,1
+2/23/20 0:00,Statistics,Wharton,1,2020,2
+2/23/20 0:00,English,CAS,1,2021,2
+2/23/20 0:00,Finance,Wharton,1,2021,2
+2/23/20 0:00,Finance and Computer Science,NULL,1,2021,1
+2/23/20 0:00,Nutrition,CAS,1,2022,1
+2/23/20 0:00,Political Science,CAS,2,2023,2
+2/23/20 0:00,Finance,Wharton,1,2020,2
+2/23/20 0:00,History,CAS,1,2023,1
+2/23/20 0:00,Nursing,NURS,1,2022,1
+2/23/20 0:00,Misc,N/A,1,2023,4
+2/23/20 1:00,BBB,CAS,2,2023,2
+2/23/20 1:00,Computer Science,ENG,2,2023,4
+2/23/20 1:00,Business Analytics,Wharton,1,2022,2
+2/23/20 1:00,CBE,ENG,1,2021,2
+2/23/20 1:00,Economics,CAS,1,2020,2
+2/23/20 1:00,DMD,ENG,3,2021,7
+2/23/20 1:00,Cognitive Science,NULL,1,2023,1
+2/23/20 1:00,CBE,ENG,2,2022,2
+2/23/20 1:00,Political Science,CAS,1,2021,2
+2/23/20 1:00,OIDD,Wharton,2,2020,2
+2/23/20 1:00,BBB,CAS,4,2022,6
+2/23/20 1:00,Chemistry,CAS,1,2023,1
+2/23/20 1:00,Computer Science,ENG,5,2022,21
+2/23/20 1:00,International Studies and Business,NULL,1,2023,1
+2/23/20 1:00,Statistics,Wharton,2,2021,3
+2/23/20 1:00,Nursing,NURS,1,2020,1
+2/23/20 1:00,Mathematical Economics,CAS,1,2021,1
+2/23/20 1:00,Finance,Wharton,4,2022,7
+2/23/20 1:00,SSE,NULL,1,2020,1
+2/23/20 1:00,Neuroscience,NULL,1,2022,1
+2/23/20 1:00,Misc,N/A,1,2021,1
+2/23/20 1:00,Urban Studies,CAS,1,2022,1
+2/23/20 1:00,Computer Science,ENG,3,2021,16
+2/23/20 1:00,Political Science,CAS,1,2022,1
+2/23/20 1:00,Misc,N/A,3,N/A,10
+2/23/20 1:00,Statistics,Wharton,2,2020,2
+2/23/20 1:00,English,CAS,1,2021,2
+2/23/20 1:00,Finance,Wharton,1,2021,2
+2/23/20 1:00,Finance and Computer Science,NULL,1,2021,1
+2/23/20 1:00,Business Analytics,Wharton,1,2020,2
+2/23/20 1:00,Nutrition,CAS,1,2022,1
+2/23/20 1:00,BBB,CAS,2,2020,4
+2/23/20 1:00,Misc,N/A,1,2022,1
+2/23/20 1:00,Political Science,CAS,2,2023,2
+2/23/20 1:00,Music,CAS,1,2020,1
+2/23/20 1:00,PPE,CAS,1,2020,1
+2/23/20 1:00,Finance,Wharton,2,2020,2
+2/23/20 1:00,History,CAS,1,2023,1
+2/23/20 1:00,Economics,CAS,1,2021,1
+2/23/20 1:00,Misc,N/A,1,2023,4
+2/23/20 1:00,CBE,ENG,1,2023,2
+2/23/20 1:00,GSWS,CAS,1,2020,1
+2/23/20 2:00,Nutrition,CAS,1,2021,1
+2/23/20 2:00,BBB,CAS,2,2023,2
+2/23/20 2:00,Finance and Computer Science,NULL,1,2021,1
+2/23/20 2:00,Computer Science,ENG,2,2023,4
+2/23/20 2:00,PPE,CAS,1,2021,2
+2/23/20 2:00,Business Analytics,Wharton,2,2022,2
+2/23/20 2:00,Urban Studies,CAS,1,2022,1
+2/23/20 2:00,Economics,CAS,1,2020,2
+2/23/20 2:00,Nursing,NURS,1,2021,2
+2/23/20 2:00,Communications,CAS,1,2023,1
+2/23/20 2:00,DMD,ENG,5,2021,7
+2/23/20 2:00,Cognitive Science,NULL,1,2023,1
+2/23/20 2:00,CBE,ENG,2,2022,2
+2/23/20 2:00,Political Science,CAS,1,2021,2
+2/23/20 2:00,OIDD,Wharton,2,2020,2
+2/23/20 2:00,BBB,CAS,5,2022,6
+2/23/20 2:00,Chemistry,CAS,1,2023,1
+2/23/20 2:00,Misc,N/A,1,2020,1
+2/23/20 2:00,2022,NULL,1,N/A,1
+2/23/20 2:00,Computer Science,ENG,8,2022,21
+2/23/20 2:00,International Studies and Business,NULL,1,2023,1
+2/23/20 2:00,Statistics,Wharton,3,2021,3
+2/23/20 2:00,Economics,CAS,2,2023,2
+2/23/20 2:00,Nursing,NURS,1,2020,1
+2/23/20 2:00,Mathematical Economics,CAS,1,2021,1
+2/23/20 2:00,Cognitive Science,NULL,1,2022,1
+2/23/20 2:00,Finance,Wharton,4,2022,7
+2/23/20 2:00,SSE,NULL,1,2020,1
+2/23/20 2:00,Neuroscience,NULL,1,2022,1
+2/23/20 2:00,BBB,CAS,1,2021,2
+2/23/20 2:00,Misc,N/A,1,2021,1
+2/23/20 2:00,CBE,ENG,2,2021,2
+2/23/20 2:00,Computer Science,ENG,12,2021,16
+2/23/20 2:00,Political Science,CAS,1,2022,1
+2/23/20 2:00,Misc,N/A,6,N/A,10
+2/23/20 2:00,Statistics,Wharton,2,2020,2
+2/23/20 2:00,Communications,CAS,1,2021,1
+2/23/20 2:00,English,CAS,1,2021,2
+2/23/20 2:00,Philosophy,CAS,1,2021,1
+2/23/20 2:00,Finance,Wharton,2,2021,2
+2/23/20 2:00,Mechanical Engineering,NULL,1,N/A,1
+2/23/20 2:00,Business Analytics,Wharton,1,2020,2
+2/23/20 2:00,Fine Arts,NULL,1,2021,1
+2/23/20 2:00,Nutrition,CAS,1,2022,1
+2/23/20 2:00,BBB,CAS,4,2020,4
+2/23/20 2:00,Misc,N/A,1,2022,1
+2/23/20 2:00,Cognitive Science,NULL,1,2021,1
+2/23/20 2:00,Political Science,CAS,2,2023,2
+2/23/20 2:00,Music,CAS,1,2020,1
+2/23/20 2:00,PPE,CAS,1,2020,1
+2/23/20 2:00,Finance,Wharton,2,2020,2
+2/23/20 2:00,Business Analytics,Wharton,2,2021,2
+2/23/20 2:00,History,CAS,1,2023,1
+2/23/20 2:00,Economics,CAS,1,2021,1
+2/23/20 2:00,Misc,N/A,1,2023,4
+2/23/20 2:00,CBE,ENG,1,2023,2
+2/23/20 2:00,Systems Engineering,NULL,1,2023,2
+2/23/20 2:00,GSWS,CAS,1,2020,1
+2/23/20 3:00,Nutrition,CAS,1,2021,1
+2/23/20 3:00,BBB,CAS,2,2023,2
+2/23/20 3:00,Philosophy,CAS,1,2021,1
+2/23/20 3:00,Statistics,Wharton,1,2022,1
+2/23/20 3:00,Political Science,CAS,1,2020,1
+2/23/20 3:00,Nutrition,CAS,1,2022,1
+2/23/20 3:00,Computer Science,ENG,3,2023,4
+2/23/20 3:00,PPE,CAS,2,2021,2
+2/23/20 3:00,Finance and Computer Science,NULL,1,2021,1
+2/23/20 3:00,Business Analytics,Wharton,2,2022,2
+2/23/20 3:00,Urban Studies,CAS,1,2022,1
+2/23/20 3:00,Economics,CAS,1,2020,2
+2/23/20 3:00,Nursing,NURS,1,2021,2
+2/23/20 3:00,Communications,CAS,1,2023,1
+2/23/20 3:00,DMD,ENG,7,2021,7
+2/23/20 3:00,Cognitive Science,NULL,1,2023,1
+2/23/20 3:00,CBE,ENG,2,2022,2
+2/23/20 3:00,Statistics,Wharton,3,2021,3
+2/23/20 3:00,Political Science,CAS,1,2021,2
+2/23/20 3:00,OIDD,Wharton,2,2020,2
+2/23/20 3:00,BBB,CAS,5,2022,6
+2/23/20 3:00,Chemistry,CAS,1,2023,1
+2/23/20 3:00,Misc,N/A,1,2020,1
+2/23/20 3:00,2022,NULL,1,N/A,1
+2/23/20 3:00,Economics,CAS,2,2023,2
+2/23/20 3:00,Computer Science,ENG,17,2022,21
+2/23/20 3:00,International Studies and Business,NULL,1,2023,1
+2/23/20 3:00,Marketing,Wharton,1,2023,1
+2/23/20 3:00,Undecided, Wharton,1,2022,1
+2/23/20 3:00,Nursing,NURS,1,2020,1
+2/23/20 3:00,Cognitive Science,NULL,1,2022,1
+2/23/20 3:00,Finance,Wharton,5,2022,7
+2/23/20 3:00,Bioegineering,NULL,1,2023,1
+2/23/20 3:00,SSE,NULL,1,2020,1
+2/23/20 3:00,Neuroscience,NULL,1,2022,1
+2/23/20 3:00,BBB,CAS,1,2021,2
+2/23/20 3:00,Misc,N/A,1,2021,1
+2/23/20 3:00,CBE,ENG,2,2021,2
+2/23/20 3:00,Computer Science,ENG,13,2021,16
+2/23/20 3:00,Political Science,CAS,1,2022,1
+2/23/20 3:00,Misc,N/A,9,N/A,10
+2/23/20 3:00,Statistics,Wharton,2,2020,2
+2/23/20 3:00,Communications,CAS,1,2021,1
+2/23/20 3:00,English,CAS,1,2021,2
+2/23/20 3:00,PPE,CAS,1,2023,1
+2/23/20 3:00,Finance,Wharton,2,2021,2
+2/23/20 3:00,Mechanical Engineering,NULL,1,N/A,1
+2/23/20 3:00,Business Analytics,Wharton,1,2020,2
+2/23/20 3:00,Fine Arts,NULL,1,2021,1
+2/23/20 3:00,Political Science,CAS,2,2023,2
+2/23/20 3:00,BBB,CAS,4,2020,4
+2/23/20 3:00,Misc,N/A,1,2022,1
+2/23/20 3:00,Cognitive Science,NULL,1,2021,1
+2/23/20 3:00,Undecided,NULL,1,2023,1
+2/23/20 3:00,Music,CAS,1,2020,1
+2/23/20 3:00,Fine Arts,NULL,1,2023,1
+2/23/20 3:00,Computer Science,ENG,1,N/A,1
+2/23/20 3:00,PPE,CAS,1,2020,1
+2/23/20 3:00,Finance,Wharton,2,2020,2
+2/23/20 3:00,Business Analytics,Wharton,2,2021,2
+2/23/20 3:00,History,CAS,1,2023,1
+2/23/20 3:00,Economics,CAS,1,2021,1
+2/23/20 3:00,Misc,N/A,1,2023,4
+2/23/20 3:00,DMD,ENG,1,2020,1
+2/23/20 3:00,CBE,ENG,2,2023,2
+2/23/20 3:00,Systems Engineering,NULL,2,2023,2
+2/23/20 3:00,GSWS,CAS,1,2020,1
+2/23/20 4:00,PPE,CAS,1,2020,1
+2/23/20 4:00,Nutrition,CAS,1,2021,1
+2/23/20 4:00,BBB,CAS,2,2023,2
+2/23/20 4:00,Philosophy,CAS,1,2021,1
+2/23/20 4:00,Statistics,Wharton,1,2022,1
+2/23/20 4:00,Political Science,CAS,1,2020,1
+2/23/20 4:00,Nutrition,CAS,1,2022,1
+2/23/20 4:00,Computer Science,ENG,3,2023,4
+2/23/20 4:00,PPE,CAS,2,2021,2
+2/23/20 4:00,Finance and Computer Science,NULL,1,2021,1
+2/23/20 4:00,Business Analytics,Wharton,2,2022,2
+2/23/20 4:00,Urban Studies,CAS,1,2022,1
+2/23/20 4:00,Economics,CAS,2,2020,2
+2/23/20 4:00,Nursing,NURS,1,2021,2
+2/23/20 4:00,Communications,CAS,1,2023,1
+2/23/20 4:00,DMD,ENG,7,2021,7
+2/23/20 4:00,Cognitive Science,NULL,1,2023,1
+2/23/20 4:00,CBE,ENG,2,2022,2
+2/23/20 4:00,Marketing,Wharton,1,2023,1
+2/23/20 4:00,Political Science,CAS,1,2021,2
+2/23/20 4:00,OIDD,Wharton,2,2020,2
+2/23/20 4:00,BBB,CAS,5,2022,6
+2/23/20 4:00,Chemistry,CAS,1,2023,1
+2/23/20 4:00,Misc,N/A,1,2020,1
+2/23/20 4:00,2022,NULL,1,N/A,1
+2/23/20 4:00,Economics,CAS,2,2023,2
+2/23/20 4:00,Computer Science,ENG,18,2022,21
+2/23/20 4:00,International Studies and Business,NULL,1,2023,1
+2/23/20 4:00,Math,NULL,1,2022,1
+2/23/20 4:00,Undecided, Wharton,1,2022,1
+2/23/20 4:00,Nursing,NURS,1,2020,1
+2/23/20 4:00,Mathematical Economics,CAS,1,2021,1
+2/23/20 4:00,Cognitive Science,NULL,1,2022,1
+2/23/20 4:00,Finance,Wharton,7,2022,7
+2/23/20 4:00,Bioegineering,NULL,1,2023,1
+2/23/20 4:00,SSE,NULL,1,2020,1
+2/23/20 4:00,Neuroscience,NULL,1,2022,1
+2/23/20 4:00,BBB,CAS,1,2021,2
+2/23/20 4:00,Misc,N/A,1,2021,1
+2/23/20 4:00,CBE,ENG,2,2021,2
+2/23/20 4:00,Computer Science,ENG,14,2021,16
+2/23/20 4:00,Political Science,CAS,1,2022,1
+2/23/20 4:00,Misc,N/A,9,N/A,10
+2/23/20 4:00,Statistics,Wharton,2,2020,2
+2/23/20 4:00,Communications,CAS,1,2021,1
+2/23/20 4:00,English,CAS,1,2021,2
+2/23/20 4:00,PPE,CAS,1,2023,1
+2/23/20 4:00,Finance,Wharton,2,2021,2
+2/23/20 4:00,Mechanical Engineering,NULL,1,N/A,1
+2/23/20 4:00,Business Analytics,Wharton,2,2020,2
+2/23/20 4:00,Fine Arts,NULL,1,2021,1
+2/23/20 4:00,Political Science,CAS,2,2023,2
+2/23/20 4:00,BBB,CAS,4,2020,4
+2/23/20 4:00,Misc,N/A,1,2022,1
+2/23/20 4:00,Cognitive Science,NULL,1,2021,1
+2/23/20 4:00,Systems Engineering,NULL,1,2022,1
+2/23/20 4:00,Computer Science,ENG,1,2020,1
+2/23/20 4:00,Undecided,NULL,1,2023,1
+2/23/20 4:00,Music,CAS,1,2020,1
+2/23/20 4:00,Fine Arts,NULL,1,2023,1
+2/23/20 4:00,Computer Science,ENG,1,N/A,1
+2/23/20 4:00,Statistics,Wharton,3,2021,3
+2/23/20 4:00,Finance,Wharton,2,2020,2
+2/23/20 4:00,Business Analytics,Wharton,2,2021,2
+2/23/20 4:00,History,CAS,1,2023,1
+2/23/20 4:00,Economics,CAS,1,2021,1
+2/23/20 4:00,Misc,N/A,2,2023,4
+2/23/20 4:00,DMD,ENG,1,2020,1
+2/23/20 4:00,CBE,ENG,2,2023,2
+2/23/20 4:00,Systems Engineering,NULL,2,2023,2
+2/23/20 4:00,GSWS,CAS,1,2020,1
+2/23/20 5:00,PPE,CAS,1,2020,1
+2/23/20 5:00,Nutrition,CAS,1,2021,1
+2/23/20 5:00,BBB,CAS,2,2023,2
+2/23/20 5:00,Philosophy,CAS,1,2021,1
+2/23/20 5:00,Statistics,Wharton,1,2022,1
+2/23/20 5:00,Political Science,CAS,1,2020,1
+2/23/20 5:00,Nutrition,CAS,1,2022,1
+2/23/20 5:00,Computer Science,ENG,4,2023,4
+2/23/20 5:00,PPE,CAS,2,2021,2
+2/23/20 5:00,Finance and Computer Science,NULL,1,2021,1
+2/23/20 5:00,Business Analytics,Wharton,2,2022,2
+2/23/20 5:00,Urban Studies,CAS,1,2022,1
+2/23/20 5:00,Economics,CAS,2,2020,2
+2/23/20 5:00,Nursing,NURS,1,2021,2
+2/23/20 5:00,Communications,CAS,1,2023,1
+2/23/20 5:00,DMD,ENG,7,2021,7
+2/23/20 5:00,Cognitive Science,NULL,1,2023,1
+2/23/20 5:00,CBE,ENG,2,2022,2
+2/23/20 5:00,Marketing,Wharton,1,2023,1
+2/23/20 5:00,Political Science,CAS,1,2021,2
+2/23/20 5:00,OIDD,Wharton,2,2020,2
+2/23/20 5:00,BBB,CAS,5,2022,6
+2/23/20 5:00,Chemistry,CAS,1,2023,1
+2/23/20 5:00,Misc,N/A,1,2020,1
+2/23/20 5:00,2022,NULL,1,N/A,1
+2/23/20 5:00,Economics,CAS,2,2023,2
+2/23/20 5:00,Computer Science,ENG,19,2022,21
+2/23/20 5:00,International Studies and Business,NULL,1,2023,1
+2/23/20 5:00,Math,NULL,1,2022,1
+2/23/20 5:00,Undecided, Wharton,1,2022,1
+2/23/20 5:00,Nursing,NURS,1,2020,1
+2/23/20 5:00,Mathematical Economics,CAS,1,2021,1
+2/23/20 5:00,Cognitive Science,NULL,1,2022,1
+2/23/20 5:00,Finance,Wharton,7,2022,7
+2/23/20 5:00,Bioegineering,NULL,1,2023,1
+2/23/20 5:00,SSE,NULL,1,2020,1
+2/23/20 5:00,Neuroscience,NULL,1,2022,1
+2/23/20 5:00,BBB,CAS,1,2021,2
+2/23/20 5:00,Misc,N/A,1,2021,1
+2/23/20 5:00,CBE,ENG,2,2021,2
+2/23/20 5:00,Computer Science,ENG,15,2021,16
+2/23/20 5:00,Political Science,CAS,1,2022,1
+2/23/20 5:00,Misc,N/A,9,N/A,10
+2/23/20 5:00,Marketing,Wharton,1,2022,1
+2/23/20 5:00,Statistics,Wharton,2,2020,2
+2/23/20 5:00,Communications,CAS,1,2021,1
+2/23/20 5:00,English,CAS,1,2021,2
+2/23/20 5:00,PPE,CAS,1,2023,1
+2/23/20 5:00,Finance,Wharton,2,2021,2
+2/23/20 5:00,Mechanical Engineering,NULL,1,N/A,1
+2/23/20 5:00,Business Analytics,Wharton,2,2020,2
+2/23/20 5:00,Fine Arts,NULL,1,2021,1
+2/23/20 5:00,Political Science,CAS,2,2023,2
+2/23/20 5:00,BBB,CAS,4,2020,4
+2/23/20 5:00,Misc,N/A,1,2022,1
+2/23/20 5:00,Cognitive Science,NULL,1,2021,1
+2/23/20 5:00,Systems Engineering,NULL,1,2022,1
+2/23/20 5:00,Computer Science,ENG,1,2020,1
+2/23/20 5:00,Undecided,NULL,1,2023,1
+2/23/20 5:00,Music,CAS,1,2020,1
+2/23/20 5:00,Fine Arts,NULL,1,2023,1
+2/23/20 5:00,Computer Science,ENG,1,N/A,1
+2/23/20 5:00,Statistics,Wharton,3,2021,3
+2/23/20 5:00,Finance,Wharton,2,2020,2
+2/23/20 5:00,Business Analytics,Wharton,2,2021,2
+2/23/20 5:00,History,CAS,1,2023,1
+2/23/20 5:00,Economics,CAS,1,2021,1
+2/23/20 5:00,Misc,N/A,2,2023,4
+2/23/20 5:00,DMD,ENG,1,2020,1
+2/23/20 5:00,CBE,ENG,2,2023,2
+2/23/20 5:00,Systems Engineering,NULL,2,2023,2
+2/23/20 5:00,GSWS,CAS,1,2020,1
+2/23/20 6:00,PPE,CAS,1,2020,1
+2/23/20 6:00,Nutrition,CAS,1,2021,1
+2/23/20 6:00,BBB,CAS,2,2023,2
+2/23/20 6:00,Philosophy,CAS,1,2021,1
+2/23/20 6:00,Statistics,Wharton,1,2022,1
+2/23/20 6:00,Political Science,CAS,1,2020,1
+2/23/20 6:00,Nutrition,CAS,1,2022,1
+2/23/20 6:00,Computer Science,ENG,4,2023,4
+2/23/20 6:00,PPE,CAS,2,2021,2
+2/23/20 6:00,Finance and Computer Science,NULL,1,2021,1
+2/23/20 6:00,Business Analytics,Wharton,2,2022,2
+2/23/20 6:00,Urban Studies,CAS,1,2022,1
+2/23/20 6:00,Economics,CAS,2,2020,2
+2/23/20 6:00,Nursing,NURS,1,2021,2
+2/23/20 6:00,Communications,CAS,1,2023,1
+2/23/20 6:00,DMD,ENG,7,2021,7
+2/23/20 6:00,Cognitive Science,NULL,1,2023,1
+2/23/20 6:00,CBE,ENG,2,2022,2
+2/23/20 6:00,Marketing,Wharton,1,2023,1
+2/23/20 6:00,Political Science,CAS,1,2021,2
+2/23/20 6:00,OIDD,Wharton,2,2020,2
+2/23/20 6:00,BBB,CAS,5,2022,6
+2/23/20 6:00,Chemistry,CAS,1,2023,1
+2/23/20 6:00,Misc,N/A,1,2020,1
+2/23/20 6:00,2022,NULL,1,N/A,1
+2/23/20 6:00,Economics,CAS,2,2023,2
+2/23/20 6:00,Computer Science,ENG,17,2022,21
+2/23/20 6:00,International Studies and Business,NULL,1,2023,1
+2/23/20 6:00,Math,NULL,1,2022,1
+2/23/20 6:00,Undecided, Wharton,1,2022,1
+2/23/20 6:00,Nursing,NURS,1,2020,1
+2/23/20 6:00,Mathematical Economics,CAS,1,2021,1
+2/23/20 6:00,Cognitive Science,NULL,1,2022,1
+2/23/20 6:00,Finance,Wharton,6,2022,7
+2/23/20 6:00,Bioegineering,NULL,1,2023,1
+2/23/20 6:00,SSE,NULL,1,2020,1
+2/23/20 6:00,Neuroscience,NULL,1,2022,1
+2/23/20 6:00,BBB,CAS,1,2021,2
+2/23/20 6:00,Misc,N/A,1,2021,1
+2/23/20 6:00,CBE,ENG,2,2021,2
+2/23/20 6:00,Computer Science,ENG,15,2021,16
+2/23/20 6:00,Political Science,CAS,1,2022,1
+2/23/20 6:00,Misc,N/A,10,N/A,10
+2/23/20 6:00,Marketing,Wharton,1,2022,1
+2/23/20 6:00,Statistics,Wharton,2,2020,2
+2/23/20 6:00,Communications,CAS,1,2021,1
+2/23/20 6:00,English,CAS,1,2021,2
+2/23/20 6:00,PPE,CAS,1,2023,1
+2/23/20 6:00,Finance,Wharton,2,2021,2
+2/23/20 6:00,Mechanical Engineering,NULL,1,N/A,1
+2/23/20 6:00,Business Analytics,Wharton,2,2020,2
+2/23/20 6:00,Fine Arts,NULL,1,2021,1
+2/23/20 6:00,Political Science,CAS,2,2023,2
+2/23/20 6:00,BBB,CAS,4,2020,4
+2/23/20 6:00,Misc,N/A,1,2022,1
+2/23/20 6:00,Cognitive Science,NULL,1,2021,1
+2/23/20 6:00,Systems Engineering,NULL,1,2022,1
+2/23/20 6:00,Computer Science,ENG,1,2020,1
+2/23/20 6:00,Undecided,NULL,1,2023,1
+2/23/20 6:00,Music,CAS,1,2020,1
+2/23/20 6:00,Fine Arts,NULL,1,2023,1
+2/23/20 6:00,Computer Science,ENG,1,N/A,1
+2/23/20 6:00,Statistics,Wharton,3,2021,3
+2/23/20 6:00,Finance,Wharton,2,2020,2
+2/23/20 6:00,Business Analytics,Wharton,2,2021,2
+2/23/20 6:00,History,CAS,1,2023,1
+2/23/20 6:00,Economics,CAS,1,2021,1
+2/23/20 6:00,Misc,N/A,2,2023,4
+2/23/20 6:00,DMD,ENG,1,2020,1
+2/23/20 6:00,CBE,ENG,2,2023,2
+2/23/20 6:00,Systems Engineering,NULL,2,2023,2
+2/23/20 6:00,GSWS,CAS,1,2020,1
+2/23/20 7:00,PPE,CAS,1,2020,1
+2/23/20 7:00,Nutrition,CAS,1,2021,1
+2/23/20 7:00,BBB,CAS,2,2023,2
+2/23/20 7:00,Philosophy,CAS,1,2021,1
+2/23/20 7:00,Statistics,Wharton,1,2022,1
+2/23/20 7:00,Political Science,CAS,1,2020,1
+2/23/20 7:00,Nutrition,CAS,1,2022,1
+2/23/20 7:00,Computer Science,ENG,4,2023,4
+2/23/20 7:00,PPE,CAS,2,2021,2
+2/23/20 7:00,Finance and Computer Science,NULL,1,2021,1
+2/23/20 7:00,Business Analytics,Wharton,2,2022,2
+2/23/20 7:00,Urban Studies,CAS,1,2022,1
+2/23/20 7:00,Economics,CAS,1,2020,2
+2/23/20 7:00,Nursing,NURS,1,2021,2
+2/23/20 7:00,Communications,CAS,1,2023,1
+2/23/20 7:00,DMD,ENG,6,2021,7
+2/23/20 7:00,Cognitive Science,NULL,1,2023,1
+2/23/20 7:00,CBE,ENG,2,2022,2
+2/23/20 7:00,Marketing,Wharton,1,2023,1
+2/23/20 7:00,Political Science,CAS,1,2021,2
+2/23/20 7:00,OIDD,Wharton,2,2020,2
+2/23/20 7:00,BBB,CAS,5,2022,6
+2/23/20 7:00,Chemistry,CAS,1,2023,1
+2/23/20 7:00,Misc,N/A,1,2020,1
+2/23/20 7:00,2022,NULL,1,N/A,1
+2/23/20 7:00,Economics,CAS,2,2023,2
+2/23/20 7:00,Computer Science,ENG,17,2022,21
+2/23/20 7:00,International Studies and Business,NULL,1,2023,1
+2/23/20 7:00,Math,NULL,1,2022,1
+2/23/20 7:00,Undecided, Wharton,1,2022,1
+2/23/20 7:00,Nursing,NURS,1,2020,1
+2/23/20 7:00,Mathematical Economics,CAS,1,2021,1
+2/23/20 7:00,Cognitive Science,NULL,1,2022,1
+2/23/20 7:00,Finance,Wharton,6,2022,7
+2/23/20 7:00,Bioegineering,NULL,1,2023,1
+2/23/20 7:00,SSE,NULL,1,2020,1
+2/23/20 7:00,Neuroscience,NULL,1,2022,1
+2/23/20 7:00,BBB,CAS,1,2021,2
+2/23/20 7:00,Misc,N/A,1,2021,1
+2/23/20 7:00,CBE,ENG,2,2021,2
+2/23/20 7:00,Computer Science,ENG,15,2021,16
+2/23/20 7:00,Political Science,CAS,1,2022,1
+2/23/20 7:00,Misc,N/A,10,N/A,10
+2/23/20 7:00,Marketing,Wharton,1,2022,1
+2/23/20 7:00,Statistics,Wharton,2,2020,2
+2/23/20 7:00,Communications,CAS,1,2021,1
+2/23/20 7:00,English,CAS,1,2021,2
+2/23/20 7:00,PPE,CAS,1,2023,1
+2/23/20 7:00,Finance,Wharton,2,2021,2
+2/23/20 7:00,Mechanical Engineering,NULL,1,N/A,1
+2/23/20 7:00,Business Analytics,Wharton,2,2020,2
+2/23/20 7:00,Fine Arts,NULL,1,2021,1
+2/23/20 7:00,Political Science,CAS,2,2023,2
+2/23/20 7:00,BBB,CAS,4,2020,4
+2/23/20 7:00,Misc,N/A,1,2022,1
+2/23/20 7:00,Cognitive Science,NULL,1,2021,1
+2/23/20 7:00,Systems Engineering,NULL,1,2022,1
+2/23/20 7:00,Computer Science,ENG,1,2020,1
+2/23/20 7:00,Undecided,NULL,1,2023,1
+2/23/20 7:00,Music,CAS,1,2020,1
+2/23/20 7:00,Fine Arts,NULL,1,2023,1
+2/23/20 7:00,Computer Science,ENG,1,N/A,1
+2/23/20 7:00,Statistics,Wharton,3,2021,3
+2/23/20 7:00,Finance,Wharton,1,2020,2
+2/23/20 7:00,Business Analytics,Wharton,2,2021,2
+2/23/20 7:00,History,CAS,1,2023,1
+2/23/20 7:00,Economics,CAS,1,2021,1
+2/23/20 7:00,Misc,N/A,2,2023,4
+2/23/20 7:00,DMD,ENG,1,2020,1
+2/23/20 7:00,CBE,ENG,2,2023,2
+2/23/20 7:00,Systems Engineering,NULL,2,2023,2
+2/23/20 7:00,GSWS,CAS,1,2020,1
+2/23/20 8:00,Political Science,CAS,1,2020,1
+2/23/20 8:00,BBB,CAS,2,2023,2
+2/23/20 8:00,Statistics,Wharton,1,2022,1
+2/23/20 8:00,Computer Science,ENG,3,2023,4
+2/23/20 8:00,PPE,CAS,2,2021,2
+2/23/20 8:00,Business Analytics,Wharton,2,2022,2
+2/23/20 8:00,Urban Studies,CAS,1,2022,1
+2/23/20 8:00,Economics,CAS,1,2020,2
+2/23/20 8:00,Chemistry,CAS,1,2023,1
+2/23/20 8:00,Philosophy,CAS,1,2021,1
+2/23/20 8:00,DMD,ENG,6,2021,7
+2/23/20 8:00,Cognitive Science,NULL,1,2023,1
+2/23/20 8:00,CBE,ENG,2,2022,2
+2/23/20 8:00,Math,NULL,1,2022,1
+2/23/20 8:00,Political Science,CAS,1,2021,2
+2/23/20 8:00,OIDD,Wharton,2,2020,2
+2/23/20 8:00,BBB,CAS,4,2022,6
+2/23/20 8:00,Marketing,Wharton,1,2023,1
+2/23/20 8:00,Misc,N/A,1,2020,1
+2/23/20 8:00,2022,NULL,1,N/A,1
+2/23/20 8:00,Economics,CAS,2,2023,2
+2/23/20 8:00,Computer Science,ENG,18,2022,21
+2/23/20 8:00,International Studies and Business,NULL,1,2023,1
+2/23/20 8:00,Statistics,Wharton,3,2021,3
+2/23/20 8:00,Undecided, Wharton,1,2022,1
+2/23/20 8:00,Nursing,NURS,1,2020,1
+2/23/20 8:00,Mathematical Economics,CAS,1,2021,1
+2/23/20 8:00,Cognitive Science,NULL,1,2022,1
+2/23/20 8:00,Finance,Wharton,5,2022,7
+2/23/20 8:00,Bioegineering,NULL,1,2023,1
+2/23/20 8:00,SSE,NULL,1,2020,1
+2/23/20 8:00,BBB,CAS,1,2021,2
+2/23/20 8:00,Misc,N/A,1,2021,1
+2/23/20 8:00,CBE,ENG,2,2021,2
+2/23/20 8:00,Computer Science,ENG,13,2021,16
+2/23/20 8:00,Political Science,CAS,1,2022,1
+2/23/20 8:00,Misc,N/A,10,N/A,10
+2/23/20 8:00,Marketing,Wharton,1,2022,1
+2/23/20 8:00,Statistics,Wharton,2,2020,2
+2/23/20 8:00,Communications,CAS,1,2021,1
+2/23/20 8:00,English,CAS,1,2021,2
+2/23/20 8:00,PPE,CAS,1,2023,1
+2/23/20 8:00,Finance,Wharton,2,2021,2
+2/23/20 8:00,Mechanical Engineering,NULL,1,N/A,1
+2/23/20 8:00,Business Analytics,Wharton,2,2020,2
+2/23/20 8:00,Fine Arts,NULL,1,2021,1
+2/23/20 8:00,Nutrition,CAS,1,2022,1
+2/23/20 8:00,BBB,CAS,4,2020,4
+2/23/20 8:00,Misc,N/A,1,2022,1
+2/23/20 8:00,Cognitive Science,NULL,1,2021,1
+2/23/20 8:00,Systems Engineering,NULL,1,2022,1
+2/23/20 8:00,Computer Science,ENG,1,2020,1
+2/23/20 8:00,Political Science,CAS,2,2023,2
+2/23/20 8:00,Music,CAS,1,2020,1
+2/23/20 8:00,Fine Arts,NULL,1,2023,1
+2/23/20 8:00,Computer Science,ENG,1,N/A,1
+2/23/20 8:00,PPE,CAS,1,2020,1
+2/23/20 8:00,Finance,Wharton,1,2020,2
+2/23/20 8:00,Business Analytics,Wharton,2,2021,2
+2/23/20 8:00,History,CAS,1,2023,1
+2/23/20 8:00,Economics,CAS,1,2021,1
+2/23/20 8:00,Misc,N/A,1,2023,4
+2/23/20 8:00,DMD,ENG,1,2020,1
+2/23/20 8:00,CBE,ENG,2,2023,2
+2/23/20 8:00,Systems Engineering,NULL,2,2023,2
+2/23/20 8:00,GSWS,CAS,1,2020,1
+2/23/20 9:00,Political Science,CAS,1,2020,1
+2/23/20 9:00,BBB,CAS,1,2023,2
+2/23/20 9:00,Statistics,Wharton,1,2022,1
+2/23/20 9:00,Computer Science,ENG,3,2023,4
+2/23/20 9:00,PPE,CAS,2,2021,2
+2/23/20 9:00,Business Analytics,Wharton,1,2022,2
+2/23/20 9:00,Fine Arts,NULL,1,2021,1
+2/23/20 9:00,Economics,CAS,1,2020,2
+2/23/20 9:00,Philosophy,CAS,1,2021,1
+2/23/20 9:00,DMD,ENG,5,2021,7
+2/23/20 9:00,Math,NULL,1,2022,1
+2/23/20 9:00,OIDD,Wharton,2,2020,2
+2/23/20 9:00,BBB,CAS,4,2022,6
+2/23/20 9:00,Marketing,Wharton,1,2023,1
+2/23/20 9:00,Economics,CAS,2,2023,2
+2/23/20 9:00,Computer Science,ENG,16,2022,21
+2/23/20 9:00,International Studies and Business,NULL,1,2023,1
+2/23/20 9:00,Statistics,Wharton,2,2021,3
+2/23/20 9:00,Undecided, Wharton,1,2022,1
+2/23/20 9:00,Nursing,NURS,1,2020,1
+2/23/20 9:00,Cognitive Science,NULL,1,2022,1
+2/23/20 9:00,Finance,Wharton,3,2022,7
+2/23/20 9:00,Bioegineering,NULL,1,2023,1
+2/23/20 9:00,SSE,NULL,1,2020,1
+2/23/20 9:00,BBB,CAS,1,2021,2
+2/23/20 9:00,Misc,N/A,1,2021,1
+2/23/20 9:00,CBE,ENG,2,2021,2
+2/23/20 9:00,Computer Science,ENG,12,2021,16
+2/23/20 9:00,Misc,N/A,8,N/A,10
+2/23/20 9:00,Marketing,Wharton,1,2022,1
+2/23/20 9:00,Statistics,Wharton,2,2020,2
+2/23/20 9:00,Communications,CAS,1,2021,1
+2/23/20 9:00,English,CAS,1,2021,2
+2/23/20 9:00,PPE,CAS,1,2023,1
+2/23/20 9:00,Finance,Wharton,2,2021,2
+2/23/20 9:00,Business Analytics,Wharton,2,2020,2
+2/23/20 9:00,Nutrition,CAS,1,2022,1
+2/23/20 9:00,BBB,CAS,3,2020,4
+2/23/20 9:00,Misc,N/A,1,2022,1
+2/23/20 9:00,Cognitive Science,NULL,1,2021,1
+2/23/20 9:00,Systems Engineering,NULL,1,2022,1
+2/23/20 9:00,Computer Science,ENG,1,2020,1
+2/23/20 9:00,Political Science,CAS,2,2023,2
+2/23/20 9:00,Music,CAS,1,2020,1
+2/23/20 9:00,Fine Arts,NULL,1,2023,1
+2/23/20 9:00,Computer Science,ENG,1,N/A,1
+2/23/20 9:00,PPE,CAS,1,2020,1
+2/23/20 9:00,Finance,Wharton,1,2020,2
+2/23/20 9:00,Business Analytics,Wharton,2,2021,2
+2/23/20 9:00,History,CAS,1,2023,1
+2/23/20 9:00,Economics,CAS,1,2021,1
+2/23/20 9:00,Misc,N/A,1,2023,4
+2/23/20 9:00,DMD,ENG,1,2020,1
+2/23/20 9:00,CBE,ENG,2,2023,2
+2/23/20 9:00,Systems Engineering,NULL,2,2023,2
+2/23/20 9:00,GSWS,CAS,1,2020,1
+2/23/20 10:00,Political Science,CAS,1,2020,1
+2/23/20 10:00,BBB,CAS,1,2023,2
+2/23/20 10:00,Statistics,Wharton,1,2022,1
+2/23/20 10:00,Computer Science,ENG,2,2023,4
+2/23/20 10:00,PPE,CAS,1,2021,2
+2/23/20 10:00,Business Analytics,Wharton,1,2022,2
+2/23/20 10:00,Fine Arts,NULL,1,2021,1
+2/23/20 10:00,Economics,CAS,1,2020,2
+2/23/20 10:00,Philosophy,CAS,1,2021,1
+2/23/20 10:00,DMD,ENG,3,2021,7
+2/23/20 10:00,Statistics,Wharton,2,2021,3
+2/23/20 10:00,SSE,NULL,1,2020,1
+2/23/20 10:00,Marketing,Wharton,1,2023,1
+2/23/20 10:00,Computer Science,ENG,10,2022,21
+2/23/20 10:00,International Studies and Business,NULL,1,2023,1
+2/23/20 10:00,Math,NULL,1,2022,1
+2/23/20 10:00,Economics,CAS,2,2023,2
+2/23/20 10:00,Mathematical Economics,CAS,1,2021,1
+2/23/20 10:00,Finance,Wharton,3,2022,7
+2/23/20 10:00,Business Analytics,Wharton,1,2021,2
+2/23/20 10:00,Fine Arts,NULL,1,2023,1
+2/23/20 10:00,Misc,N/A,1,2021,1
+2/23/20 10:00,CBE,ENG,1,2021,2
+2/23/20 10:00,Computer Science,ENG,10,2021,16
+2/23/20 10:00,Misc,N/A,5,N/A,10
+2/23/20 10:00,Marketing,Wharton,1,2022,1
+2/23/20 10:00,Communications,CAS,1,2021,1
+2/23/20 10:00,PPE,CAS,1,2023,1
+2/23/20 10:00,Finance,Wharton,1,2021,2
+2/23/20 10:00,Business Analytics,Wharton,2,2020,2
+2/23/20 10:00,BBB,CAS,2,2020,4
+2/23/20 10:00,Misc,N/A,1,2022,1
+2/23/20 10:00,Systems Engineering,NULL,1,2022,1
+2/23/20 10:00,Computer Science,ENG,1,2020,1
+2/23/20 10:00,Political Science,CAS,1,2023,2
+2/23/20 10:00,CBE,ENG,1,2023,2
+2/23/20 10:00,PPE,CAS,1,2020,1
+2/23/20 10:00,Bioegineering,NULL,1,2023,1
+2/23/20 10:00,DMD,ENG,1,2020,1
+2/23/20 10:00,Computer Science,ENG,1,N/A,1
+2/23/20 10:00,Systems Engineering,NULL,2,2023,2
+2/23/20 10:00,GSWS,CAS,1,2020,1
+2/23/20 11:00,Political Science,CAS,1,2020,1
+2/23/20 11:00,Fine Arts,NULL,1,2021,1
+2/23/20 11:00,Computer Science,ENG,1,2023,4
+2/23/20 11:00,PPE,CAS,1,2021,2
+2/23/20 11:00,Economics,CAS,1,2020,2
+2/23/20 11:00,DMD,ENG,2,2021,7
+2/23/20 11:00,SSE,NULL,1,2020,1
+2/23/20 11:00,Computer Science,ENG,7,2022,21
+2/23/20 11:00,Math,NULL,1,2022,1
+2/23/20 11:00,Mathematical Economics,CAS,1,2021,1
+2/23/20 11:00,Finance,Wharton,2,2022,7
+2/23/20 11:00,Fine Arts,NULL,1,2023,1
+2/23/20 11:00,Computer Science,ENG,3,2021,16
+2/23/20 11:00,Misc,N/A,3,N/A,10
+2/23/20 11:00,Marketing,Wharton,1,2022,1
+2/23/20 11:00,Business Analytics,Wharton,1,2020,2
+2/23/20 11:00,BBB,CAS,2,2020,4
+2/23/20 11:00,Misc,N/A,1,2022,1
+2/23/20 11:00,Systems Engineering,NULL,1,2022,1
+2/23/20 11:00,Computer Science,ENG,1,2020,1
+2/23/20 11:00,Political Science,CAS,1,2023,2
+2/23/20 11:00,Misc,N/A,1,2023,4
+2/23/20 11:00,DMD,ENG,1,2020,1
+2/23/20 11:00,Systems Engineering,NULL,1,2023,2
+2/23/20 12:00,Fine Arts,NULL,1,2021,1
+2/23/20 12:00,Computer Science,ENG,1,2021,16
+2/23/20 12:00,Computer Science,ENG,6,2022,21
+2/23/20 12:00,Computer Science,ENG,1,2023,4
+2/23/20 12:00,Marketing,Wharton,1,2022,1
+2/23/20 12:00,Math,NULL,1,2022,1
+2/23/20 12:00,Misc,N/A,2,N/A,10
+2/23/20 12:00,Economics,CAS,1,2020,2
+2/23/20 12:00,DMD,ENG,1,2021,7
+2/23/20 12:00,Finance,Wharton,1,2022,7
+2/23/20 12:00,Misc,N/A,1,2023,4
+2/23/20 12:00,SSE,NULL,1,2020,1
+2/23/20 13:00,Fine Arts,NULL,1,2021,1
+2/23/20 13:00,Computer Science,ENG,1,2021,16
+2/23/20 13:00,Misc,N/A,1,N/A,10
+2/23/20 13:00,Marketing,Wharton,1,2022,1
+2/23/20 13:00,Computer Science,ENG,4,2022,21
+2/23/20 13:00,Misc,N/A,1,2023,4
+2/23/20 14:00,Misc,N/A,1,N/A,10
+2/23/20 14:00,Computer Science,ENG,1,2022,21
+2/23/20 14:00,Fine Arts,NULL,1,2021,1
+2/23/20 14:00,Marketing,Wharton,1,2022,1
+2/23/20 14:00,Computer Science,ENG,1,2021,16
+2/23/20 15:00,Misc,N/A,1,N/A,10
+2/23/20 15:00,Fine Arts,NULL,1,2021,1
+2/23/20 15:00,Computer Science,ENG,2,2021,16
+2/23/20 16:00,Fine Arts,NULL,1,2021,1
+2/23/20 16:00,Computer Science,ENG,2,2021,16
+2/23/20 17:00,Fine Arts,NULL,1,2021,1
+2/23/20 17:00,Computer Science,ENG,2,2021,16
+2/23/20 18:00,Computer Science,ENG,1,2021,16
+2/23/20 19:00,Computer Science,ENG,1,2021,16
+2/23/20 20:00,Computer Science,ENG,1,2021,16
+2/23/20 21:00,Computer Science,ENG,1,2021,16
+2/23/20 22:00,Computer Science,ENG,1,2021,16
+2/23/20 22:00,Finance,Wharton,1,2020,2
+2/23/20 22:00,Economics,CAS,1,2020,2
+2/23/20 22:00,Finance and Computer Science,NULL,1,2021,1
+2/23/20 22:00,Nursing,NURS,1,2022,1
+2/23/20 22:00,Misc,N/A,1,2022,1
+2/23/20 23:00,BBB,CAS,1,2022,6
+2/23/20 23:00,Nutrition,CAS,1,2022,1
+2/23/20 23:00,Finance,Wharton,1,2020,2
+2/23/20 23:00,DMD,ENG,1,2021,7
+2/23/20 23:00,Nursing,NURS,1,2020,1
+2/23/20 23:00,Economics,CAS,1,2020,2
+2/23/20 23:00,Finance and Computer Science,NULL,1,2021,1
+2/23/20 23:00,Nursing,NURS,1,2022,1
+2/23/20 23:00,Misc,N/A,1,2022,1

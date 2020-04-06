@@ -1,0 +1,3082 @@
+time,major,category,num_asleep
+2/17/20 0:00,Nutrition,NULL,1
+2/17/20 0:00,Biology,NULL,2
+2/17/20 0:00,Statistics,NULL,1
+2/17/20 0:00,DMD,NULL,2
+2/17/20 0:00,Nursing,NULL,1
+2/17/20 0:00,PPE & GSWS,NULL,1
+2/17/20 0:00,Brendan Yoo,NULL,1
+2/17/20 0:00,Misc,NULL,2
+2/17/20 0:00,BBB,NULL,1
+2/17/20 0:00,jess ling,NULL,1
+2/17/20 0:00,Business Analytics,NULL,1
+2/17/20 0:00,Urban Studies,NULL,1
+2/17/20 0:00,Computer Science,STEM,3
+2/17/20 0:00,Political Science,HUM,2
+2/17/20 0:00,English,NULL,1
+2/17/20 0:00,Bioengineering,NULL,1
+2/17/20 0:00,Commications,NULL,1
+2/17/20 0:00,Chemistry,NULL,1
+2/17/20 0:00,Finance and Computer Science,NULL,1
+2/17/20 0:00,Chemical and Bioengineering,NULL,1
+2/17/20 0:00,Finance,NULL,2
+2/17/20 1:00,Systems Engineering,NULL,1
+2/17/20 1:00,Statistics,NULL,5
+2/17/20 1:00,DMD,NULL,3
+2/17/20 1:00,ECON,NULL,1
+2/17/20 1:00,Mathematical Economics,NULL,1
+2/17/20 1:00,Political Science,HUM,2
+2/17/20 1:00,Commications,NULL,1
+2/17/20 1:00,Nutrition,NULL,1
+2/17/20 1:00,Philosophy,NULL,1
+2/17/20 1:00,Biology,NULL,2
+2/17/20 1:00,Finance,NULL,3
+2/17/20 1:00,Econ,NULL,1
+2/17/20 1:00,jess ling,NULL,1
+2/17/20 1:00,Computer Science,STEM,15
+2/17/20 1:00,SSE 2020,NULL,1
+2/17/20 1:00,Finance 2021,NULL,1
+2/17/20 1:00,International Studies and Business,NULL,1
+2/17/20 1:00,Katie Busch,NULL,1
+2/17/20 1:00,PPE & GSWS,NULL,1
+2/17/20 1:00,Brendan Yoo,NULL,1
+2/17/20 1:00,BBB,NULL,3
+2/17/20 1:00,Finance and Computer Science,NULL,1
+2/17/20 1:00,Business Analytics,NULL,3
+2/17/20 1:00,Communications,NULL,1
+2/17/20 1:00,Cognitive Science,NULL,1
+2/17/20 1:00,English,NULL,1
+2/17/20 1:00,Bioengineering,NULL,1
+2/17/20 1:00,Chemistry,NULL,1
+2/17/20 1:00,Chemical and Bioengineering,NULL,1
+2/17/20 1:00,Nursing,NULL,2
+2/17/20 1:00,DMD 2021,NULL,1
+2/17/20 1:00,Misc,NULL,4
+2/17/20 1:00,Urban Studies,NULL,1
+2/17/20 1:00,OIDD,NULL,2
+2/17/20 2:00,Systems Engineering,NULL,1
+2/17/20 2:00,Statistics,NULL,5
+2/17/20 2:00,DMD,NULL,5
+2/17/20 2:00,ECON,NULL,1
+2/17/20 2:00,Mathematical Economics,NULL,1
+2/17/20 2:00,Political Science,HUM,4
+2/17/20 2:00,Commications,NULL,1
+2/17/20 2:00,Nutrition,NULL,1
+2/17/20 2:00,Philosophy,NULL,1
+2/17/20 2:00,Biology,NULL,3
+2/17/20 2:00,Finance,NULL,4
+2/17/20 2:00,Mechanical Engineering,NULL,1
+2/17/20 2:00,Econ,NULL,1
+2/17/20 2:00,jess ling,NULL,1
+2/17/20 2:00,Computer Science,STEM,21
+2/17/20 2:00,SSE 2020,NULL,1
+2/17/20 2:00,Finance 2021,NULL,1
+2/17/20 2:00,International Studies and Business,NULL,1
+2/17/20 2:00,Katie Busch,NULL,1
+2/17/20 2:00,PPE & GSWS,NULL,1
+2/17/20 2:00,Brendan Yoo,NULL,1
+2/17/20 2:00,BBB,NULL,6
+2/17/20 2:00,Finance and Computer Science,NULL,1
+2/17/20 2:00,Business Analytics,NULL,4
+2/17/20 2:00,Communications,NULL,1
+2/17/20 2:00,Cognitive Science,NULL,2
+2/17/20 2:00,English,NULL,1
+2/17/20 2:00,Bioengineering,NULL,1
+2/17/20 2:00,Chemistry,NULL,1
+2/17/20 2:00,Chemical and Bioengineering,NULL,1
+2/17/20 2:00,History,NULL,1
+2/17/20 2:00,Nursing,NULL,1
+2/17/20 2:00,PPE,NULL,1
+2/17/20 2:00,DMD 2021,NULL,1
+2/17/20 2:00,Wharton 20222,NULL,1
+2/17/20 2:00,Misc,NULL,5
+2/17/20 2:00,Urban Studies,NULL,1
+2/17/20 2:00,Misc.1,NULL,1
+2/17/20 2:00,2022,NULL,1
+2/17/20 2:00,OIDD,NULL,2
+2/17/20 2:00,Nursing 2021,NULL,1
+2/17/20 3:00,Systems Engineering,NULL,2
+2/17/20 3:00,Statisticsistics,NULL,1
+2/17/20 3:00,Statistics,NULL,5
+2/17/20 3:00,DMD,NULL,7
+2/17/20 3:00,ECON,NULL,1
+2/17/20 3:00,Mathematical Economics,NULL,1
+2/17/20 3:00,Political Science,HUM,4
+2/17/20 3:00,Commications,NULL,1
+2/17/20 3:00,Nutrition,NULL,2
+2/17/20 3:00,Biology,NULL,3
+2/17/20 3:00,Finance,NULL,6
+2/17/20 3:00,Mechanical Engineering,NULL,1
+2/17/20 3:00,Fine Arts,NULL,1
+2/17/20 3:00,Marketing,NULL,1
+2/17/20 3:00,Econ,NULL,1
+2/17/20 3:00,jess ling,NULL,1
+2/17/20 3:00,Computer Science,STEM,29
+2/17/20 3:00,SSE 2020,NULL,1
+2/17/20 3:00,History,NULL,1
+2/17/20 3:00,International Studies and Business,NULL,1
+2/17/20 3:00,Katie Busch,NULL,1
+2/17/20 3:00,biology,NULL,1
+2/17/20 3:00,PPE & GSWS,NULL,1
+2/17/20 3:00,Brendan Yoo,NULL,1
+2/17/20 3:00,BBB,NULL,7
+2/17/20 3:00,Finance and Computer Science,NULL,1
+2/17/20 3:00,Business Analytics,NULL,5
+2/17/20 3:00,Communications,NULL,1
+2/17/20 3:00,Cognitive Science,NULL,2
+2/17/20 3:00,English,NULL,1
+2/17/20 3:00,Bioengineering,NULL,2
+2/17/20 3:00,Chemistry,NULL,1
+2/17/20 3:00,Chemical and Bioengineering,NULL,1
+2/17/20 3:00,Nursing,NULL,2
+2/17/20 3:00,Finance 2021,NULL,1
+2/17/20 3:00,PPE,NULL,3
+2/17/20 3:00,DMD 2021,NULL,1
+2/17/20 3:00,Wharton 20222,NULL,1
+2/17/20 3:00,Misc,NULL,5
+2/17/20 3:00,Urban Studies,NULL,1
+2/17/20 3:00,Misc.1,NULL,1
+2/17/20 3:00,2022,NULL,1
+2/17/20 3:00,OIDD,NULL,2
+2/17/20 3:00,Philosophy,NULL,1
+2/17/20 3:00,Nursing 2021,NULL,1
+2/17/20 4:00,Systems Engineering,NULL,2
+2/17/20 4:00,Statisticsistics,NULL,1
+2/17/20 4:00,Statistics,NULL,5
+2/17/20 4:00,DMD,NULL,7
+2/17/20 4:00,ECON,NULL,1
+2/17/20 4:00,Mathematical Economics,NULL,1
+2/17/20 4:00,Political Science,HUM,5
+2/17/20 4:00,Commications,NULL,1
+2/17/20 4:00,Nutrition,NULL,2
+2/17/20 4:00,Biology,NULL,3
+2/17/20 4:00,Finance,NULL,6
+2/17/20 4:00,Mechanical Engineering,NULL,1
+2/17/20 4:00,Fine Arts,NULL,1
+2/17/20 4:00,Marketing,NULL,1
+2/17/20 4:00,Econ,NULL,1
+2/17/20 4:00,jess ling,NULL,1
+2/17/20 4:00,Computer Science,STEM,30
+2/17/20 4:00,SSE 2020,NULL,1
+2/17/20 4:00,History,NULL,1
+2/17/20 4:00,International Studies and Business,NULL,1
+2/17/20 4:00,Katie Busch,NULL,1
+2/17/20 4:00,biology,NULL,1
+2/17/20 4:00,PPE & GSWS,NULL,1
+2/17/20 4:00,Brendan Yoo,NULL,1
+2/17/20 4:00,BBB,NULL,7
+2/17/20 4:00,Finance and Computer Science,NULL,1
+2/17/20 4:00,Business Analytics,NULL,5
+2/17/20 4:00,Communications,NULL,1
+2/17/20 4:00,Cognitive Science,NULL,2
+2/17/20 4:00,English,NULL,2
+2/17/20 4:00,Bioengineering,NULL,3
+2/17/20 4:00,Chemistry,NULL,1
+2/17/20 4:00,Chemical and Bioengineering,NULL,1
+2/17/20 4:00,Nursing,NULL,2
+2/17/20 4:00,Finance 2021,NULL,1
+2/17/20 4:00,PPE,NULL,3
+2/17/20 4:00,DMD 2021,NULL,1
+2/17/20 4:00,Wharton 20222,NULL,1
+2/17/20 4:00,Misc,NULL,5
+2/17/20 4:00,Urban Studies,NULL,1
+2/17/20 4:00,Misc.1,NULL,1
+2/17/20 4:00,2022,NULL,1
+2/17/20 4:00,OIDD,NULL,2
+2/17/20 4:00,Philosophy,NULL,1
+2/17/20 4:00,Nursing 2021,NULL,1
+2/17/20 5:00,Systems Engineering,NULL,2
+2/17/20 5:00,Statisticsistics,NULL,1
+2/17/20 5:00,Statistics,NULL,5
+2/17/20 5:00,DMD,NULL,7
+2/17/20 5:00,ECON,NULL,1
+2/17/20 5:00,Mathematical Economics,NULL,1
+2/17/20 5:00,Political Science,HUM,5
+2/17/20 5:00,Commications,NULL,1
+2/17/20 5:00,Math,NULL,1
+2/17/20 5:00,Nutrition,NULL,2
+2/17/20 5:00,Biology,NULL,3
+2/17/20 5:00,Finance,NULL,7
+2/17/20 5:00,Mechanical Engineering,NULL,1
+2/17/20 5:00,Fine Arts,NULL,1
+2/17/20 5:00,Marketing,NULL,2
+2/17/20 5:00,Econ,NULL,1
+2/17/20 5:00,jess ling,NULL,1
+2/17/20 5:00,Computer Science,STEM,32
+2/17/20 5:00,SSE 2020,NULL,1
+2/17/20 5:00,History,NULL,1
+2/17/20 5:00,International Studies and Business,NULL,1
+2/17/20 5:00,Katie Busch,NULL,1
+2/17/20 5:00,biology,NULL,1
+2/17/20 5:00,PPE & GSWS,NULL,1
+2/17/20 5:00,Brendan Yoo,NULL,1
+2/17/20 5:00,BBB,NULL,7
+2/17/20 5:00,Finance and Computer Science,NULL,1
+2/17/20 5:00,Business Analytics,NULL,5
+2/17/20 5:00,Communications,NULL,1
+2/17/20 5:00,Cognitive Science,NULL,2
+2/17/20 5:00,English,NULL,2
+2/17/20 5:00,Bioengineering,NULL,3
+2/17/20 5:00,Chemistry,NULL,1
+2/17/20 5:00,Chemical and Bioengineering,NULL,1
+2/17/20 5:00,Nursing,NULL,2
+2/17/20 5:00,Finance 2021,NULL,1
+2/17/20 5:00,PPE,NULL,3
+2/17/20 5:00,DMD 2021,NULL,1
+2/17/20 5:00,Wharton 20222,NULL,1
+2/17/20 5:00,Misc,NULL,5
+2/17/20 5:00,Urban Studies,NULL,1
+2/17/20 5:00,Misc.1,NULL,1
+2/17/20 5:00,2022,NULL,1
+2/17/20 5:00,OIDD,NULL,2
+2/17/20 5:00,Philosophy,NULL,1
+2/17/20 5:00,Nursing 2021,NULL,1
+2/17/20 6:00,Systems Engineering,NULL,2
+2/17/20 6:00,Statisticsistics,NULL,1
+2/17/20 6:00,Statistics,NULL,5
+2/17/20 6:00,DMD,NULL,7
+2/17/20 6:00,ECON,NULL,1
+2/17/20 6:00,Mathematical Economics,NULL,1
+2/17/20 6:00,Political Science,HUM,5
+2/17/20 6:00,Commications,NULL,1
+2/17/20 6:00,Math,NULL,1
+2/17/20 6:00,Nutrition,NULL,2
+2/17/20 6:00,Biology,NULL,3
+2/17/20 6:00,Finance,NULL,7
+2/17/20 6:00,Mechanical Engineering,NULL,1
+2/17/20 6:00,Fine Arts,NULL,1
+2/17/20 6:00,Marketing,NULL,2
+2/17/20 6:00,Econ,NULL,1
+2/17/20 6:00,jess ling,NULL,1
+2/17/20 6:00,Computer Science,STEM,32
+2/17/20 6:00,SSE 2020,NULL,1
+2/17/20 6:00,History,NULL,1
+2/17/20 6:00,International Studies and Business,NULL,1
+2/17/20 6:00,Katie Busch,NULL,1
+2/17/20 6:00,biology,NULL,1
+2/17/20 6:00,PPE & GSWS,NULL,1
+2/17/20 6:00,Brendan Yoo,NULL,1
+2/17/20 6:00,BBB,NULL,7
+2/17/20 6:00,Finance and Computer Science,NULL,1
+2/17/20 6:00,Business Analytics,NULL,5
+2/17/20 6:00,Communications,NULL,1
+2/17/20 6:00,Cognitive Science,NULL,2
+2/17/20 6:00,English,NULL,2
+2/17/20 6:00,Bioengineering,NULL,3
+2/17/20 6:00,Chemistry,NULL,1
+2/17/20 6:00,Chemical and Bioengineering,NULL,1
+2/17/20 6:00,Nursing,NULL,2
+2/17/20 6:00,Finance 2021,NULL,1
+2/17/20 6:00,PPE,NULL,3
+2/17/20 6:00,DMD 2021,NULL,1
+2/17/20 6:00,Wharton 20222,NULL,1
+2/17/20 6:00,Misc,NULL,5
+2/17/20 6:00,Urban Studies,NULL,1
+2/17/20 6:00,Misc.1,NULL,1
+2/17/20 6:00,2022,NULL,1
+2/17/20 6:00,OIDD,NULL,2
+2/17/20 6:00,Philosophy,NULL,1
+2/17/20 7:00,Systems Engineering,NULL,2
+2/17/20 7:00,Statisticsistics,NULL,1
+2/17/20 7:00,Statistics,NULL,5
+2/17/20 7:00,DMD,NULL,6
+2/17/20 7:00,ECON,NULL,1
+2/17/20 7:00,Mathematical Economics,NULL,1
+2/17/20 7:00,Political Science,HUM,4
+2/17/20 7:00,Commications,NULL,1
+2/17/20 7:00,Math,NULL,1
+2/17/20 7:00,Nutrition,NULL,2
+2/17/20 7:00,Biology,NULL,3
+2/17/20 7:00,Finance,NULL,7
+2/17/20 7:00,Mechanical Engineering,NULL,1
+2/17/20 7:00,Fine Arts,NULL,1
+2/17/20 7:00,Marketing,NULL,2
+2/17/20 7:00,Econ,NULL,1
+2/17/20 7:00,jess ling,NULL,1
+2/17/20 7:00,Computer Science,STEM,32
+2/17/20 7:00,SSE 2020,NULL,1
+2/17/20 7:00,History,NULL,1
+2/17/20 7:00,International Studies and Business,NULL,1
+2/17/20 7:00,Katie Busch,NULL,1
+2/17/20 7:00,biology,NULL,1
+2/17/20 7:00,PPE & GSWS,NULL,1
+2/17/20 7:00,Brendan Yoo,NULL,1
+2/17/20 7:00,BBB,NULL,7
+2/17/20 7:00,Finance and Computer Science,NULL,1
+2/17/20 7:00,Business Analytics,NULL,5
+2/17/20 7:00,Communications,NULL,1
+2/17/20 7:00,Cognitive Science,NULL,2
+2/17/20 7:00,English,NULL,2
+2/17/20 7:00,Bioengineering,NULL,3
+2/17/20 7:00,Chemistry,NULL,1
+2/17/20 7:00,Chemical and Bioengineering,NULL,1
+2/17/20 7:00,Nursing,NULL,2
+2/17/20 7:00,Finance 2021,NULL,1
+2/17/20 7:00,PPE,NULL,3
+2/17/20 7:00,DMD 2021,NULL,1
+2/17/20 7:00,Wharton 20222,NULL,1
+2/17/20 7:00,Misc,NULL,4
+2/17/20 7:00,Urban Studies,NULL,1
+2/17/20 7:00,Misc.1,NULL,1
+2/17/20 7:00,2022,NULL,1
+2/17/20 7:00,OIDD,NULL,2
+2/17/20 7:00,Philosophy,NULL,1
+2/17/20 8:00,Systems Engineering,NULL,1
+2/17/20 8:00,Statisticsistics,NULL,1
+2/17/20 8:00,Statistics,NULL,4
+2/17/20 8:00,DMD,NULL,6
+2/17/20 8:00,ECON,NULL,1
+2/17/20 8:00,Political Science,HUM,3
+2/17/20 8:00,Commications,NULL,1
+2/17/20 8:00,Nutrition,NULL,1
+2/17/20 8:00,Math,NULL,1
+2/17/20 8:00,Philosophy,NULL,1
+2/17/20 8:00,Biology,NULL,3
+2/17/20 8:00,Finance,NULL,7
+2/17/20 8:00,Mechanical Engineering,NULL,1
+2/17/20 8:00,Fine Arts,NULL,1
+2/17/20 8:00,Marketing,NULL,2
+2/17/20 8:00,Econ,NULL,1
+2/17/20 8:00,jess ling,NULL,1
+2/17/20 8:00,Computer Science,STEM,29
+2/17/20 8:00,SSE 2020,NULL,1
+2/17/20 8:00,Finance 2021,NULL,1
+2/17/20 8:00,International Studies and Business,NULL,1
+2/17/20 8:00,biology,NULL,1
+2/17/20 8:00,PPE & GSWS,NULL,1
+2/17/20 8:00,Brendan Yoo,NULL,1
+2/17/20 8:00,BBB,NULL,5
+2/17/20 8:00,Business Analytics,NULL,4
+2/17/20 8:00,Communications,NULL,1
+2/17/20 8:00,Cognitive Science,NULL,2
+2/17/20 8:00,English,NULL,2
+2/17/20 8:00,Bioengineering,NULL,3
+2/17/20 8:00,Chemistry,NULL,1
+2/17/20 8:00,Chemical and Bioengineering,NULL,1
+2/17/20 8:00,PPE,NULL,3
+2/17/20 8:00,DMD 2021,NULL,1
+2/17/20 8:00,Wharton 20222,NULL,1
+2/17/20 8:00,Misc,NULL,3
+2/17/20 8:00,Urban Studies,NULL,1
+2/17/20 8:00,Misc.1,NULL,1
+2/17/20 8:00,2022,NULL,1
+2/17/20 8:00,OIDD,NULL,2
+2/17/20 9:00,Systems Engineering,NULL,1
+2/17/20 9:00,Statisticsistics,NULL,1
+2/17/20 9:00,Statistics,NULL,3
+2/17/20 9:00,DMD,NULL,4
+2/17/20 9:00,ECON,NULL,1
+2/17/20 9:00,Political Science,HUM,1
+2/17/20 9:00,Commications,NULL,1
+2/17/20 9:00,Math,NULL,1
+2/17/20 9:00,Philosophy,NULL,1
+2/17/20 9:00,Biology,NULL,1
+2/17/20 9:00,Finance,NULL,5
+2/17/20 9:00,Mechanical Engineering,NULL,1
+2/17/20 9:00,Fine Arts,NULL,1
+2/17/20 9:00,Marketing,NULL,2
+2/17/20 9:00,Econ,NULL,1
+2/17/20 9:00,jess ling,NULL,1
+2/17/20 9:00,Computer Science,STEM,22
+2/17/20 9:00,SSE 2020,NULL,1
+2/17/20 9:00,Finance 2021,NULL,1
+2/17/20 9:00,DMD 2021,NULL,1
+2/17/20 9:00,biology,NULL,1
+2/17/20 9:00,Brendan Yoo,NULL,1
+2/17/20 9:00,BBB,NULL,3
+2/17/20 9:00,Business Analytics,NULL,3
+2/17/20 9:00,Communications,NULL,1
+2/17/20 9:00,Cognitive Science,NULL,1
+2/17/20 9:00,English,NULL,1
+2/17/20 9:00,Bioengineering,NULL,2
+2/17/20 9:00,Chemical and Bioengineering,NULL,1
+2/17/20 9:00,PPE,NULL,2
+2/17/20 9:00,Misc,NULL,2
+2/17/20 9:00,Misc.1,NULL,1
+2/17/20 9:00,2022,NULL,1
+2/17/20 9:00,OIDD,NULL,2
+2/17/20 10:00,SSE 2020,NULL,1
+2/17/20 10:00,Statisticsistics,NULL,1
+2/17/20 10:00,Statistics,NULL,1
+2/17/20 10:00,DMD,NULL,4
+2/17/20 10:00,Finance,NULL,1
+2/17/20 10:00,PPE,NULL,1
+2/17/20 10:00,Fine Arts,NULL,1
+2/17/20 10:00,Marketing,NULL,2
+2/17/20 10:00,Brendan Yoo,NULL,1
+2/17/20 10:00,Philosophy,NULL,1
+2/17/20 10:00,Misc,NULL,1
+2/17/20 10:00,Biology,NULL,1
+2/17/20 10:00,jess ling,NULL,1
+2/17/20 10:00,BBB,NULL,1
+2/17/20 10:00,Business Analytics,NULL,2
+2/17/20 10:00,Computer Science,STEM,11
+2/17/20 10:00,Political Science,HUM,1
+2/17/20 10:00,English,NULL,1
+2/17/20 10:00,OIDD,NULL,1
+2/17/20 10:00,Bioengineering,NULL,2
+2/17/20 10:00,Finance 2021,NULL,1
+2/17/20 11:00,SSE 2020,NULL,1
+2/17/20 11:00,DMD,NULL,3
+2/17/20 11:00,Fine Arts,NULL,1
+2/17/20 11:00,Marketing,NULL,1
+2/17/20 11:00,Computer Science,STEM,4
+2/17/20 11:00,Political Science,HUM,1
+2/17/20 11:00,English,NULL,1
+2/17/20 11:00,Bioengineering,NULL,1
+2/17/20 12:00,Marketing,NULL,1
+2/17/20 12:00,DMD,NULL,1
+2/17/20 12:00,Computer Science,STEM,3
+2/17/20 13:00,Marketing,NULL,1
+2/17/20 13:00,Computer Science,STEM,4
+2/17/20 14:00,Computer Science,STEM,1
+2/17/20 15:00,Computer Science,STEM,1
+2/17/20 16:00,Computer Science,STEM,1
+2/17/20 16:00,jess ling,NULL,1
+2/17/20 17:00,Computer Science,STEM,1
+2/17/20 17:00,jess ling,NULL,1
+2/17/20 18:00,Computer Science,STEM,1
+2/17/20 18:00,jess ling,NULL,1
+2/17/20 19:00,BBB,NULL,1
+2/17/20 19:00,Computer Science,STEM,1
+2/17/20 20:00,BBB,NULL,1
+2/17/20 20:00,Computer Science,STEM,1
+2/17/20 21:00,BBB,NULL,1
+2/17/20 22:00,Nutrition,NULL,1
+2/17/20 22:00,Biology,NULL,1
+2/17/20 22:00,Finance,NULL,1
+2/17/20 22:00,Economics,NULL,1
+2/17/20 22:00,BBB,NULL,1
+2/17/20 22:00,Finance and Computer Science,NULL,1
+2/17/20 22:00,Commications,NULL,1
+2/17/20 22:00,Nursing,NULL,1
+2/17/20 23:00,Nutrition,NULL,1
+2/17/20 23:00,Biology,NULL,1
+2/17/20 23:00,DMD,NULL,1
+2/17/20 23:00,Nursing,NULL,1
+2/17/20 23:00,Economics,NULL,1
+2/17/20 23:00,Misc,NULL,1
+2/17/20 23:00,jess ling,NULL,1
+2/17/20 23:00,Finance and Computer Science,NULL,1
+2/17/20 23:00,Commications,NULL,1
+2/17/20 23:00,Finance,NULL,1
+2/18/20 0:00,Statistics,NULL,2
+2/18/20 0:00,DMD,NULL,2
+2/18/20 0:00,Political Science,HUM,1
+2/18/20 0:00,Nutrition,NULL,1
+2/18/20 0:00,Biology,NULL,1
+2/18/20 0:00,Finance,NULL,3
+2/18/20 0:00,Computer Science,STEM,3
+2/18/20 0:00,DMD 2021,NULL,1
+2/18/20 0:00,Katie Busch,NULL,1
+2/18/20 0:00,PPE & GSWS,NULL,1
+2/18/20 0:00,Brendan Yoo,NULL,1
+2/18/20 0:00,Economics,NULL,1
+2/18/20 0:00,BBB,NULL,2
+2/18/20 0:00,Finance and Computer Science,NULL,1
+2/18/20 0:00,Business Analytics,NULL,1
+2/18/20 0:00,Communications,NULL,1
+2/18/20 0:00,English,NULL,1
+2/18/20 0:00,Bioengineering,NULL,2
+2/18/20 0:00,Chemical and Bioengineering,NULL,1
+2/18/20 0:00,Nursing,NULL,1
+2/18/20 0:00,Misc,NULL,2
+2/18/20 0:00,Urban Studies,NULL,1
+2/18/20 1:00,Systems Engineering,NULL,1
+2/18/20 1:00,Statistics,NULL,5
+2/18/20 1:00,DMD,NULL,2
+2/18/20 1:00,ECON,NULL,1
+2/18/20 1:00,Mathematical Economics,NULL,1
+2/18/20 1:00,Political Science,HUM,3
+2/18/20 1:00,Nutrition,NULL,2
+2/18/20 1:00,Biology,NULL,2
+2/18/20 1:00,Finance,NULL,4
+2/18/20 1:00,Fine Arts,NULL,1
+2/18/20 1:00,Econ,NULL,1
+2/18/20 1:00,Computer Science,STEM,12
+2/18/20 1:00,SSE 2020,NULL,1
+2/18/20 1:00,International Studies and Business,NULL,1
+2/18/20 1:00,Katie Busch,NULL,1
+2/18/20 1:00,biology,NULL,1
+2/18/20 1:00,PPE & GSWS,NULL,1
+2/18/20 1:00,Brendan Yoo,NULL,1
+2/18/20 1:00,Economics,NULL,1
+2/18/20 1:00,BBB,NULL,5
+2/18/20 1:00,Finance and Computer Science,NULL,1
+2/18/20 1:00,Business Analytics,NULL,4
+2/18/20 1:00,Communications,NULL,1
+2/18/20 1:00,Cognitive Science,NULL,1
+2/18/20 1:00,English,NULL,1
+2/18/20 1:00,Bioengineering,NULL,3
+2/18/20 1:00,Chemistry,NULL,1
+2/18/20 1:00,Chemical and Bioengineering,NULL,1
+2/18/20 1:00,History,NULL,1
+2/18/20 1:00,Nursing,NULL,2
+2/18/20 1:00,DMD 2021,NULL,1
+2/18/20 1:00,Misc,NULL,3
+2/18/20 1:00,Urban Studies,NULL,1
+2/18/20 1:00,OIDD,NULL,2
+2/18/20 2:00,Systems Engineering,NULL,2
+2/18/20 2:00,Statistics,NULL,5
+2/18/20 2:00,DMD,NULL,3
+2/18/20 2:00,ECON,NULL,1
+2/18/20 2:00,Mathematical Economics,NULL,1
+2/18/20 2:00,Political Science,HUM,4
+2/18/20 2:00,Commications,NULL,1
+2/18/20 2:00,Nutrition,NULL,2
+2/18/20 2:00,Biology,NULL,2
+2/18/20 2:00,Finance,NULL,7
+2/18/20 2:00,Mechanical Engineering,NULL,1
+2/18/20 2:00,Fine Arts,NULL,1
+2/18/20 2:00,Econ,NULL,1
+2/18/20 2:00,Computer Science,STEM,22
+2/18/20 2:00,SSE 2020,NULL,1
+2/18/20 2:00,Finance 2021,NULL,1
+2/18/20 2:00,International Studies and Business,NULL,1
+2/18/20 2:00,Katie Busch,NULL,1
+2/18/20 2:00,biology,NULL,1
+2/18/20 2:00,PPE & GSWS,NULL,1
+2/18/20 2:00,Brendan Yoo,NULL,1
+2/18/20 2:00,Economics,NULL,1
+2/18/20 2:00,BBB,NULL,5
+2/18/20 2:00,Finance and Computer Science,NULL,1
+2/18/20 2:00,Business Analytics,NULL,5
+2/18/20 2:00,Communications,NULL,1
+2/18/20 2:00,Cognitive Science,NULL,2
+2/18/20 2:00,English,NULL,1
+2/18/20 2:00,Bioengineering,NULL,3
+2/18/20 2:00,Chemistry,NULL,1
+2/18/20 2:00,Chemical and Bioengineering,NULL,1
+2/18/20 2:00,History,NULL,1
+2/18/20 2:00,Nursing,NULL,2
+2/18/20 2:00,PPE,NULL,1
+2/18/20 2:00,DMD 2021,NULL,1
+2/18/20 2:00,Misc,NULL,5
+2/18/20 2:00,Urban Studies,NULL,1
+2/18/20 2:00,Misc.1,NULL,1
+2/18/20 2:00,2022,NULL,1
+2/18/20 2:00,OIDD,NULL,2
+2/18/20 2:00,Philosophy,NULL,1
+2/18/20 3:00,Systems Engineering,NULL,2
+2/18/20 3:00,Statisticsistics,NULL,1
+2/18/20 3:00,Statistics,NULL,5
+2/18/20 3:00,DMD,NULL,6
+2/18/20 3:00,ECON,NULL,1
+2/18/20 3:00,Mathematical Economics,NULL,1
+2/18/20 3:00,Political Science,HUM,4
+2/18/20 3:00,Commications,NULL,1
+2/18/20 3:00,Nutrition,NULL,2
+2/18/20 3:00,Biology,NULL,2
+2/18/20 3:00,Finance,NULL,7
+2/18/20 3:00,Mechanical Engineering,NULL,1
+2/18/20 3:00,Fine Arts,NULL,1
+2/18/20 3:00,Marketing,NULL,1
+2/18/20 3:00,Econ,NULL,1
+2/18/20 3:00,Computer Science,STEM,28
+2/18/20 3:00,SSE 2020,NULL,1
+2/18/20 3:00,Finance 2021,NULL,1
+2/18/20 3:00,International Studies and Business,NULL,1
+2/18/20 3:00,Katie Busch,NULL,1
+2/18/20 3:00,biology,NULL,1
+2/18/20 3:00,PPE & GSWS,NULL,1
+2/18/20 3:00,Brendan Yoo,NULL,1
+2/18/20 3:00,Economics,NULL,1
+2/18/20 3:00,BBB,NULL,5
+2/18/20 3:00,Finance and Computer Science,NULL,1
+2/18/20 3:00,Business Analytics,NULL,5
+2/18/20 3:00,Communications,NULL,1
+2/18/20 3:00,Cognitive Science,NULL,2
+2/18/20 3:00,English,NULL,1
+2/18/20 3:00,Bioengineering,NULL,3
+2/18/20 3:00,Chemistry,NULL,1
+2/18/20 3:00,Chemical and Bioengineering,NULL,1
+2/18/20 3:00,History,NULL,1
+2/18/20 3:00,Nursing,NULL,2
+2/18/20 3:00,PPE,NULL,3
+2/18/20 3:00,DMD 2021,NULL,1
+2/18/20 3:00,Wharton 20222,NULL,1
+2/18/20 3:00,Misc,NULL,5
+2/18/20 3:00,Urban Studies,NULL,1
+2/18/20 3:00,Misc.1,NULL,1
+2/18/20 3:00,2022,NULL,1
+2/18/20 3:00,OIDD,NULL,2
+2/18/20 3:00,Philosophy,NULL,1
+2/18/20 4:00,Systems Engineering,NULL,2
+2/18/20 4:00,Statisticsistics,NULL,1
+2/18/20 4:00,Statistics,NULL,5
+2/18/20 4:00,DMD,NULL,7
+2/18/20 4:00,ECON,NULL,1
+2/18/20 4:00,Mathematical Economics,NULL,1
+2/18/20 4:00,Political Science,HUM,4
+2/18/20 4:00,Commications,NULL,1
+2/18/20 4:00,Math,NULL,1
+2/18/20 4:00,Nutrition,NULL,2
+2/18/20 4:00,Biology,NULL,2
+2/18/20 4:00,Finance,NULL,9
+2/18/20 4:00,Mechanical Engineering,NULL,1
+2/18/20 4:00,Fine Arts,NULL,1
+2/18/20 4:00,Marketing,NULL,1
+2/18/20 4:00,Econ,NULL,1
+2/18/20 4:00,Computer Science,STEM,30
+2/18/20 4:00,SSE 2020,NULL,1
+2/18/20 4:00,Finance 2021,NULL,1
+2/18/20 4:00,International Studies and Business,NULL,1
+2/18/20 4:00,Katie Busch,NULL,1
+2/18/20 4:00,biology,NULL,1
+2/18/20 4:00,PPE & GSWS,NULL,1
+2/18/20 4:00,Brendan Yoo,NULL,1
+2/18/20 4:00,Economics,NULL,1
+2/18/20 4:00,BBB,NULL,5
+2/18/20 4:00,Finance and Computer Science,NULL,1
+2/18/20 4:00,Business Analytics,NULL,5
+2/18/20 4:00,Communications,NULL,1
+2/18/20 4:00,Cognitive Science,NULL,2
+2/18/20 4:00,English,NULL,1
+2/18/20 4:00,Bioengineering,NULL,3
+2/18/20 4:00,Chemistry,NULL,1
+2/18/20 4:00,Chemical and Bioengineering,NULL,1
+2/18/20 4:00,History,NULL,1
+2/18/20 4:00,Nursing,NULL,2
+2/18/20 4:00,PPE,NULL,3
+2/18/20 4:00,DMD 2021,NULL,1
+2/18/20 4:00,Wharton 20222,NULL,1
+2/18/20 4:00,Misc,NULL,5
+2/18/20 4:00,Urban Studies,NULL,1
+2/18/20 4:00,Misc.1,NULL,1
+2/18/20 4:00,2022,NULL,1
+2/18/20 4:00,OIDD,NULL,2
+2/18/20 4:00,Philosophy,NULL,1
+2/18/20 5:00,Systems Engineering,NULL,2
+2/18/20 5:00,Statisticsistics,NULL,1
+2/18/20 5:00,Statistics,NULL,5
+2/18/20 5:00,DMD,NULL,7
+2/18/20 5:00,ECON,NULL,1
+2/18/20 5:00,Mathematical Economics,NULL,1
+2/18/20 5:00,Political Science,HUM,4
+2/18/20 5:00,Commications,NULL,1
+2/18/20 5:00,Math,NULL,1
+2/18/20 5:00,Nutrition,NULL,2
+2/18/20 5:00,Biology,NULL,2
+2/18/20 5:00,Finance,NULL,9
+2/18/20 5:00,Mechanical Engineering,NULL,1
+2/18/20 5:00,Fine Arts,NULL,1
+2/18/20 5:00,Marketing,NULL,2
+2/18/20 5:00,Econ,NULL,1
+2/18/20 5:00,Computer Science,STEM,31
+2/18/20 5:00,SSE 2020,NULL,1
+2/18/20 5:00,Finance 2021,NULL,1
+2/18/20 5:00,International Studies and Business,NULL,1
+2/18/20 5:00,Katie Busch,NULL,1
+2/18/20 5:00,biology,NULL,1
+2/18/20 5:00,PPE & GSWS,NULL,1
+2/18/20 5:00,Brendan Yoo,NULL,1
+2/18/20 5:00,Economics,NULL,1
+2/18/20 5:00,BBB,NULL,5
+2/18/20 5:00,Finance and Computer Science,NULL,1
+2/18/20 5:00,Business Analytics,NULL,5
+2/18/20 5:00,Communications,NULL,1
+2/18/20 5:00,Cognitive Science,NULL,2
+2/18/20 5:00,English,NULL,1
+2/18/20 5:00,Bioengineering,NULL,3
+2/18/20 5:00,Chemistry,NULL,1
+2/18/20 5:00,Chemical and Bioengineering,NULL,1
+2/18/20 5:00,History,NULL,1
+2/18/20 5:00,Nursing,NULL,2
+2/18/20 5:00,PPE,NULL,3
+2/18/20 5:00,DMD 2021,NULL,1
+2/18/20 5:00,Wharton 20222,NULL,1
+2/18/20 5:00,Misc,NULL,5
+2/18/20 5:00,Urban Studies,NULL,1
+2/18/20 5:00,Misc.1,NULL,1
+2/18/20 5:00,2022,NULL,1
+2/18/20 5:00,OIDD,NULL,2
+2/18/20 5:00,Philosophy,NULL,1
+2/18/20 6:00,Systems Engineering,NULL,2
+2/18/20 6:00,Statisticsistics,NULL,1
+2/18/20 6:00,Statistics,NULL,5
+2/18/20 6:00,DMD,NULL,7
+2/18/20 6:00,ECON,NULL,1
+2/18/20 6:00,Mathematical Economics,NULL,1
+2/18/20 6:00,Political Science,HUM,4
+2/18/20 6:00,Commications,NULL,1
+2/18/20 6:00,Math,NULL,1
+2/18/20 6:00,Nutrition,NULL,2
+2/18/20 6:00,Biology,NULL,2
+2/18/20 6:00,Finance,NULL,9
+2/18/20 6:00,Mechanical Engineering,NULL,1
+2/18/20 6:00,Fine Arts,NULL,1
+2/18/20 6:00,Marketing,NULL,2
+2/18/20 6:00,Econ,NULL,1
+2/18/20 6:00,Computer Science,STEM,31
+2/18/20 6:00,SSE 2020,NULL,1
+2/18/20 6:00,Finance 2021,NULL,1
+2/18/20 6:00,International Studies and Business,NULL,1
+2/18/20 6:00,Katie Busch,NULL,1
+2/18/20 6:00,biology,NULL,1
+2/18/20 6:00,PPE & GSWS,NULL,1
+2/18/20 6:00,Brendan Yoo,NULL,1
+2/18/20 6:00,Economics,NULL,1
+2/18/20 6:00,BBB,NULL,6
+2/18/20 6:00,Finance and Computer Science,NULL,1
+2/18/20 6:00,Business Analytics,NULL,5
+2/18/20 6:00,Communications,NULL,1
+2/18/20 6:00,Cognitive Science,NULL,2
+2/18/20 6:00,English,NULL,1
+2/18/20 6:00,Bioengineering,NULL,4
+2/18/20 6:00,Chemistry,NULL,1
+2/18/20 6:00,Chemical and Bioengineering,NULL,1
+2/18/20 6:00,History,NULL,1
+2/18/20 6:00,Nursing,NULL,1
+2/18/20 6:00,PPE,NULL,3
+2/18/20 6:00,DMD 2021,NULL,1
+2/18/20 6:00,Wharton 20222,NULL,1
+2/18/20 6:00,Misc,NULL,5
+2/18/20 6:00,Urban Studies,NULL,1
+2/18/20 6:00,Misc.1,NULL,1
+2/18/20 6:00,2022,NULL,1
+2/18/20 6:00,OIDD,NULL,2
+2/18/20 6:00,Philosophy,NULL,1
+2/18/20 7:00,Systems Engineering,NULL,2
+2/18/20 7:00,Statisticsistics,NULL,1
+2/18/20 7:00,Statistics,NULL,5
+2/18/20 7:00,DMD,NULL,6
+2/18/20 7:00,ECON,NULL,1
+2/18/20 7:00,Mathematical Economics,NULL,1
+2/18/20 7:00,Political Science,HUM,4
+2/18/20 7:00,Commications,NULL,1
+2/18/20 7:00,Nutrition,NULL,1
+2/18/20 7:00,Math,NULL,1
+2/18/20 7:00,Philosophy,NULL,1
+2/18/20 7:00,Biology,NULL,2
+2/18/20 7:00,Finance,NULL,7
+2/18/20 7:00,Mechanical Engineering,NULL,1
+2/18/20 7:00,Fine Arts,NULL,1
+2/18/20 7:00,Marketing,NULL,2
+2/18/20 7:00,Econ,NULL,1
+2/18/20 7:00,Computer Science,STEM,31
+2/18/20 7:00,SSE 2020,NULL,1
+2/18/20 7:00,Finance 2021,NULL,1
+2/18/20 7:00,International Studies and Business,NULL,1
+2/18/20 7:00,Katie Busch,NULL,1
+2/18/20 7:00,biology,NULL,1
+2/18/20 7:00,PPE & GSWS,NULL,1
+2/18/20 7:00,Brendan Yoo,NULL,1
+2/18/20 7:00,BBB,NULL,6
+2/18/20 7:00,Finance and Computer Science,NULL,1
+2/18/20 7:00,Business Analytics,NULL,5
+2/18/20 7:00,Communications,NULL,1
+2/18/20 7:00,Cognitive Science,NULL,2
+2/18/20 7:00,English,NULL,1
+2/18/20 7:00,Bioengineering,NULL,4
+2/18/20 7:00,Chemistry,NULL,1
+2/18/20 7:00,Chemical and Bioengineering,NULL,1
+2/18/20 7:00,History,NULL,1
+2/18/20 7:00,PPE,NULL,3
+2/18/20 7:00,DMD 2021,NULL,1
+2/18/20 7:00,Wharton 20222,NULL,1
+2/18/20 7:00,Misc,NULL,4
+2/18/20 7:00,Urban Studies,NULL,1
+2/18/20 7:00,Misc.1,NULL,1
+2/18/20 7:00,2022,NULL,1
+2/18/20 7:00,OIDD,NULL,2
+2/18/20 8:00,Systems Engineering,NULL,2
+2/18/20 8:00,Statisticsistics,NULL,1
+2/18/20 8:00,Statistics,NULL,5
+2/18/20 8:00,DMD,NULL,6
+2/18/20 8:00,ECON,NULL,1
+2/18/20 8:00,Political Science,HUM,4
+2/18/20 8:00,Nutrition,NULL,1
+2/18/20 8:00,Math,NULL,1
+2/18/20 8:00,Philosophy,NULL,1
+2/18/20 8:00,Biology,NULL,2
+2/18/20 8:00,Finance,NULL,5
+2/18/20 8:00,Mechanical Engineering,NULL,1
+2/18/20 8:00,Fine Arts,NULL,1
+2/18/20 8:00,Marketing,NULL,2
+2/18/20 8:00,Econ,NULL,1
+2/18/20 8:00,Computer Science,STEM,28
+2/18/20 8:00,SSE 2020,NULL,1
+2/18/20 8:00,Finance 2021,NULL,1
+2/18/20 8:00,International Studies and Business,NULL,1
+2/18/20 8:00,biology,NULL,1
+2/18/20 8:00,PPE & GSWS,NULL,1
+2/18/20 8:00,Brendan Yoo,NULL,1
+2/18/20 8:00,BBB,NULL,2
+2/18/20 8:00,Business Analytics,NULL,5
+2/18/20 8:00,Communications,NULL,1
+2/18/20 8:00,Cognitive Science,NULL,2
+2/18/20 8:00,English,NULL,1
+2/18/20 8:00,Bioengineering,NULL,2
+2/18/20 8:00,Chemistry,NULL,1
+2/18/20 8:00,History,NULL,1
+2/18/20 8:00,PPE,NULL,3
+2/18/20 8:00,DMD 2021,NULL,1
+2/18/20 8:00,Wharton 20222,NULL,1
+2/18/20 8:00,Misc,NULL,4
+2/18/20 8:00,Urban Studies,NULL,1
+2/18/20 8:00,Misc.1,NULL,1
+2/18/20 8:00,2022,NULL,1
+2/18/20 8:00,OIDD,NULL,2
+2/18/20 9:00,Systems Engineering,NULL,1
+2/18/20 9:00,Statisticsistics,NULL,1
+2/18/20 9:00,Statistics,NULL,3
+2/18/20 9:00,DMD,NULL,5
+2/18/20 9:00,ECON,NULL,1
+2/18/20 9:00,Math,NULL,1
+2/18/20 9:00,Biology,NULL,1
+2/18/20 9:00,Finance,NULL,4
+2/18/20 9:00,Mechanical Engineering,NULL,1
+2/18/20 9:00,Marketing,NULL,2
+2/18/20 9:00,Philosophy,NULL,1
+2/18/20 9:00,Computer Science,STEM,22
+2/18/20 9:00,SSE 2020,NULL,1
+2/18/20 9:00,Finance 2021,NULL,1
+2/18/20 9:00,International Studies and Business,NULL,1
+2/18/20 9:00,biology,NULL,1
+2/18/20 9:00,Brendan Yoo,NULL,1
+2/18/20 9:00,Business Analytics,NULL,3
+2/18/20 9:00,Cognitive Science,NULL,1
+2/18/20 9:00,Bioengineering,NULL,1
+2/18/20 9:00,Chemistry,NULL,1
+2/18/20 9:00,PPE,NULL,3
+2/18/20 9:00,Wharton 20222,NULL,1
+2/18/20 9:00,Misc,NULL,2
+2/18/20 9:00,Misc.1,NULL,1
+2/18/20 9:00,2022,NULL,1
+2/18/20 9:00,OIDD,NULL,2
+2/18/20 10:00,Statisticsistics,NULL,1
+2/18/20 10:00,DMD,NULL,4
+2/18/20 10:00,Finance,NULL,1
+2/18/20 10:00,PPE,NULL,2
+2/18/20 10:00,Biology,NULL,1
+2/18/20 10:00,Marketing,NULL,2
+2/18/20 10:00,Brendan Yoo,NULL,1
+2/18/20 10:00,Philosophy,NULL,1
+2/18/20 10:00,Misc,NULL,1
+2/18/20 10:00,biology,NULL,1
+2/18/20 10:00,Business Analytics,NULL,2
+2/18/20 10:00,Computer Science,STEM,10
+2/18/20 10:00,SSE 2020,NULL,1
+2/18/20 10:00,Bioengineering,NULL,1
+2/18/20 10:00,Finance 2021,NULL,1
+2/18/20 10:00,Math,NULL,1
+2/18/20 11:00,Marketing,NULL,1
+2/18/20 11:00,Philosophy,NULL,1
+2/18/20 11:00,DMD,NULL,3
+2/18/20 11:00,Computer Science,STEM,4
+2/18/20 12:00,Marketing,NULL,1
+2/18/20 12:00,Computer Science,STEM,2
+2/18/20 13:00,Marketing,NULL,1
+2/18/20 13:00,Computer Science,STEM,2
+2/18/20 14:00,Biology,NULL,1
+2/18/20 14:00,BBB,NULL,1
+2/18/20 14:00,Computer Science,STEM,1
+2/18/20 15:00,Biology,NULL,1
+2/18/20 15:00,Computer Science,STEM,1
+2/18/20 15:00,BBB,NULL,1
+2/18/20 16:00,Biology,NULL,1
+2/18/20 16:00,Computer Science,STEM,1
+2/18/20 16:00,BBB,NULL,1
+2/18/20 17:00,Bioengineering,NULL,1
+2/18/20 17:00,Biology,NULL,1
+2/18/20 17:00,Computer Science,STEM,1
+2/18/20 17:00,BBB,NULL,1
+2/18/20 18:00,Bioengineering,NULL,1
+2/18/20 18:00,Biology,NULL,1
+2/18/20 18:00,Computer Science,STEM,1
+2/18/20 18:00,BBB,NULL,1
+2/18/20 19:00,Biology,NULL,1
+2/18/20 19:00,Computer Science,STEM,1
+2/18/20 19:00,BBB,NULL,1
+2/18/20 20:00,Biology,NULL,1
+2/18/20 20:00,Computer Science,STEM,1
+2/18/20 20:00,BBB,NULL,1
+2/18/20 21:00,Biology,NULL,1
+2/18/20 21:00,Computer Science,STEM,1
+2/18/20 21:00,BBB,NULL,1
+2/18/20 22:00,Economics,NULL,1
+2/18/20 22:00,Finance and Computer Science,NULL,1
+2/18/20 22:00,Nursing,NULL,2
+2/18/20 22:00,Computer Science,STEM,1
+2/18/20 22:00,Finance,NULL,1
+2/18/20 23:00,Nutrition,NULL,1
+2/18/20 23:00,Biology,NULL,1
+2/18/20 23:00,DMD,NULL,1
+2/18/20 23:00,Finance,NULL,1
+2/18/20 23:00,Economics,NULL,1
+2/18/20 23:00,Misc,NULL,1
+2/18/20 23:00,BBB,NULL,1
+2/18/20 23:00,Finance and Computer Science,NULL,1
+2/18/20 23:00,Nursing,NULL,2
+2/19/20 0:00,Nutrition,NULL,1
+2/19/20 0:00,Biology,NULL,2
+2/19/20 0:00,Statistics,NULL,2
+2/19/20 0:00,DMD,NULL,2
+2/19/20 0:00,Finance,NULL,3
+2/19/20 0:00,PPE & GSWS,NULL,1
+2/19/20 0:00,Economics,NULL,1
+2/19/20 0:00,Misc,NULL,3
+2/19/20 0:00,BBB,NULL,2
+2/19/20 0:00,Finance and Computer Science,NULL,1
+2/19/20 0:00,Business Analytics,NULL,1
+2/19/20 0:00,Urban Studies,NULL,1
+2/19/20 0:00,Computer Science,STEM,3
+2/19/20 0:00,Political Science,HUM,1
+2/19/20 0:00,English,NULL,1
+2/19/20 0:00,OIDD,NULL,1
+2/19/20 0:00,Bioengineering,NULL,1
+2/19/20 0:00,Chemistry,NULL,1
+2/19/20 0:00,Chemical and Bioengineering,NULL,1
+2/19/20 0:00,Katie Busch,NULL,1
+2/19/20 0:00,Nursing,NULL,1
+2/19/20 1:00,Systems Engineering,NULL,1
+2/19/20 1:00,Statistics,NULL,5
+2/19/20 1:00,DMD,NULL,2
+2/19/20 1:00,ECON,NULL,1
+2/19/20 1:00,Mathematical Economics,NULL,1
+2/19/20 1:00,Political Science,HUM,2
+2/19/20 1:00,Nutrition,NULL,1
+2/19/20 1:00,Philosophy,NULL,1
+2/19/20 1:00,Biology,NULL,2
+2/19/20 1:00,Finance,NULL,4
+2/19/20 1:00,Econ,NULL,1
+2/19/20 1:00,Computer Science,STEM,13
+2/19/20 1:00,SSE 2020,NULL,1
+2/19/20 1:00,Finance 2021,NULL,1
+2/19/20 1:00,DMD 2021,NULL,1
+2/19/20 1:00,Katie Busch,NULL,1
+2/19/20 1:00,PPE & GSWS,NULL,1
+2/19/20 1:00,Economics,NULL,1
+2/19/20 1:00,BBB,NULL,5
+2/19/20 1:00,Finance and Computer Science,NULL,1
+2/19/20 1:00,Business Analytics,NULL,2
+2/19/20 1:00,Communications,NULL,1
+2/19/20 1:00,Cognitive Science,NULL,1
+2/19/20 1:00,English,NULL,1
+2/19/20 1:00,Bioengineering,NULL,3
+2/19/20 1:00,Chemistry,NULL,1
+2/19/20 1:00,Chemical and Bioengineering,NULL,1
+2/19/20 1:00,Nursing,NULL,1
+2/19/20 1:00,Misc,NULL,4
+2/19/20 1:00,Urban Studies,NULL,1
+2/19/20 1:00,OIDD,NULL,2
+2/19/20 2:00,Systems Engineering,NULL,1
+2/19/20 2:00,Statistics,NULL,5
+2/19/20 2:00,DMD,NULL,3
+2/19/20 2:00,ECON,NULL,1
+2/19/20 2:00,Mathematical Economics,NULL,1
+2/19/20 2:00,Political Science,HUM,4
+2/19/20 2:00,Commications,NULL,1
+2/19/20 2:00,Nutrition,NULL,2
+2/19/20 2:00,Biology,NULL,3
+2/19/20 2:00,Finance,NULL,6
+2/19/20 2:00,PPE,NULL,1
+2/19/20 2:00,Fine Arts,NULL,1
+2/19/20 2:00,Econ,NULL,1
+2/19/20 2:00,Computer Science,STEM,16
+2/19/20 2:00,SSE 2020,NULL,1
+2/19/20 2:00,Finance 2021,NULL,1
+2/19/20 2:00,International Studies and Business,NULL,1
+2/19/20 2:00,Katie Busch,NULL,1
+2/19/20 2:00,PPE & GSWS,NULL,1
+2/19/20 2:00,Economics,NULL,1
+2/19/20 2:00,BBB,NULL,6
+2/19/20 2:00,Finance and Computer Science,NULL,1
+2/19/20 2:00,Business Analytics,NULL,3
+2/19/20 2:00,Communications,NULL,1
+2/19/20 2:00,Cognitive Science,NULL,2
+2/19/20 2:00,English,NULL,1
+2/19/20 2:00,Bioengineering,NULL,3
+2/19/20 2:00,Chemistry,NULL,1
+2/19/20 2:00,Chemical and Bioengineering,NULL,1
+2/19/20 2:00,History,NULL,1
+2/19/20 2:00,Nursing,NULL,2
+2/19/20 2:00,DMD 2021,NULL,1
+2/19/20 2:00,Wharton 20222,NULL,1
+2/19/20 2:00,Misc,NULL,4
+2/19/20 2:00,Urban Studies,NULL,1
+2/19/20 2:00,Misc.1,NULL,1
+2/19/20 2:00,OIDD,NULL,2
+2/19/20 2:00,Philosophy,NULL,1
+2/19/20 3:00,Systems Engineering,NULL,2
+2/19/20 3:00,Statisticsistics,NULL,1
+2/19/20 3:00,Statistics,NULL,5
+2/19/20 3:00,DMD,NULL,6
+2/19/20 3:00,ECON,NULL,1
+2/19/20 3:00,Mathematical Economics,NULL,1
+2/19/20 3:00,Political Science,HUM,4
+2/19/20 3:00,Commications,NULL,1
+2/19/20 3:00,Nutrition,NULL,2
+2/19/20 3:00,Biology,NULL,3
+2/19/20 3:00,Finance,NULL,8
+2/19/20 3:00,Mechanical Engineering,NULL,1
+2/19/20 3:00,Fine Arts,NULL,1
+2/19/20 3:00,Marketing,NULL,1
+2/19/20 3:00,Econ,NULL,1
+2/19/20 3:00,Computer Science,STEM,23
+2/19/20 3:00,SSE 2020,NULL,1
+2/19/20 3:00,Finance 2021,NULL,1
+2/19/20 3:00,International Studies and Business,NULL,1
+2/19/20 3:00,Katie Busch,NULL,1
+2/19/20 3:00,biology,NULL,1
+2/19/20 3:00,PPE & GSWS,NULL,1
+2/19/20 3:00,Economics,NULL,1
+2/19/20 3:00,BBB,NULL,7
+2/19/20 3:00,Finance and Computer Science,NULL,1
+2/19/20 3:00,Business Analytics,NULL,5
+2/19/20 3:00,Communications,NULL,1
+2/19/20 3:00,Cognitive Science,NULL,2
+2/19/20 3:00,English,NULL,1
+2/19/20 3:00,Bioengineering,NULL,3
+2/19/20 3:00,Chemistry,NULL,1
+2/19/20 3:00,Chemical and Bioengineering,NULL,1
+2/19/20 3:00,History,NULL,1
+2/19/20 3:00,Nursing,NULL,2
+2/19/20 3:00,PPE,NULL,3
+2/19/20 3:00,DMD 2021,NULL,1
+2/19/20 3:00,Wharton 20222,NULL,1
+2/19/20 3:00,Misc,NULL,4
+2/19/20 3:00,Urban Studies,NULL,1
+2/19/20 3:00,Misc.1,NULL,1
+2/19/20 3:00,2022,NULL,1
+2/19/20 3:00,OIDD,NULL,2
+2/19/20 3:00,Philosophy,NULL,1
+2/19/20 4:00,Systems Engineering,NULL,2
+2/19/20 4:00,Statisticsistics,NULL,1
+2/19/20 4:00,Statistics,NULL,5
+2/19/20 4:00,DMD,NULL,7
+2/19/20 4:00,ECON,NULL,1
+2/19/20 4:00,Mathematical Economics,NULL,1
+2/19/20 4:00,Political Science,HUM,4
+2/19/20 4:00,Commications,NULL,1
+2/19/20 4:00,Nutrition,NULL,2
+2/19/20 4:00,Biology,NULL,3
+2/19/20 4:00,Finance,NULL,8
+2/19/20 4:00,Mechanical Engineering,NULL,1
+2/19/20 4:00,Fine Arts,NULL,1
+2/19/20 4:00,Marketing,NULL,1
+2/19/20 4:00,Econ,NULL,1
+2/19/20 4:00,Computer Science,STEM,27
+2/19/20 4:00,SSE 2020,NULL,1
+2/19/20 4:00,Finance 2021,NULL,1
+2/19/20 4:00,International Studies and Business,NULL,1
+2/19/20 4:00,Katie Busch,NULL,1
+2/19/20 4:00,biology,NULL,1
+2/19/20 4:00,PPE & GSWS,NULL,1
+2/19/20 4:00,Economics,NULL,1
+2/19/20 4:00,BBB,NULL,7
+2/19/20 4:00,Finance and Computer Science,NULL,1
+2/19/20 4:00,Business Analytics,NULL,5
+2/19/20 4:00,Communications,NULL,1
+2/19/20 4:00,Cognitive Science,NULL,2
+2/19/20 4:00,English,NULL,1
+2/19/20 4:00,Bioengineering,NULL,4
+2/19/20 4:00,Chemistry,NULL,1
+2/19/20 4:00,Chemical and Bioengineering,NULL,1
+2/19/20 4:00,History,NULL,1
+2/19/20 4:00,Nursing,NULL,2
+2/19/20 4:00,PPE,NULL,3
+2/19/20 4:00,DMD 2021,NULL,1
+2/19/20 4:00,Wharton 20222,NULL,1
+2/19/20 4:00,Misc,NULL,5
+2/19/20 4:00,Urban Studies,NULL,1
+2/19/20 4:00,Misc.1,NULL,1
+2/19/20 4:00,2022,NULL,1
+2/19/20 4:00,OIDD,NULL,2
+2/19/20 4:00,Philosophy,NULL,1
+2/19/20 5:00,Systems Engineering,NULL,2
+2/19/20 5:00,Statisticsistics,NULL,1
+2/19/20 5:00,Statistics,NULL,5
+2/19/20 5:00,DMD,NULL,7
+2/19/20 5:00,ECON,NULL,1
+2/19/20 5:00,Mathematical Economics,NULL,1
+2/19/20 5:00,Political Science,HUM,4
+2/19/20 5:00,Commications,NULL,1
+2/19/20 5:00,Nutrition,NULL,2
+2/19/20 5:00,Biology,NULL,3
+2/19/20 5:00,Finance,NULL,8
+2/19/20 5:00,Mechanical Engineering,NULL,1
+2/19/20 5:00,Fine Arts,NULL,1
+2/19/20 5:00,Marketing,NULL,2
+2/19/20 5:00,Econ,NULL,1
+2/19/20 5:00,Computer Science,STEM,28
+2/19/20 5:00,SSE 2020,NULL,1
+2/19/20 5:00,Finance 2021,NULL,1
+2/19/20 5:00,International Studies and Business,NULL,1
+2/19/20 5:00,Katie Busch,NULL,1
+2/19/20 5:00,biology,NULL,1
+2/19/20 5:00,PPE & GSWS,NULL,1
+2/19/20 5:00,Economics,NULL,1
+2/19/20 5:00,BBB,NULL,7
+2/19/20 5:00,Finance and Computer Science,NULL,1
+2/19/20 5:00,Business Analytics,NULL,5
+2/19/20 5:00,Communications,NULL,1
+2/19/20 5:00,Cognitive Science,NULL,2
+2/19/20 5:00,English,NULL,1
+2/19/20 5:00,Bioengineering,NULL,4
+2/19/20 5:00,Chemistry,NULL,1
+2/19/20 5:00,Chemical and Bioengineering,NULL,1
+2/19/20 5:00,History,NULL,1
+2/19/20 5:00,Nursing,NULL,2
+2/19/20 5:00,PPE,NULL,3
+2/19/20 5:00,DMD 2021,NULL,1
+2/19/20 5:00,Wharton 20222,NULL,1
+2/19/20 5:00,Misc,NULL,5
+2/19/20 5:00,Urban Studies,NULL,1
+2/19/20 5:00,Misc.1,NULL,1
+2/19/20 5:00,2022,NULL,1
+2/19/20 5:00,OIDD,NULL,2
+2/19/20 5:00,Philosophy,NULL,1
+2/19/20 6:00,Systems Engineering,NULL,2
+2/19/20 6:00,Statisticsistics,NULL,1
+2/19/20 6:00,Statistics,NULL,5
+2/19/20 6:00,DMD,NULL,7
+2/19/20 6:00,ECON,NULL,1
+2/19/20 6:00,Mathematical Economics,NULL,1
+2/19/20 6:00,Political Science,HUM,4
+2/19/20 6:00,Commications,NULL,1
+2/19/20 6:00,Nutrition,NULL,2
+2/19/20 6:00,Biology,NULL,3
+2/19/20 6:00,Finance,NULL,8
+2/19/20 6:00,Mechanical Engineering,NULL,1
+2/19/20 6:00,Fine Arts,NULL,1
+2/19/20 6:00,Marketing,NULL,2
+2/19/20 6:00,Econ,NULL,1
+2/19/20 6:00,Computer Science,STEM,28
+2/19/20 6:00,SSE 2020,NULL,1
+2/19/20 6:00,Finance 2021,NULL,1
+2/19/20 6:00,International Studies and Business,NULL,1
+2/19/20 6:00,Katie Busch,NULL,1
+2/19/20 6:00,biology,NULL,1
+2/19/20 6:00,PPE & GSWS,NULL,1
+2/19/20 6:00,Economics,NULL,1
+2/19/20 6:00,BBB,NULL,7
+2/19/20 6:00,Finance and Computer Science,NULL,1
+2/19/20 6:00,Business Analytics,NULL,5
+2/19/20 6:00,Communications,NULL,1
+2/19/20 6:00,Cognitive Science,NULL,2
+2/19/20 6:00,English,NULL,1
+2/19/20 6:00,Bioengineering,NULL,4
+2/19/20 6:00,Chemistry,NULL,1
+2/19/20 6:00,Chemical and Bioengineering,NULL,1
+2/19/20 6:00,History,NULL,1
+2/19/20 6:00,Nursing,NULL,2
+2/19/20 6:00,PPE,NULL,3
+2/19/20 6:00,DMD 2021,NULL,1
+2/19/20 6:00,Wharton 20222,NULL,1
+2/19/20 6:00,Misc,NULL,5
+2/19/20 6:00,Urban Studies,NULL,1
+2/19/20 6:00,Misc.1,NULL,1
+2/19/20 6:00,2022,NULL,1
+2/19/20 6:00,OIDD,NULL,2
+2/19/20 6:00,Philosophy,NULL,1
+2/19/20 7:00,Systems Engineering,NULL,2
+2/19/20 7:00,Statisticsistics,NULL,1
+2/19/20 7:00,Statistics,NULL,5
+2/19/20 7:00,DMD,NULL,6
+2/19/20 7:00,ECON,NULL,1
+2/19/20 7:00,Mathematical Economics,NULL,1
+2/19/20 7:00,Political Science,HUM,3
+2/19/20 7:00,Commications,NULL,1
+2/19/20 7:00,Nutrition,NULL,2
+2/19/20 7:00,Biology,NULL,3
+2/19/20 7:00,Finance,NULL,7
+2/19/20 7:00,Mechanical Engineering,NULL,1
+2/19/20 7:00,Fine Arts,NULL,1
+2/19/20 7:00,Marketing,NULL,2
+2/19/20 7:00,Econ,NULL,1
+2/19/20 7:00,Computer Science,STEM,28
+2/19/20 7:00,SSE 2020,NULL,1
+2/19/20 7:00,Finance 2021,NULL,1
+2/19/20 7:00,International Studies and Business,NULL,1
+2/19/20 7:00,Katie Busch,NULL,1
+2/19/20 7:00,biology,NULL,1
+2/19/20 7:00,PPE & GSWS,NULL,1
+2/19/20 7:00,BBB,NULL,7
+2/19/20 7:00,Finance and Computer Science,NULL,1
+2/19/20 7:00,Business Analytics,NULL,5
+2/19/20 7:00,Communications,NULL,1
+2/19/20 7:00,Cognitive Science,NULL,2
+2/19/20 7:00,English,NULL,1
+2/19/20 7:00,Bioengineering,NULL,4
+2/19/20 7:00,Chemistry,NULL,1
+2/19/20 7:00,Chemical and Bioengineering,NULL,1
+2/19/20 7:00,History,NULL,1
+2/19/20 7:00,Nursing,NULL,2
+2/19/20 7:00,PPE,NULL,3
+2/19/20 7:00,DMD 2021,NULL,1
+2/19/20 7:00,Wharton 20222,NULL,1
+2/19/20 7:00,Misc,NULL,4
+2/19/20 7:00,Urban Studies,NULL,1
+2/19/20 7:00,Misc.1,NULL,1
+2/19/20 7:00,2022,NULL,1
+2/19/20 7:00,OIDD,NULL,2
+2/19/20 7:00,Philosophy,NULL,1
+2/19/20 8:00,Systems Engineering,NULL,2
+2/19/20 8:00,Statisticsistics,NULL,1
+2/19/20 8:00,Statistics,NULL,5
+2/19/20 8:00,DMD,NULL,6
+2/19/20 8:00,ECON,NULL,1
+2/19/20 8:00,Political Science,HUM,2
+2/19/20 8:00,Philosophy,NULL,1
+2/19/20 8:00,Biology,NULL,2
+2/19/20 8:00,Finance,NULL,5
+2/19/20 8:00,Mechanical Engineering,NULL,1
+2/19/20 8:00,Fine Arts,NULL,1
+2/19/20 8:00,Marketing,NULL,2
+2/19/20 8:00,Econ,NULL,1
+2/19/20 8:00,Computer Science,STEM,26
+2/19/20 8:00,SSE 2020,NULL,1
+2/19/20 8:00,Finance 2021,NULL,1
+2/19/20 8:00,International Studies and Business,NULL,1
+2/19/20 8:00,biology,NULL,1
+2/19/20 8:00,PPE & GSWS,NULL,1
+2/19/20 8:00,BBB,NULL,4
+2/19/20 8:00,Business Analytics,NULL,5
+2/19/20 8:00,Communications,NULL,1
+2/19/20 8:00,Cognitive Science,NULL,2
+2/19/20 8:00,English,NULL,1
+2/19/20 8:00,Bioengineering,NULL,2
+2/19/20 8:00,Chemistry,NULL,1
+2/19/20 8:00,Chemical and Bioengineering,NULL,1
+2/19/20 8:00,PPE,NULL,3
+2/19/20 8:00,DMD 2021,NULL,1
+2/19/20 8:00,Wharton 20222,NULL,1
+2/19/20 8:00,Misc,NULL,4
+2/19/20 8:00,Urban Studies,NULL,1
+2/19/20 8:00,Misc.1,NULL,1
+2/19/20 8:00,2022,NULL,1
+2/19/20 8:00,OIDD,NULL,2
+2/19/20 9:00,Systems Engineering,NULL,2
+2/19/20 9:00,Statisticsistics,NULL,1
+2/19/20 9:00,Statistics,NULL,3
+2/19/20 9:00,DMD,NULL,5
+2/19/20 9:00,ECON,NULL,1
+2/19/20 9:00,Political Science,HUM,1
+2/19/20 9:00,Philosophy,NULL,1
+2/19/20 9:00,Finance,NULL,3
+2/19/20 9:00,PPE,NULL,3
+2/19/20 9:00,Marketing,NULL,2
+2/19/20 9:00,Econ,NULL,1
+2/19/20 9:00,Computer Science,STEM,22
+2/19/20 9:00,SSE 2020,NULL,1
+2/19/20 9:00,Finance 2021,NULL,1
+2/19/20 9:00,DMD 2021,NULL,1
+2/19/20 9:00,biology,NULL,1
+2/19/20 9:00,PPE & GSWS,NULL,1
+2/19/20 9:00,BBB,NULL,1
+2/19/20 9:00,Business Analytics,NULL,3
+2/19/20 9:00,Communications,NULL,1
+2/19/20 9:00,Cognitive Science,NULL,1
+2/19/20 9:00,Bioengineering,NULL,1
+2/19/20 9:00,Chemical and Bioengineering,NULL,1
+2/19/20 9:00,International Studies and Business,NULL,1
+2/19/20 9:00,Misc,NULL,1
+2/19/20 9:00,Misc.1,NULL,1
+2/19/20 9:00,OIDD,NULL,2
+2/19/20 10:00,Systems Engineering,NULL,1
+2/19/20 10:00,Statisticsistics,NULL,1
+2/19/20 10:00,DMD,NULL,5
+2/19/20 10:00,Finance,NULL,2
+2/19/20 10:00,PPE,NULL,2
+2/19/20 10:00,Marketing,NULL,2
+2/19/20 10:00,Philosophy,NULL,1
+2/19/20 10:00,Misc,NULL,1
+2/19/20 10:00,biology,NULL,1
+2/19/20 10:00,Business Analytics,NULL,2
+2/19/20 10:00,Computer Science,STEM,12
+2/19/20 10:00,Political Science,HUM,1
+2/19/20 10:00,SSE 2020,NULL,1
+2/19/20 10:00,Bioengineering,NULL,1
+2/19/20 10:00,International Studies and Business,NULL,1
+2/19/20 11:00,DMD,NULL,2
+2/19/20 11:00,Finance,NULL,2
+2/19/20 11:00,Marketing,NULL,1
+2/19/20 11:00,Computer Science,STEM,5
+2/19/20 11:00,SSE 2020,NULL,1
+2/19/20 11:00,Math,NULL,1
+2/19/20 12:00,Marketing,NULL,1
+2/19/20 12:00,DMD,NULL,1
+2/19/20 12:00,Finance,NULL,1
+2/19/20 12:00,Math,NULL,1
+2/19/20 12:00,Computer Science,STEM,4
+2/19/20 13:00,Marketing,NULL,1
+2/19/20 13:00,Finance,NULL,1
+2/19/20 13:00,Math,NULL,1
+2/19/20 13:00,Computer Science,STEM,3
+2/19/20 14:00,Finance,NULL,1
+2/19/20 14:00,Math,NULL,1
+2/19/20 14:00,Computer Science,STEM,2
+2/19/20 15:00,Computer Science,STEM,1
+2/19/20 16:00,Computer Science,STEM,1
+2/19/20 17:00,Computer Science,STEM,1
+2/19/20 18:00,Computer Science,STEM,1
+2/19/20 19:00,Computer Science,STEM,1
+2/19/20 20:00,Computer Science,STEM,1
+2/19/20 22:00,Finance,NULL,1
+2/19/20 22:00,Economics,NULL,1
+2/19/20 22:00,Nursing,NULL,1
+2/19/20 22:00,Finance and Computer Science,NULL,1
+2/19/20 22:00,BBB,NULL,2
+2/19/20 23:00,Nutrition,NULL,1
+2/19/20 23:00,Biology,NULL,1
+2/19/20 23:00,DMD,NULL,1
+2/19/20 23:00,Finance,NULL,1
+2/19/20 23:00,Economics,NULL,1
+2/19/20 23:00,Misc,NULL,1
+2/19/20 23:00,BBB,NULL,2
+2/19/20 23:00,Finance and Computer Science,NULL,1
+2/19/20 23:00,Business Analytics,NULL,1
+2/19/20 23:00,Nursing,NULL,1
+2/20/20 0:00,Systems Engineering,NULL,1
+2/20/20 0:00,Statistics,NULL,2
+2/20/20 0:00,DMD,NULL,2
+2/20/20 0:00,Political Science,HUM,2
+2/20/20 0:00,Nutrition,NULL,1
+2/20/20 0:00,Biology,NULL,2
+2/20/20 0:00,Finance,NULL,3
+2/20/20 0:00,Econ,NULL,1
+2/20/20 0:00,Computer Science,STEM,3
+2/20/20 0:00,DMD 2021,NULL,1
+2/20/20 0:00,Katie Busch,NULL,1
+2/20/20 0:00,PPE & GSWS,NULL,1
+2/20/20 0:00,Economics,NULL,1
+2/20/20 0:00,BBB,NULL,3
+2/20/20 0:00,Finance and Computer Science,NULL,1
+2/20/20 0:00,Business Analytics,NULL,2
+2/20/20 0:00,Communications,NULL,1
+2/20/20 0:00,English,NULL,1
+2/20/20 0:00,Chemical and Bioengineering,NULL,1
+2/20/20 0:00,Nursing,NULL,2
+2/20/20 0:00,Misc,NULL,2
+2/20/20 0:00,Urban Studies,NULL,1
+2/20/20 1:00,Systems Engineering,NULL,1
+2/20/20 1:00,Statistics,NULL,5
+2/20/20 1:00,DMD,NULL,2
+2/20/20 1:00,ECON,NULL,1
+2/20/20 1:00,Mathematical Economics,NULL,1
+2/20/20 1:00,Political Science,HUM,3
+2/20/20 1:00,Nutrition,NULL,2
+2/20/20 1:00,Biology,NULL,2
+2/20/20 1:00,Finance,NULL,5
+2/20/20 1:00,Econ,NULL,1
+2/20/20 1:00,Computer Science,STEM,12
+2/20/20 1:00,SSE 2020,NULL,1
+2/20/20 1:00,International Studies and Business,NULL,1
+2/20/20 1:00,Katie Busch,NULL,1
+2/20/20 1:00,biology,NULL,1
+2/20/20 1:00,PPE & GSWS,NULL,1
+2/20/20 1:00,Economics,NULL,1
+2/20/20 1:00,BBB,NULL,6
+2/20/20 1:00,Finance and Computer Science,NULL,1
+2/20/20 1:00,Business Analytics,NULL,4
+2/20/20 1:00,Communications,NULL,1
+2/20/20 1:00,Cognitive Science,NULL,1
+2/20/20 1:00,English,NULL,1
+2/20/20 1:00,Bioengineering,NULL,3
+2/20/20 1:00,Chemistry,NULL,1
+2/20/20 1:00,Chemical and Bioengineering,NULL,1
+2/20/20 1:00,History,NULL,1
+2/20/20 1:00,Nursing,NULL,1
+2/20/20 1:00,DMD 2021,NULL,1
+2/20/20 1:00,Misc,NULL,4
+2/20/20 1:00,Urban Studies,NULL,1
+2/20/20 1:00,OIDD,NULL,2
+2/20/20 2:00,Systems Engineering,NULL,1
+2/20/20 2:00,Statistics,NULL,5
+2/20/20 2:00,DMD,NULL,4
+2/20/20 2:00,ECON,NULL,1
+2/20/20 2:00,Mathematical Economics,NULL,1
+2/20/20 2:00,Political Science,HUM,4
+2/20/20 2:00,Commications,NULL,1
+2/20/20 2:00,Nutrition,NULL,2
+2/20/20 2:00,Biology,NULL,3
+2/20/20 2:00,Finance,NULL,6
+2/20/20 2:00,PPE,NULL,1
+2/20/20 2:00,Fine Arts,NULL,1
+2/20/20 2:00,Marketing,NULL,1
+2/20/20 2:00,Econ,NULL,1
+2/20/20 2:00,Computer Science,STEM,18
+2/20/20 2:00,SSE 2020,NULL,1
+2/20/20 2:00,International Studies and Business,NULL,1
+2/20/20 2:00,Katie Busch,NULL,1
+2/20/20 2:00,biology,NULL,1
+2/20/20 2:00,PPE & GSWS,NULL,1
+2/20/20 2:00,Economics,NULL,1
+2/20/20 2:00,BBB,NULL,7
+2/20/20 2:00,Finance and Computer Science,NULL,1
+2/20/20 2:00,Business Analytics,NULL,5
+2/20/20 2:00,Communications,NULL,1
+2/20/20 2:00,Cognitive Science,NULL,2
+2/20/20 2:00,English,NULL,1
+2/20/20 2:00,Bioengineering,NULL,4
+2/20/20 2:00,Chemistry,NULL,1
+2/20/20 2:00,Chemical and Bioengineering,NULL,1
+2/20/20 2:00,History,NULL,1
+2/20/20 2:00,Nursing,NULL,2
+2/20/20 2:00,DMD 2021,NULL,1
+2/20/20 2:00,Misc,NULL,4
+2/20/20 2:00,Urban Studies,NULL,1
+2/20/20 2:00,Misc.1,NULL,1
+2/20/20 2:00,OIDD,NULL,2
+2/20/20 2:00,Philosophy,NULL,1
+2/20/20 3:00,Systems Engineering,NULL,2
+2/20/20 3:00,Statisticsistics,NULL,1
+2/20/20 3:00,Statistics,NULL,5
+2/20/20 3:00,DMD,NULL,7
+2/20/20 3:00,ECON,NULL,1
+2/20/20 3:00,Mathematical Economics,NULL,1
+2/20/20 3:00,Political Science,HUM,4
+2/20/20 3:00,Commications,NULL,1
+2/20/20 3:00,Nutrition,NULL,2
+2/20/20 3:00,Biology,NULL,3
+2/20/20 3:00,Finance,NULL,8
+2/20/20 3:00,Mechanical Engineering,NULL,1
+2/20/20 3:00,Fine Arts,NULL,1
+2/20/20 3:00,Marketing,NULL,1
+2/20/20 3:00,Econ,NULL,1
+2/20/20 3:00,Computer Science,STEM,23
+2/20/20 3:00,SSE 2020,NULL,1
+2/20/20 3:00,Finance 2021,NULL,1
+2/20/20 3:00,International Studies and Business,NULL,1
+2/20/20 3:00,Katie Busch,NULL,1
+2/20/20 3:00,biology,NULL,1
+2/20/20 3:00,PPE & GSWS,NULL,1
+2/20/20 3:00,Economics,NULL,1
+2/20/20 3:00,BBB,NULL,7
+2/20/20 3:00,Finance and Computer Science,NULL,1
+2/20/20 3:00,Business Analytics,NULL,5
+2/20/20 3:00,Communications,NULL,1
+2/20/20 3:00,Cognitive Science,NULL,2
+2/20/20 3:00,English,NULL,1
+2/20/20 3:00,Bioengineering,NULL,4
+2/20/20 3:00,Chemistry,NULL,1
+2/20/20 3:00,Chemical and Bioengineering,NULL,1
+2/20/20 3:00,History,NULL,1
+2/20/20 3:00,Nursing,NULL,2
+2/20/20 3:00,PPE,NULL,3
+2/20/20 3:00,DMD 2021,NULL,1
+2/20/20 3:00,Wharton 20222,NULL,1
+2/20/20 3:00,Misc,NULL,4
+2/20/20 3:00,Urban Studies,NULL,1
+2/20/20 3:00,Misc.1,NULL,1
+2/20/20 3:00,2022,NULL,1
+2/20/20 3:00,OIDD,NULL,2
+2/20/20 3:00,Philosophy,NULL,1
+2/20/20 4:00,Systems Engineering,NULL,2
+2/20/20 4:00,Statisticsistics,NULL,1
+2/20/20 4:00,Statistics,NULL,5
+2/20/20 4:00,DMD,NULL,7
+2/20/20 4:00,ECON,NULL,1
+2/20/20 4:00,Mathematical Economics,NULL,1
+2/20/20 4:00,Political Science,HUM,4
+2/20/20 4:00,Commications,NULL,1
+2/20/20 4:00,Nutrition,NULL,2
+2/20/20 4:00,Biology,NULL,3
+2/20/20 4:00,Finance,NULL,8
+2/20/20 4:00,Mechanical Engineering,NULL,1
+2/20/20 4:00,Fine Arts,NULL,1
+2/20/20 4:00,Marketing,NULL,2
+2/20/20 4:00,Econ,NULL,1
+2/20/20 4:00,Computer Science,STEM,28
+2/20/20 4:00,SSE 2020,NULL,1
+2/20/20 4:00,Finance 2021,NULL,1
+2/20/20 4:00,International Studies and Business,NULL,1
+2/20/20 4:00,Katie Busch,NULL,1
+2/20/20 4:00,biology,NULL,1
+2/20/20 4:00,PPE & GSWS,NULL,1
+2/20/20 4:00,Economics,NULL,1
+2/20/20 4:00,BBB,NULL,7
+2/20/20 4:00,Finance and Computer Science,NULL,1
+2/20/20 4:00,Business Analytics,NULL,5
+2/20/20 4:00,Communications,NULL,1
+2/20/20 4:00,Cognitive Science,NULL,2
+2/20/20 4:00,English,NULL,1
+2/20/20 4:00,Bioengineering,NULL,4
+2/20/20 4:00,Chemistry,NULL,1
+2/20/20 4:00,Chemical and Bioengineering,NULL,1
+2/20/20 4:00,History,NULL,1
+2/20/20 4:00,Nursing,NULL,2
+2/20/20 4:00,PPE,NULL,3
+2/20/20 4:00,DMD 2021,NULL,1
+2/20/20 4:00,Wharton 20222,NULL,1
+2/20/20 4:00,Misc,NULL,5
+2/20/20 4:00,Urban Studies,NULL,1
+2/20/20 4:00,Misc.1,NULL,1
+2/20/20 4:00,2022,NULL,1
+2/20/20 4:00,OIDD,NULL,2
+2/20/20 4:00,Philosophy,NULL,1
+2/20/20 5:00,Systems Engineering,NULL,2
+2/20/20 5:00,Statisticsistics,NULL,1
+2/20/20 5:00,Statistics,NULL,5
+2/20/20 5:00,DMD,NULL,7
+2/20/20 5:00,ECON,NULL,1
+2/20/20 5:00,Mathematical Economics,NULL,1
+2/20/20 5:00,Political Science,HUM,4
+2/20/20 5:00,Commications,NULL,1
+2/20/20 5:00,Nutrition,NULL,2
+2/20/20 5:00,Biology,NULL,3
+2/20/20 5:00,Finance,NULL,8
+2/20/20 5:00,Mechanical Engineering,NULL,1
+2/20/20 5:00,Fine Arts,NULL,1
+2/20/20 5:00,Marketing,NULL,2
+2/20/20 5:00,Econ,NULL,1
+2/20/20 5:00,Computer Science,STEM,28
+2/20/20 5:00,SSE 2020,NULL,1
+2/20/20 5:00,Finance 2021,NULL,1
+2/20/20 5:00,International Studies and Business,NULL,1
+2/20/20 5:00,Katie Busch,NULL,1
+2/20/20 5:00,biology,NULL,1
+2/20/20 5:00,PPE & GSWS,NULL,1
+2/20/20 5:00,Economics,NULL,1
+2/20/20 5:00,BBB,NULL,7
+2/20/20 5:00,Finance and Computer Science,NULL,1
+2/20/20 5:00,Business Analytics,NULL,5
+2/20/20 5:00,Communications,NULL,1
+2/20/20 5:00,Cognitive Science,NULL,2
+2/20/20 5:00,English,NULL,1
+2/20/20 5:00,Bioengineering,NULL,4
+2/20/20 5:00,Chemistry,NULL,1
+2/20/20 5:00,Chemical and Bioengineering,NULL,1
+2/20/20 5:00,History,NULL,1
+2/20/20 5:00,Nursing,NULL,2
+2/20/20 5:00,PPE,NULL,3
+2/20/20 5:00,DMD 2021,NULL,1
+2/20/20 5:00,Wharton 20222,NULL,1
+2/20/20 5:00,Misc,NULL,5
+2/20/20 5:00,Urban Studies,NULL,1
+2/20/20 5:00,Misc.1,NULL,1
+2/20/20 5:00,2022,NULL,1
+2/20/20 5:00,OIDD,NULL,2
+2/20/20 5:00,Philosophy,NULL,1
+2/20/20 6:00,Systems Engineering,NULL,2
+2/20/20 6:00,Statisticsistics,NULL,1
+2/20/20 6:00,Statistics,NULL,5
+2/20/20 6:00,DMD,NULL,7
+2/20/20 6:00,ECON,NULL,1
+2/20/20 6:00,Mathematical Economics,NULL,1
+2/20/20 6:00,Political Science,HUM,4
+2/20/20 6:00,Commications,NULL,1
+2/20/20 6:00,Math,NULL,1
+2/20/20 6:00,Nutrition,NULL,2
+2/20/20 6:00,Biology,NULL,3
+2/20/20 6:00,Finance,NULL,9
+2/20/20 6:00,Mechanical Engineering,NULL,1
+2/20/20 6:00,Fine Arts,NULL,1
+2/20/20 6:00,Marketing,NULL,2
+2/20/20 6:00,Econ,NULL,1
+2/20/20 6:00,Computer Science,STEM,29
+2/20/20 6:00,SSE 2020,NULL,1
+2/20/20 6:00,Finance 2021,NULL,1
+2/20/20 6:00,International Studies and Business,NULL,1
+2/20/20 6:00,Katie Busch,NULL,1
+2/20/20 6:00,biology,NULL,1
+2/20/20 6:00,PPE & GSWS,NULL,1
+2/20/20 6:00,Economics,NULL,1
+2/20/20 6:00,BBB,NULL,7
+2/20/20 6:00,Finance and Computer Science,NULL,1
+2/20/20 6:00,Business Analytics,NULL,5
+2/20/20 6:00,Communications,NULL,1
+2/20/20 6:00,Cognitive Science,NULL,2
+2/20/20 6:00,English,NULL,1
+2/20/20 6:00,Bioengineering,NULL,4
+2/20/20 6:00,Chemistry,NULL,1
+2/20/20 6:00,Chemical and Bioengineering,NULL,1
+2/20/20 6:00,History,NULL,1
+2/20/20 6:00,Nursing,NULL,1
+2/20/20 6:00,PPE,NULL,3
+2/20/20 6:00,DMD 2021,NULL,1
+2/20/20 6:00,Wharton 20222,NULL,1
+2/20/20 6:00,Misc,NULL,5
+2/20/20 6:00,Urban Studies,NULL,1
+2/20/20 6:00,Misc.1,NULL,1
+2/20/20 6:00,2022,NULL,1
+2/20/20 6:00,OIDD,NULL,2
+2/20/20 6:00,Philosophy,NULL,1
+2/20/20 7:00,Systems Engineering,NULL,2
+2/20/20 7:00,Statisticsistics,NULL,1
+2/20/20 7:00,Statistics,NULL,5
+2/20/20 7:00,DMD,NULL,6
+2/20/20 7:00,ECON,NULL,1
+2/20/20 7:00,Mathematical Economics,NULL,1
+2/20/20 7:00,Political Science,HUM,4
+2/20/20 7:00,Commications,NULL,1
+2/20/20 7:00,Nutrition,NULL,1
+2/20/20 7:00,Math,NULL,1
+2/20/20 7:00,Philosophy,NULL,1
+2/20/20 7:00,Biology,NULL,3
+2/20/20 7:00,Finance,NULL,8
+2/20/20 7:00,Mechanical Engineering,NULL,1
+2/20/20 7:00,Fine Arts,NULL,1
+2/20/20 7:00,Marketing,NULL,2
+2/20/20 7:00,Econ,NULL,1
+2/20/20 7:00,Computer Science,STEM,29
+2/20/20 7:00,SSE 2020,NULL,1
+2/20/20 7:00,Finance 2021,NULL,1
+2/20/20 7:00,International Studies and Business,NULL,1
+2/20/20 7:00,Katie Busch,NULL,1
+2/20/20 7:00,biology,NULL,1
+2/20/20 7:00,PPE & GSWS,NULL,1
+2/20/20 7:00,BBB,NULL,7
+2/20/20 7:00,Finance and Computer Science,NULL,1
+2/20/20 7:00,Business Analytics,NULL,5
+2/20/20 7:00,Communications,NULL,1
+2/20/20 7:00,Cognitive Science,NULL,2
+2/20/20 7:00,English,NULL,1
+2/20/20 7:00,Bioengineering,NULL,4
+2/20/20 7:00,Chemistry,NULL,1
+2/20/20 7:00,Chemical and Bioengineering,NULL,1
+2/20/20 7:00,History,NULL,1
+2/20/20 7:00,PPE,NULL,3
+2/20/20 7:00,DMD 2021,NULL,1
+2/20/20 7:00,Wharton 20222,NULL,1
+2/20/20 7:00,Misc,NULL,4
+2/20/20 7:00,Urban Studies,NULL,1
+2/20/20 7:00,Misc.1,NULL,1
+2/20/20 7:00,2022,NULL,1
+2/20/20 7:00,OIDD,NULL,2
+2/20/20 8:00,Systems Engineering,NULL,2
+2/20/20 8:00,Statisticsistics,NULL,1
+2/20/20 8:00,Statistics,NULL,3
+2/20/20 8:00,DMD,NULL,6
+2/20/20 8:00,ECON,NULL,1
+2/20/20 8:00,Political Science,HUM,4
+2/20/20 8:00,Math,NULL,1
+2/20/20 8:00,Philosophy,NULL,1
+2/20/20 8:00,Biology,NULL,2
+2/20/20 8:00,Finance,NULL,5
+2/20/20 8:00,Mechanical Engineering,NULL,1
+2/20/20 8:00,Fine Arts,NULL,1
+2/20/20 8:00,Marketing,NULL,2
+2/20/20 8:00,Econ,NULL,1
+2/20/20 8:00,Computer Science,STEM,25
+2/20/20 8:00,SSE 2020,NULL,1
+2/20/20 8:00,Finance 2021,NULL,1
+2/20/20 8:00,International Studies and Business,NULL,1
+2/20/20 8:00,biology,NULL,1
+2/20/20 8:00,PPE & GSWS,NULL,1
+2/20/20 8:00,BBB,NULL,5
+2/20/20 8:00,Business Analytics,NULL,4
+2/20/20 8:00,Communications,NULL,1
+2/20/20 8:00,Cognitive Science,NULL,2
+2/20/20 8:00,English,NULL,1
+2/20/20 8:00,Bioengineering,NULL,2
+2/20/20 8:00,Chemistry,NULL,1
+2/20/20 8:00,History,NULL,1
+2/20/20 8:00,PPE,NULL,3
+2/20/20 8:00,DMD 2021,NULL,1
+2/20/20 8:00,Wharton 20222,NULL,1
+2/20/20 8:00,Misc,NULL,3
+2/20/20 8:00,Urban Studies,NULL,1
+2/20/20 8:00,Misc.1,NULL,1
+2/20/20 8:00,2022,NULL,1
+2/20/20 8:00,OIDD,NULL,2
+2/20/20 9:00,Systems Engineering,NULL,1
+2/20/20 9:00,Statisticsistics,NULL,1
+2/20/20 9:00,Statistics,NULL,2
+2/20/20 9:00,DMD,NULL,5
+2/20/20 9:00,ECON,NULL,1
+2/20/20 9:00,Math,NULL,1
+2/20/20 9:00,Biology,NULL,2
+2/20/20 9:00,Finance,NULL,3
+2/20/20 9:00,Mechanical Engineering,NULL,1
+2/20/20 9:00,Marketing,NULL,1
+2/20/20 9:00,Philosophy,NULL,1
+2/20/20 9:00,Computer Science,STEM,20
+2/20/20 9:00,SSE 2020,NULL,1
+2/20/20 9:00,Finance 2021,NULL,1
+2/20/20 9:00,biology,NULL,1
+2/20/20 9:00,BBB,NULL,2
+2/20/20 9:00,Business Analytics,NULL,2
+2/20/20 9:00,Cognitive Science,NULL,1
+2/20/20 9:00,Bioengineering,NULL,2
+2/20/20 9:00,Chemistry,NULL,1
+2/20/20 9:00,PPE,NULL,3
+2/20/20 9:00,Wharton 20222,NULL,1
+2/20/20 9:00,Misc,NULL,2
+2/20/20 9:00,Misc.1,NULL,1
+2/20/20 9:00,2022,NULL,1
+2/20/20 9:00,OIDD,NULL,2
+2/20/20 10:00,Statisticsistics,NULL,1
+2/20/20 10:00,Statistics,NULL,1
+2/20/20 10:00,DMD,NULL,3
+2/20/20 10:00,Finance,NULL,1
+2/20/20 10:00,PPE,NULL,3
+2/20/20 10:00,Marketing,NULL,1
+2/20/20 10:00,Philosophy,NULL,1
+2/20/20 10:00,Misc,NULL,1
+2/20/20 10:00,Biology,NULL,1
+2/20/20 10:00,Business Analytics,NULL,1
+2/20/20 10:00,Computer Science,STEM,10
+2/20/20 10:00,SSE 2020,NULL,1
+2/20/20 10:00,OIDD,NULL,1
+2/20/20 10:00,Bioengineering,NULL,1
+2/20/20 10:00,Finance 2021,NULL,1
+2/20/20 10:00,Math,NULL,1
+2/20/20 11:00,DMD,NULL,1
+2/20/20 11:00,Finance,NULL,1
+2/20/20 11:00,Computer Science,STEM,4
+2/20/20 11:00,Bioengineering,NULL,1
+2/20/20 11:00,Finance 2021,NULL,1
+2/20/20 11:00,Math,NULL,1
+2/20/20 12:00,Finance,NULL,1
+2/20/20 12:00,Math,NULL,1
+2/20/20 12:00,Computer Science,STEM,2
+2/20/20 14:00,Computer Science,STEM,1
+2/20/20 15:00,Computer Science,STEM,1
+2/20/20 16:00,Computer Science,STEM,1
+2/20/20 17:00,Computer Science,STEM,1
+2/20/20 18:00,Computer Science,STEM,1
+2/20/20 19:00,Computer Science,STEM,1
+2/20/20 20:00,Computer Science,STEM,1
+2/20/20 21:00,Computer Science,STEM,1
+2/20/20 22:00,Economics,NULL,1
+2/20/20 22:00,Nursing,NULL,2
+2/20/20 22:00,Finance and Computer Science,NULL,1
+2/20/20 22:00,Finance,NULL,1
+2/20/20 23:00,Nutrition,NULL,1
+2/20/20 23:00,Biology,NULL,1
+2/20/20 23:00,DMD,NULL,1
+2/20/20 23:00,Finance,NULL,1
+2/20/20 23:00,Economics,NULL,1
+2/20/20 23:00,Misc,NULL,1
+2/20/20 23:00,BBB,NULL,1
+2/20/20 23:00,Finance and Computer Science,NULL,1
+2/20/20 23:00,Nursing,NULL,2
+2/21/20 0:00,Nutrition,NULL,1
+2/21/20 0:00,Biology,NULL,2
+2/21/20 0:00,Statistics,NULL,2
+2/21/20 0:00,DMD,NULL,2
+2/21/20 0:00,Nursing,NULL,1
+2/21/20 0:00,PPE & GSWS,NULL,1
+2/21/20 0:00,Econ,NULL,1
+2/21/20 0:00,Economics,NULL,1
+2/21/20 0:00,Misc,NULL,2
+2/21/20 0:00,BBB,NULL,1
+2/21/20 0:00,Finance and Computer Science,NULL,1
+2/21/20 0:00,Business Analytics,NULL,1
+2/21/20 0:00,Political Science,HUM,2
+2/21/20 0:00,Bioengineering,NULL,1
+2/21/20 0:00,Chemical and Bioengineering,NULL,1
+2/21/20 0:00,Katie Busch,NULL,1
+2/21/20 0:00,Finance,NULL,4
+2/21/20 1:00,Statistics,NULL,3
+2/21/20 1:00,DMD,NULL,3
+2/21/20 1:00,ECON,NULL,1
+2/21/20 1:00,Mathematical Economics,NULL,1
+2/21/20 1:00,Political Science,HUM,3
+2/21/20 1:00,Nutrition,NULL,1
+2/21/20 1:00,Philosophy,NULL,1
+2/21/20 1:00,Biology,NULL,2
+2/21/20 1:00,Finance,NULL,6
+2/21/20 1:00,Econ,NULL,1
+2/21/20 1:00,Computer Science,STEM,11
+2/21/20 1:00,SSE 2020,NULL,1
+2/21/20 1:00,DMD 2021,NULL,1
+2/21/20 1:00,Katie Busch,NULL,1
+2/21/20 1:00,PPE & GSWS,NULL,1
+2/21/20 1:00,Economics,NULL,1
+2/21/20 1:00,BBB,NULL,4
+2/21/20 1:00,Finance and Computer Science,NULL,1
+2/21/20 1:00,Business Analytics,NULL,4
+2/21/20 1:00,Communications,NULL,1
+2/21/20 1:00,Cognitive Science,NULL,1
+2/21/20 1:00,English,NULL,1
+2/21/20 1:00,Bioengineering,NULL,3
+2/21/20 1:00,Chemistry,NULL,1
+2/21/20 1:00,Chemical and Bioengineering,NULL,1
+2/21/20 1:00,History,NULL,1
+2/21/20 1:00,International Studies and Business,NULL,1
+2/21/20 1:00,Misc,NULL,3
+2/21/20 1:00,Urban Studies,NULL,1
+2/21/20 2:00,Systems Engineering,NULL,1
+2/21/20 2:00,Statistics,NULL,4
+2/21/20 2:00,DMD,NULL,4
+2/21/20 2:00,ECON,NULL,1
+2/21/20 2:00,Mathematical Economics,NULL,1
+2/21/20 2:00,Political Science,HUM,4
+2/21/20 2:00,Commications,NULL,1
+2/21/20 2:00,Math,NULL,1
+2/21/20 2:00,Nutrition,NULL,2
+2/21/20 2:00,Biology,NULL,3
+2/21/20 2:00,Finance,NULL,8
+2/21/20 2:00,Mechanical Engineering,NULL,1
+2/21/20 2:00,Fine Arts,NULL,1
+2/21/20 2:00,Econ,NULL,1
+2/21/20 2:00,Computer Science,STEM,19
+2/21/20 2:00,SSE 2020,NULL,1
+2/21/20 2:00,International Studies and Business,NULL,1
+2/21/20 2:00,Katie Busch,NULL,1
+2/21/20 2:00,biology,NULL,1
+2/21/20 2:00,PPE & GSWS,NULL,1
+2/21/20 2:00,Economics,NULL,1
+2/21/20 2:00,BBB,NULL,5
+2/21/20 2:00,Finance and Computer Science,NULL,1
+2/21/20 2:00,Business Analytics,NULL,5
+2/21/20 2:00,Communications,NULL,1
+2/21/20 2:00,Cognitive Science,NULL,2
+2/21/20 2:00,English,NULL,1
+2/21/20 2:00,Bioengineering,NULL,3
+2/21/20 2:00,Chemistry,NULL,1
+2/21/20 2:00,Chemical and Bioengineering,NULL,1
+2/21/20 2:00,History,NULL,1
+2/21/20 2:00,Nursing,NULL,2
+2/21/20 2:00,PPE,NULL,1
+2/21/20 2:00,DMD 2021,NULL,1
+2/21/20 2:00,Misc,NULL,3
+2/21/20 2:00,Urban Studies,NULL,1
+2/21/20 2:00,Misc.1,NULL,1
+2/21/20 2:00,2022,NULL,1
+2/21/20 2:00,OIDD,NULL,1
+2/21/20 2:00,Philosophy,NULL,1
+2/21/20 3:00,Systems Engineering,NULL,1
+2/21/20 3:00,Statisticsistics,NULL,1
+2/21/20 3:00,Statistics,NULL,5
+2/21/20 3:00,DMD,NULL,6
+2/21/20 3:00,ECON,NULL,1
+2/21/20 3:00,Mathematical Economics,NULL,1
+2/21/20 3:00,Political Science,HUM,4
+2/21/20 3:00,Commications,NULL,1
+2/21/20 3:00,Math,NULL,1
+2/21/20 3:00,Nutrition,NULL,2
+2/21/20 3:00,Biology,NULL,3
+2/21/20 3:00,Finance,NULL,8
+2/21/20 3:00,Mechanical Engineering,NULL,1
+2/21/20 3:00,Fine Arts,NULL,1
+2/21/20 3:00,Marketing,NULL,1
+2/21/20 3:00,Econ,NULL,1
+2/21/20 3:00,Computer Science,STEM,25
+2/21/20 3:00,Nursing,NULL,2
+2/21/20 3:00,SSE 2020,NULL,1
+2/21/20 3:00,Finance 2021,NULL,1
+2/21/20 3:00,International Studies and Business,NULL,1
+2/21/20 3:00,Katie Busch,NULL,1
+2/21/20 3:00,biology,NULL,1
+2/21/20 3:00,PPE & GSWS,NULL,1
+2/21/20 3:00,Economics,NULL,1
+2/21/20 3:00,BBB,NULL,5
+2/21/20 3:00,Finance and Computer Science,NULL,1
+2/21/20 3:00,Business Analytics,NULL,5
+2/21/20 3:00,Communications,NULL,1
+2/21/20 3:00,Cognitive Science,NULL,2
+2/21/20 3:00,English,NULL,1
+2/21/20 3:00,Bioengineering,NULL,4
+2/21/20 3:00,Chemistry,NULL,1
+2/21/20 3:00,Chemical and Bioengineering,NULL,1
+2/21/20 3:00,History,NULL,1
+2/21/20 3:00,PPE,NULL,3
+2/21/20 3:00,DMD 2021,NULL,1
+2/21/20 3:00,Misc,NULL,4
+2/21/20 3:00,Urban Studies,NULL,1
+2/21/20 3:00,Misc.1,NULL,1
+2/21/20 3:00,2022,NULL,1
+2/21/20 3:00,OIDD,NULL,2
+2/21/20 3:00,Philosophy,NULL,1
+2/21/20 4:00,Systems Engineering,NULL,2
+2/21/20 4:00,Statisticsistics,NULL,1
+2/21/20 4:00,Statistics,NULL,5
+2/21/20 4:00,DMD,NULL,7
+2/21/20 4:00,ECON,NULL,1
+2/21/20 4:00,Mathematical Economics,NULL,1
+2/21/20 4:00,Political Science,HUM,4
+2/21/20 4:00,Commications,NULL,1
+2/21/20 4:00,Math,NULL,1
+2/21/20 4:00,Nutrition,NULL,2
+2/21/20 4:00,Biology,NULL,3
+2/21/20 4:00,Finance,NULL,9
+2/21/20 4:00,Mechanical Engineering,NULL,1
+2/21/20 4:00,Fine Arts,NULL,1
+2/21/20 4:00,Marketing,NULL,1
+2/21/20 4:00,Econ,NULL,1
+2/21/20 4:00,Computer Science,STEM,27
+2/21/20 4:00,Nursing,NULL,2
+2/21/20 4:00,SSE 2020,NULL,1
+2/21/20 4:00,Finance 2021,NULL,1
+2/21/20 4:00,International Studies and Business,NULL,1
+2/21/20 4:00,Katie Busch,NULL,1
+2/21/20 4:00,biology,NULL,1
+2/21/20 4:00,PPE & GSWS,NULL,1
+2/21/20 4:00,Economics,NULL,1
+2/21/20 4:00,BBB,NULL,5
+2/21/20 4:00,Finance and Computer Science,NULL,1
+2/21/20 4:00,Business Analytics,NULL,5
+2/21/20 4:00,Communications,NULL,1
+2/21/20 4:00,Cognitive Science,NULL,2
+2/21/20 4:00,English,NULL,1
+2/21/20 4:00,Bioengineering,NULL,4
+2/21/20 4:00,Chemistry,NULL,1
+2/21/20 4:00,Chemical and Bioengineering,NULL,1
+2/21/20 4:00,History,NULL,1
+2/21/20 4:00,PPE,NULL,3
+2/21/20 4:00,DMD 2021,NULL,1
+2/21/20 4:00,Wharton 20222,NULL,1
+2/21/20 4:00,Misc,NULL,4
+2/21/20 4:00,Urban Studies,NULL,1
+2/21/20 4:00,Misc.1,NULL,1
+2/21/20 4:00,2022,NULL,1
+2/21/20 4:00,OIDD,NULL,2
+2/21/20 4:00,Philosophy,NULL,1
+2/21/20 5:00,Systems Engineering,NULL,2
+2/21/20 5:00,Statisticsistics,NULL,1
+2/21/20 5:00,Statistics,NULL,5
+2/21/20 5:00,DMD,NULL,7
+2/21/20 5:00,ECON,NULL,1
+2/21/20 5:00,Mathematical Economics,NULL,1
+2/21/20 5:00,Political Science,HUM,4
+2/21/20 5:00,Commications,NULL,1
+2/21/20 5:00,Math,NULL,1
+2/21/20 5:00,Nutrition,NULL,2
+2/21/20 5:00,Biology,NULL,3
+2/21/20 5:00,Finance,NULL,9
+2/21/20 5:00,Mechanical Engineering,NULL,1
+2/21/20 5:00,Fine Arts,NULL,1
+2/21/20 5:00,Marketing,NULL,2
+2/21/20 5:00,Econ,NULL,1
+2/21/20 5:00,Computer Science,STEM,29
+2/21/20 5:00,Nursing,NULL,2
+2/21/20 5:00,SSE 2020,NULL,1
+2/21/20 5:00,Finance 2021,NULL,1
+2/21/20 5:00,International Studies and Business,NULL,1
+2/21/20 5:00,Katie Busch,NULL,1
+2/21/20 5:00,biology,NULL,1
+2/21/20 5:00,PPE & GSWS,NULL,1
+2/21/20 5:00,Economics,NULL,1
+2/21/20 5:00,BBB,NULL,5
+2/21/20 5:00,Finance and Computer Science,NULL,1
+2/21/20 5:00,Business Analytics,NULL,5
+2/21/20 5:00,Communications,NULL,1
+2/21/20 5:00,Cognitive Science,NULL,2
+2/21/20 5:00,English,NULL,1
+2/21/20 5:00,Bioengineering,NULL,4
+2/21/20 5:00,Chemistry,NULL,1
+2/21/20 5:00,Chemical and Bioengineering,NULL,1
+2/21/20 5:00,History,NULL,1
+2/21/20 5:00,PPE,NULL,3
+2/21/20 5:00,DMD 2021,NULL,1
+2/21/20 5:00,Wharton 20222,NULL,1
+2/21/20 5:00,Misc,NULL,5
+2/21/20 5:00,Urban Studies,NULL,1
+2/21/20 5:00,Misc.1,NULL,1
+2/21/20 5:00,2022,NULL,1
+2/21/20 5:00,OIDD,NULL,2
+2/21/20 5:00,Philosophy,NULL,1
+2/21/20 6:00,Systems Engineering,NULL,2
+2/21/20 6:00,Statisticsistics,NULL,1
+2/21/20 6:00,Statistics,NULL,5
+2/21/20 6:00,DMD,NULL,7
+2/21/20 6:00,ECON,NULL,1
+2/21/20 6:00,Mathematical Economics,NULL,1
+2/21/20 6:00,Political Science,HUM,4
+2/21/20 6:00,Commications,NULL,1
+2/21/20 6:00,Math,NULL,1
+2/21/20 6:00,Nutrition,NULL,2
+2/21/20 6:00,Biology,NULL,3
+2/21/20 6:00,Finance,NULL,9
+2/21/20 6:00,Mechanical Engineering,NULL,1
+2/21/20 6:00,Fine Arts,NULL,1
+2/21/20 6:00,Marketing,NULL,2
+2/21/20 6:00,Econ,NULL,1
+2/21/20 6:00,Computer Science,STEM,29
+2/21/20 6:00,Nursing,NULL,2
+2/21/20 6:00,SSE 2020,NULL,1
+2/21/20 6:00,Finance 2021,NULL,1
+2/21/20 6:00,International Studies and Business,NULL,1
+2/21/20 6:00,Katie Busch,NULL,1
+2/21/20 6:00,biology,NULL,1
+2/21/20 6:00,PPE & GSWS,NULL,1
+2/21/20 6:00,Economics,NULL,1
+2/21/20 6:00,BBB,NULL,5
+2/21/20 6:00,Finance and Computer Science,NULL,1
+2/21/20 6:00,Business Analytics,NULL,5
+2/21/20 6:00,Communications,NULL,1
+2/21/20 6:00,Cognitive Science,NULL,2
+2/21/20 6:00,English,NULL,1
+2/21/20 6:00,Bioengineering,NULL,4
+2/21/20 6:00,Chemistry,NULL,1
+2/21/20 6:00,Chemical and Bioengineering,NULL,1
+2/21/20 6:00,History,NULL,1
+2/21/20 6:00,PPE,NULL,3
+2/21/20 6:00,DMD 2021,NULL,1
+2/21/20 6:00,Wharton 20222,NULL,1
+2/21/20 6:00,Misc,NULL,5
+2/21/20 6:00,Urban Studies,NULL,1
+2/21/20 6:00,Misc.1,NULL,1
+2/21/20 6:00,2022,NULL,1
+2/21/20 6:00,OIDD,NULL,2
+2/21/20 6:00,Philosophy,NULL,1
+2/21/20 7:00,Systems Engineering,NULL,2
+2/21/20 7:00,Statisticsistics,NULL,1
+2/21/20 7:00,Statistics,NULL,5
+2/21/20 7:00,DMD,NULL,6
+2/21/20 7:00,ECON,NULL,1
+2/21/20 7:00,Mathematical Economics,NULL,1
+2/21/20 7:00,Political Science,HUM,3
+2/21/20 7:00,Commications,NULL,1
+2/21/20 7:00,Math,NULL,1
+2/21/20 7:00,Nutrition,NULL,2
+2/21/20 7:00,Biology,NULL,3
+2/21/20 7:00,Finance,NULL,8
+2/21/20 7:00,Mechanical Engineering,NULL,1
+2/21/20 7:00,Fine Arts,NULL,1
+2/21/20 7:00,Marketing,NULL,2
+2/21/20 7:00,Econ,NULL,1
+2/21/20 7:00,Computer Science,STEM,29
+2/21/20 7:00,Nursing,NULL,2
+2/21/20 7:00,SSE 2020,NULL,1
+2/21/20 7:00,Finance 2021,NULL,1
+2/21/20 7:00,International Studies and Business,NULL,1
+2/21/20 7:00,Katie Busch,NULL,1
+2/21/20 7:00,biology,NULL,1
+2/21/20 7:00,PPE & GSWS,NULL,1
+2/21/20 7:00,BBB,NULL,5
+2/21/20 7:00,Finance and Computer Science,NULL,1
+2/21/20 7:00,Business Analytics,NULL,5
+2/21/20 7:00,Communications,NULL,1
+2/21/20 7:00,Cognitive Science,NULL,2
+2/21/20 7:00,English,NULL,1
+2/21/20 7:00,Bioengineering,NULL,4
+2/21/20 7:00,Chemistry,NULL,1
+2/21/20 7:00,Chemical and Bioengineering,NULL,1
+2/21/20 7:00,History,NULL,1
+2/21/20 7:00,PPE,NULL,3
+2/21/20 7:00,DMD 2021,NULL,1
+2/21/20 7:00,Wharton 20222,NULL,1
+2/21/20 7:00,Misc,NULL,4
+2/21/20 7:00,Urban Studies,NULL,1
+2/21/20 7:00,Misc.1,NULL,1
+2/21/20 7:00,2022,NULL,1
+2/21/20 7:00,OIDD,NULL,2
+2/21/20 7:00,Philosophy,NULL,1
+2/21/20 8:00,Systems Engineering,NULL,2
+2/21/20 8:00,Statisticsistics,NULL,1
+2/21/20 8:00,Statistics,NULL,4
+2/21/20 8:00,DMD,NULL,6
+2/21/20 8:00,ECON,NULL,1
+2/21/20 8:00,Mathematical Economics,NULL,1
+2/21/20 8:00,Political Science,HUM,2
+2/21/20 8:00,Math,NULL,1
+2/21/20 8:00,Philosophy,NULL,1
+2/21/20 8:00,Biology,NULL,2
+2/21/20 8:00,Finance,NULL,6
+2/21/20 8:00,Mechanical Engineering,NULL,1
+2/21/20 8:00,Fine Arts,NULL,1
+2/21/20 8:00,Marketing,NULL,2
+2/21/20 8:00,Econ,NULL,1
+2/21/20 8:00,Computer Science,STEM,26
+2/21/20 8:00,SSE 2020,NULL,1
+2/21/20 8:00,Finance 2021,NULL,1
+2/21/20 8:00,International Studies and Business,NULL,1
+2/21/20 8:00,Katie Busch,NULL,1
+2/21/20 8:00,biology,NULL,1
+2/21/20 8:00,PPE & GSWS,NULL,1
+2/21/20 8:00,BBB,NULL,5
+2/21/20 8:00,Business Analytics,NULL,4
+2/21/20 8:00,Communications,NULL,1
+2/21/20 8:00,Cognitive Science,NULL,2
+2/21/20 8:00,English,NULL,1
+2/21/20 8:00,Bioengineering,NULL,3
+2/21/20 8:00,Chemistry,NULL,1
+2/21/20 8:00,Chemical and Bioengineering,NULL,1
+2/21/20 8:00,Nursing,NULL,1
+2/21/20 8:00,PPE,NULL,3
+2/21/20 8:00,DMD 2021,NULL,1
+2/21/20 8:00,Wharton 20222,NULL,1
+2/21/20 8:00,Misc,NULL,3
+2/21/20 8:00,Urban Studies,NULL,1
+2/21/20 8:00,Misc.1,NULL,1
+2/21/20 8:00,2022,NULL,1
+2/21/20 8:00,OIDD,NULL,2
+2/21/20 9:00,Systems Engineering,NULL,2
+2/21/20 9:00,Statisticsistics,NULL,1
+2/21/20 9:00,Statistics,NULL,4
+2/21/20 9:00,DMD,NULL,5
+2/21/20 9:00,ECON,NULL,1
+2/21/20 9:00,Political Science,HUM,1
+2/21/20 9:00,Math,NULL,1
+2/21/20 9:00,Philosophy,NULL,1
+2/21/20 9:00,Biology,NULL,1
+2/21/20 9:00,Finance,NULL,4
+2/21/20 9:00,Mechanical Engineering,NULL,1
+2/21/20 9:00,Fine Arts,NULL,1
+2/21/20 9:00,Marketing,NULL,2
+2/21/20 9:00,Econ,NULL,1
+2/21/20 9:00,Computer Science,STEM,26
+2/21/20 9:00,SSE 2020,NULL,1
+2/21/20 9:00,Finance 2021,NULL,1
+2/21/20 9:00,DMD 2021,NULL,1
+2/21/20 9:00,Katie Busch,NULL,1
+2/21/20 9:00,biology,NULL,1
+2/21/20 9:00,PPE & GSWS,NULL,1
+2/21/20 9:00,BBB,NULL,2
+2/21/20 9:00,Business Analytics,NULL,2
+2/21/20 9:00,Communications,NULL,1
+2/21/20 9:00,Cognitive Science,NULL,1
+2/21/20 9:00,English,NULL,1
+2/21/20 9:00,Bioengineering,NULL,3
+2/21/20 9:00,Chemistry,NULL,1
+2/21/20 9:00,Nursing,NULL,1
+2/21/20 9:00,PPE,NULL,3
+2/21/20 9:00,Misc,NULL,1
+2/21/20 9:00,Urban Studies,NULL,1
+2/21/20 9:00,Misc.1,NULL,1
+2/21/20 9:00,2022,NULL,1
+2/21/20 9:00,OIDD,NULL,2
+2/21/20 10:00,Systems Engineering,NULL,2
+2/21/20 10:00,Statisticsistics,NULL,1
+2/21/20 10:00,Statistics,NULL,2
+2/21/20 10:00,DMD,NULL,5
+2/21/20 10:00,Finance,NULL,3
+2/21/20 10:00,PPE,NULL,2
+2/21/20 10:00,Fine Arts,NULL,1
+2/21/20 10:00,Marketing,NULL,2
+2/21/20 10:00,Philosophy,NULL,1
+2/21/20 10:00,Misc,NULL,1
+2/21/20 10:00,Biology,NULL,1
+2/21/20 10:00,BBB,NULL,1
+2/21/20 10:00,Business Analytics,NULL,1
+2/21/20 10:00,biology,NULL,1
+2/21/20 10:00,Computer Science,STEM,15
+2/21/20 10:00,Political Science,HUM,1
+2/21/20 10:00,SSE 2020,NULL,1
+2/21/20 10:00,OIDD,NULL,2
+2/21/20 10:00,Bioengineering,NULL,2
+2/21/20 10:00,Finance 2021,NULL,1
+2/21/20 10:00,Math,NULL,1
+2/21/20 11:00,Statistics,NULL,1
+2/21/20 11:00,DMD,NULL,2
+2/21/20 11:00,Finance,NULL,1
+2/21/20 11:00,PPE,NULL,1
+2/21/20 11:00,Fine Arts,NULL,1
+2/21/20 11:00,Marketing,NULL,1
+2/21/20 11:00,Computer Science,STEM,7
+2/21/20 11:00,SSE 2020,NULL,1
+2/21/20 11:00,OIDD,NULL,1
+2/21/20 11:00,Bioengineering,NULL,1
+2/21/20 11:00,Finance 2021,NULL,1
+2/21/20 11:00,Math,NULL,1
+2/21/20 12:00,Marketing,NULL,1
+2/21/20 12:00,Fine Arts,NULL,1
+2/21/20 12:00,Finance,NULL,1
+2/21/20 12:00,Math,NULL,1
+2/21/20 12:00,Computer Science,STEM,4
+2/21/20 13:00,Marketing,NULL,1
+2/21/20 13:00,Computer Science,STEM,2
+2/21/20 14:00,Computer Science,STEM,1
+2/21/20 15:00,Computer Science,STEM,1
+2/21/20 16:00,Computer Science,STEM,1
+2/21/20 17:00,Computer Science,STEM,1
+2/21/20 18:00,Computer Science,STEM,1
+2/21/20 19:00,Computer Science,STEM,1
+2/21/20 20:00,Computer Science,STEM,1
+2/21/20 21:00,Computer Science,STEM,1
+2/21/20 22:00,Economics,NULL,1
+2/21/20 22:00,Finance and Computer Science,NULL,1
+2/21/20 22:00,Nursing,NULL,1
+2/21/20 22:00,Computer Science,STEM,1
+2/21/20 22:00,Finance,NULL,1
+2/21/20 23:00,Nutrition,NULL,1
+2/21/20 23:00,biology,NULL,1
+2/21/20 23:00,DMD,NULL,1
+2/21/20 23:00,Finance,NULL,1
+2/21/20 23:00,Biology,NULL,1
+2/21/20 23:00,Economics,NULL,1
+2/21/20 23:00,BBB,NULL,1
+2/21/20 23:00,Finance and Computer Science,NULL,1
+2/21/20 23:00,Nursing,NULL,1
+2/22/20 0:00,biology,NULL,1
+2/22/20 0:00,Statistics,NULL,2
+2/22/20 0:00,DMD,NULL,2
+2/22/20 0:00,Nursing,NULL,1
+2/22/20 0:00,Mechanical Engineering,NULL,1
+2/22/20 0:00,Finance,NULL,3
+2/22/20 0:00,Economics,NULL,1
+2/22/20 0:00,Misc,NULL,3
+2/22/20 0:00,BBB,NULL,2
+2/22/20 0:00,Finance and Computer Science,NULL,1
+2/22/20 0:00,2022,NULL,1
+2/22/20 0:00,Political Science,HUM,2
+2/22/20 0:00,Chemical and Bioengineering,NULL,1
+2/22/20 0:00,Computer Science,STEM,2
+2/22/20 0:00,History,NULL,1
+2/22/20 1:00,Statistics,NULL,2
+2/22/20 1:00,DMD,NULL,2
+2/22/20 1:00,ECON,NULL,1
+2/22/20 1:00,Political Science,HUM,2
+2/22/20 1:00,Nutrition,NULL,1
+2/22/20 1:00,Biology,NULL,1
+2/22/20 1:00,Finance,NULL,5
+2/22/20 1:00,Mechanical Engineering,NULL,1
+2/22/20 1:00,Computer Science,STEM,8
+2/22/20 1:00,SSE 2020,NULL,1
+2/22/20 1:00,DMD 2021,NULL,1
+2/22/20 1:00,Katie Busch,NULL,1
+2/22/20 1:00,biology,NULL,1
+2/22/20 1:00,PPE & GSWS,NULL,1
+2/22/20 1:00,Economics,NULL,1
+2/22/20 1:00,BBB,NULL,4
+2/22/20 1:00,Finance and Computer Science,NULL,1
+2/22/20 1:00,Business Analytics,NULL,2
+2/22/20 1:00,Cognitive Science,NULL,1
+2/22/20 1:00,English,NULL,1
+2/22/20 1:00,Bioengineering,NULL,1
+2/22/20 1:00,Chemistry,NULL,1
+2/22/20 1:00,Chemical and Bioengineering,NULL,1
+2/22/20 1:00,History,NULL,1
+2/22/20 1:00,Misc,NULL,4
+2/22/20 1:00,Urban Studies,NULL,1
+2/22/20 1:00,2022,NULL,1
+2/22/20 2:00,Systems Engineering,NULL,1
+2/22/20 2:00,Statistics,NULL,5
+2/22/20 2:00,DMD,NULL,4
+2/22/20 2:00,ECON,NULL,1
+2/22/20 2:00,Political Science,HUM,3
+2/22/20 2:00,Commications,NULL,1
+2/22/20 2:00,Math,NULL,1
+2/22/20 2:00,Nutrition,NULL,2
+2/22/20 2:00,Biology,NULL,3
+2/22/20 2:00,Finance,NULL,8
+2/22/20 2:00,Mechanical Engineering,NULL,1
+2/22/20 2:00,Econ,NULL,1
+2/22/20 2:00,Computer Science,STEM,17
+2/22/20 2:00,SSE 2020,NULL,1
+2/22/20 2:00,Finance 2021,NULL,1
+2/22/20 2:00,International Studies and Business,NULL,1
+2/22/20 2:00,Katie Busch,NULL,1
+2/22/20 2:00,biology,NULL,1
+2/22/20 2:00,PPE & GSWS,NULL,1
+2/22/20 2:00,Economics,NULL,1
+2/22/20 2:00,BBB,NULL,5
+2/22/20 2:00,Finance and Computer Science,NULL,1
+2/22/20 2:00,Business Analytics,NULL,5
+2/22/20 2:00,Communications,NULL,1
+2/22/20 2:00,Cognitive Science,NULL,1
+2/22/20 2:00,English,NULL,1
+2/22/20 2:00,Bioengineering,NULL,3
+2/22/20 2:00,Chemistry,NULL,1
+2/22/20 2:00,Chemical and Bioengineering,NULL,1
+2/22/20 2:00,History,NULL,1
+2/22/20 2:00,Nursing,NULL,1
+2/22/20 2:00,PPE,NULL,1
+2/22/20 2:00,DMD 2021,NULL,1
+2/22/20 2:00,Misc,NULL,4
+2/22/20 2:00,Urban Studies,NULL,1
+2/22/20 2:00,Misc.1,NULL,1
+2/22/20 2:00,2022,NULL,1
+2/22/20 2:00,OIDD,NULL,2
+2/22/20 2:00,Philosophy,NULL,1
+2/22/20 3:00,Systems Engineering,NULL,1
+2/22/20 3:00,Statisticsistics,NULL,1
+2/22/20 3:00,Statistics,NULL,5
+2/22/20 3:00,DMD,NULL,7
+2/22/20 3:00,ECON,NULL,1
+2/22/20 3:00,Mathematical Economics,NULL,1
+2/22/20 3:00,Political Science,HUM,4
+2/22/20 3:00,Commications,NULL,1
+2/22/20 3:00,Math,NULL,1
+2/22/20 3:00,Nutrition,NULL,2
+2/22/20 3:00,Biology,NULL,3
+2/22/20 3:00,Finance,NULL,8
+2/22/20 3:00,Mechanical Engineering,NULL,1
+2/22/20 3:00,Fine Arts,NULL,1
+2/22/20 3:00,Marketing,NULL,1
+2/22/20 3:00,Econ,NULL,1
+2/22/20 3:00,Computer Science,STEM,22
+2/22/20 3:00,Nursing,NULL,1
+2/22/20 3:00,SSE 2020,NULL,1
+2/22/20 3:00,Finance 2021,NULL,1
+2/22/20 3:00,International Studies and Business,NULL,1
+2/22/20 3:00,Katie Busch,NULL,1
+2/22/20 3:00,biology,NULL,1
+2/22/20 3:00,PPE & GSWS,NULL,1
+2/22/20 3:00,Economics,NULL,1
+2/22/20 3:00,BBB,NULL,6
+2/22/20 3:00,Finance and Computer Science,NULL,1
+2/22/20 3:00,Business Analytics,NULL,5
+2/22/20 3:00,Communications,NULL,1
+2/22/20 3:00,Cognitive Science,NULL,2
+2/22/20 3:00,English,NULL,1
+2/22/20 3:00,Bioengineering,NULL,4
+2/22/20 3:00,Chemistry,NULL,1
+2/22/20 3:00,Chemical and Bioengineering,NULL,1
+2/22/20 3:00,History,NULL,1
+2/22/20 3:00,PPE,NULL,3
+2/22/20 3:00,DMD 2021,NULL,1
+2/22/20 3:00,Misc,NULL,5
+2/22/20 3:00,Urban Studies,NULL,1
+2/22/20 3:00,Misc.1,NULL,1
+2/22/20 3:00,2022,NULL,1
+2/22/20 3:00,OIDD,NULL,2
+2/22/20 3:00,Philosophy,NULL,1
+2/22/20 4:00,Systems Engineering,NULL,2
+2/22/20 4:00,Statisticsistics,NULL,1
+2/22/20 4:00,Statistics,NULL,5
+2/22/20 4:00,DMD,NULL,7
+2/22/20 4:00,ECON,NULL,1
+2/22/20 4:00,Mathematical Economics,NULL,1
+2/22/20 4:00,Political Science,HUM,4
+2/22/20 4:00,Commications,NULL,1
+2/22/20 4:00,Math,NULL,1
+2/22/20 4:00,Nutrition,NULL,2
+2/22/20 4:00,Biology,NULL,3
+2/22/20 4:00,Finance,NULL,9
+2/22/20 4:00,Mechanical Engineering,NULL,1
+2/22/20 4:00,Fine Arts,NULL,1
+2/22/20 4:00,Marketing,NULL,1
+2/22/20 4:00,Econ,NULL,1
+2/22/20 4:00,Computer Science,STEM,26
+2/22/20 4:00,SSE 2020,NULL,1
+2/22/20 4:00,History,NULL,1
+2/22/20 4:00,International Studies and Business,NULL,1
+2/22/20 4:00,Katie Busch,NULL,1
+2/22/20 4:00,biology,NULL,1
+2/22/20 4:00,PPE & GSWS,NULL,1
+2/22/20 4:00,Economics,NULL,1
+2/22/20 4:00,BBB,NULL,6
+2/22/20 4:00,Finance and Computer Science,NULL,1
+2/22/20 4:00,Business Analytics,NULL,5
+2/22/20 4:00,Communications,NULL,1
+2/22/20 4:00,Cognitive Science,NULL,2
+2/22/20 4:00,English,NULL,1
+2/22/20 4:00,Bioengineering,NULL,4
+2/22/20 4:00,Chemistry,NULL,1
+2/22/20 4:00,Chemical and Bioengineering,NULL,1
+2/22/20 4:00,Nursing,NULL,2
+2/22/20 4:00,Finance 2021,NULL,1
+2/22/20 4:00,PPE,NULL,3
+2/22/20 4:00,DMD 2021,NULL,1
+2/22/20 4:00,Wharton 20222,NULL,1
+2/22/20 4:00,Misc,NULL,5
+2/22/20 4:00,Urban Studies,NULL,1
+2/22/20 4:00,Misc.1,NULL,1
+2/22/20 4:00,2022,NULL,1
+2/22/20 4:00,OIDD,NULL,2
+2/22/20 4:00,Philosophy,NULL,1
+2/22/20 5:00,Systems Engineering,NULL,2
+2/22/20 5:00,Statisticsistics,NULL,1
+2/22/20 5:00,Statistics,NULL,5
+2/22/20 5:00,DMD,NULL,7
+2/22/20 5:00,ECON,NULL,1
+2/22/20 5:00,Mathematical Economics,NULL,1
+2/22/20 5:00,Political Science,HUM,4
+2/22/20 5:00,Commications,NULL,1
+2/22/20 5:00,Math,NULL,1
+2/22/20 5:00,Nutrition,NULL,2
+2/22/20 5:00,Biology,NULL,3
+2/22/20 5:00,Finance,NULL,9
+2/22/20 5:00,Mechanical Engineering,NULL,1
+2/22/20 5:00,Fine Arts,NULL,1
+2/22/20 5:00,Marketing,NULL,2
+2/22/20 5:00,Econ,NULL,1
+2/22/20 5:00,Computer Science,STEM,29
+2/22/20 5:00,SSE 2020,NULL,1
+2/22/20 5:00,History,NULL,1
+2/22/20 5:00,International Studies and Business,NULL,1
+2/22/20 5:00,Katie Busch,NULL,1
+2/22/20 5:00,biology,NULL,1
+2/22/20 5:00,PPE & GSWS,NULL,1
+2/22/20 5:00,Economics,NULL,1
+2/22/20 5:00,BBB,NULL,6
+2/22/20 5:00,Finance and Computer Science,NULL,1
+2/22/20 5:00,Business Analytics,NULL,5
+2/22/20 5:00,Communications,NULL,1
+2/22/20 5:00,Cognitive Science,NULL,2
+2/22/20 5:00,English,NULL,1
+2/22/20 5:00,Bioengineering,NULL,4
+2/22/20 5:00,Chemistry,NULL,1
+2/22/20 5:00,Chemical and Bioengineering,NULL,1
+2/22/20 5:00,Nursing,NULL,2
+2/22/20 5:00,Finance 2021,NULL,1
+2/22/20 5:00,PPE,NULL,3
+2/22/20 5:00,DMD 2021,NULL,1
+2/22/20 5:00,Wharton 20222,NULL,1
+2/22/20 5:00,Misc,NULL,5
+2/22/20 5:00,Urban Studies,NULL,1
+2/22/20 5:00,Misc.1,NULL,1
+2/22/20 5:00,2022,NULL,1
+2/22/20 5:00,OIDD,NULL,2
+2/22/20 5:00,Philosophy,NULL,1
+2/22/20 6:00,Systems Engineering,NULL,2
+2/22/20 6:00,Statisticsistics,NULL,1
+2/22/20 6:00,Statistics,NULL,5
+2/22/20 6:00,DMD,NULL,7
+2/22/20 6:00,ECON,NULL,1
+2/22/20 6:00,Mathematical Economics,NULL,1
+2/22/20 6:00,Political Science,HUM,4
+2/22/20 6:00,Commications,NULL,1
+2/22/20 6:00,Math,NULL,1
+2/22/20 6:00,Nutrition,NULL,2
+2/22/20 6:00,Biology,NULL,3
+2/22/20 6:00,Finance,NULL,9
+2/22/20 6:00,Mechanical Engineering,NULL,1
+2/22/20 6:00,Fine Arts,NULL,1
+2/22/20 6:00,Marketing,NULL,2
+2/22/20 6:00,Econ,NULL,1
+2/22/20 6:00,Computer Science,STEM,29
+2/22/20 6:00,SSE 2020,NULL,1
+2/22/20 6:00,History,NULL,1
+2/22/20 6:00,International Studies and Business,NULL,1
+2/22/20 6:00,Katie Busch,NULL,1
+2/22/20 6:00,biology,NULL,1
+2/22/20 6:00,PPE & GSWS,NULL,1
+2/22/20 6:00,Economics,NULL,1
+2/22/20 6:00,BBB,NULL,6
+2/22/20 6:00,Finance and Computer Science,NULL,1
+2/22/20 6:00,Business Analytics,NULL,5
+2/22/20 6:00,Communications,NULL,1
+2/22/20 6:00,Cognitive Science,NULL,2
+2/22/20 6:00,English,NULL,1
+2/22/20 6:00,Bioengineering,NULL,4
+2/22/20 6:00,Chemistry,NULL,1
+2/22/20 6:00,Chemical and Bioengineering,NULL,1
+2/22/20 6:00,Nursing,NULL,2
+2/22/20 6:00,Finance 2021,NULL,1
+2/22/20 6:00,PPE,NULL,3
+2/22/20 6:00,DMD 2021,NULL,1
+2/22/20 6:00,Wharton 20222,NULL,1
+2/22/20 6:00,Misc,NULL,5
+2/22/20 6:00,Urban Studies,NULL,1
+2/22/20 6:00,Misc.1,NULL,1
+2/22/20 6:00,2022,NULL,1
+2/22/20 6:00,OIDD,NULL,2
+2/22/20 6:00,Philosophy,NULL,1
+2/22/20 7:00,Systems Engineering,NULL,2
+2/22/20 7:00,Statisticsistics,NULL,1
+2/22/20 7:00,Statistics,NULL,4
+2/22/20 7:00,DMD,NULL,6
+2/22/20 7:00,ECON,NULL,1
+2/22/20 7:00,Mathematical Economics,NULL,1
+2/22/20 7:00,Political Science,HUM,4
+2/22/20 7:00,Commications,NULL,1
+2/22/20 7:00,Math,NULL,1
+2/22/20 7:00,Nutrition,NULL,2
+2/22/20 7:00,Biology,NULL,3
+2/22/20 7:00,Finance,NULL,6
+2/22/20 7:00,Mechanical Engineering,NULL,1
+2/22/20 7:00,Fine Arts,NULL,1
+2/22/20 7:00,Marketing,NULL,2
+2/22/20 7:00,Econ,NULL,1
+2/22/20 7:00,Computer Science,STEM,29
+2/22/20 7:00,SSE 2020,NULL,1
+2/22/20 7:00,Finance 2021,NULL,1
+2/22/20 7:00,International Studies and Business,NULL,1
+2/22/20 7:00,Katie Busch,NULL,1
+2/22/20 7:00,biology,NULL,1
+2/22/20 7:00,PPE & GSWS,NULL,1
+2/22/20 7:00,BBB,NULL,6
+2/22/20 7:00,Finance and Computer Science,NULL,1
+2/22/20 7:00,Business Analytics,NULL,4
+2/22/20 7:00,Communications,NULL,1
+2/22/20 7:00,Cognitive Science,NULL,2
+2/22/20 7:00,English,NULL,1
+2/22/20 7:00,Bioengineering,NULL,4
+2/22/20 7:00,Chemistry,NULL,1
+2/22/20 7:00,Chemical and Bioengineering,NULL,1
+2/22/20 7:00,History,NULL,1
+2/22/20 7:00,Nursing,NULL,2
+2/22/20 7:00,PPE,NULL,3
+2/22/20 7:00,DMD 2021,NULL,1
+2/22/20 7:00,Wharton 20222,NULL,1
+2/22/20 7:00,Misc,NULL,5
+2/22/20 7:00,Urban Studies,NULL,1
+2/22/20 7:00,Misc.1,NULL,1
+2/22/20 7:00,2022,NULL,1
+2/22/20 7:00,OIDD,NULL,2
+2/22/20 7:00,Philosophy,NULL,1
+2/22/20 8:00,Systems Engineering,NULL,2
+2/22/20 8:00,Statisticsistics,NULL,1
+2/22/20 8:00,Statistics,NULL,4
+2/22/20 8:00,DMD,NULL,6
+2/22/20 8:00,ECON,NULL,1
+2/22/20 8:00,Mathematical Economics,NULL,1
+2/22/20 8:00,Political Science,HUM,4
+2/22/20 8:00,Math,NULL,1
+2/22/20 8:00,Nutrition,NULL,2
+2/22/20 8:00,Biology,NULL,3
+2/22/20 8:00,Finance,NULL,6
+2/22/20 8:00,Mechanical Engineering,NULL,1
+2/22/20 8:00,Fine Arts,NULL,1
+2/22/20 8:00,Marketing,NULL,2
+2/22/20 8:00,Econ,NULL,1
+2/22/20 8:00,Computer Science,STEM,27
+2/22/20 8:00,SSE 2020,NULL,1
+2/22/20 8:00,Finance 2021,NULL,1
+2/22/20 8:00,International Studies and Business,NULL,1
+2/22/20 8:00,Katie Busch,NULL,1
+2/22/20 8:00,biology,NULL,1
+2/22/20 8:00,PPE & GSWS,NULL,1
+2/22/20 8:00,BBB,NULL,6
+2/22/20 8:00,Business Analytics,NULL,4
+2/22/20 8:00,Communications,NULL,1
+2/22/20 8:00,Cognitive Science,NULL,2
+2/22/20 8:00,English,NULL,1
+2/22/20 8:00,Bioengineering,NULL,4
+2/22/20 8:00,Chemistry,NULL,1
+2/22/20 8:00,Chemical and Bioengineering,NULL,1
+2/22/20 8:00,History,NULL,1
+2/22/20 8:00,Nursing,NULL,2
+2/22/20 8:00,PPE,NULL,3
+2/22/20 8:00,DMD 2021,NULL,1
+2/22/20 8:00,Wharton 20222,NULL,1
+2/22/20 8:00,Misc,NULL,5
+2/22/20 8:00,Urban Studies,NULL,1
+2/22/20 8:00,Misc.1,NULL,1
+2/22/20 8:00,2022,NULL,1
+2/22/20 8:00,OIDD,NULL,2
+2/22/20 8:00,Philosophy,NULL,1
+2/22/20 9:00,Systems Engineering,NULL,2
+2/22/20 9:00,Statisticsistics,NULL,1
+2/22/20 9:00,Statistics,NULL,4
+2/22/20 9:00,DMD,NULL,5
+2/22/20 9:00,ECON,NULL,1
+2/22/20 9:00,Political Science,HUM,2
+2/22/20 9:00,Math,NULL,1
+2/22/20 9:00,Nutrition,NULL,2
+2/22/20 9:00,Biology,NULL,3
+2/22/20 9:00,Finance,NULL,4
+2/22/20 9:00,Mechanical Engineering,NULL,1
+2/22/20 9:00,Fine Arts,NULL,1
+2/22/20 9:00,Marketing,NULL,2
+2/22/20 9:00,Econ,NULL,1
+2/22/20 9:00,Computer Science,STEM,26
+2/22/20 9:00,SSE 2020,NULL,1
+2/22/20 9:00,Finance 2021,NULL,1
+2/22/20 9:00,International Studies and Business,NULL,1
+2/22/20 9:00,Katie Busch,NULL,1
+2/22/20 9:00,biology,NULL,1
+2/22/20 9:00,PPE & GSWS,NULL,1
+2/22/20 9:00,BBB,NULL,4
+2/22/20 9:00,Business Analytics,NULL,4
+2/22/20 9:00,Communications,NULL,1
+2/22/20 9:00,Cognitive Science,NULL,1
+2/22/20 9:00,English,NULL,1
+2/22/20 9:00,Bioengineering,NULL,3
+2/22/20 9:00,Chemistry,NULL,1
+2/22/20 9:00,Chemical and Bioengineering,NULL,1
+2/22/20 9:00,Nursing,NULL,2
+2/22/20 9:00,PPE,NULL,3
+2/22/20 9:00,DMD 2021,NULL,1
+2/22/20 9:00,Wharton 20222,NULL,1
+2/22/20 9:00,Misc,NULL,3
+2/22/20 9:00,Urban Studies,NULL,1
+2/22/20 9:00,Misc.1,NULL,1
+2/22/20 9:00,2022,NULL,1
+2/22/20 9:00,OIDD,NULL,2
+2/22/20 9:00,Philosophy,NULL,1
+2/22/20 10:00,Systems Engineering,NULL,2
+2/22/20 10:00,Statisticsistics,NULL,1
+2/22/20 10:00,Statistics,NULL,4
+2/22/20 10:00,DMD,NULL,4
+2/22/20 10:00,Political Science,HUM,2
+2/22/20 10:00,Math,NULL,1
+2/22/20 10:00,Nutrition,NULL,1
+2/22/20 10:00,Biology,NULL,2
+2/22/20 10:00,Finance,NULL,3
+2/22/20 10:00,Mechanical Engineering,NULL,1
+2/22/20 10:00,Fine Arts,NULL,1
+2/22/20 10:00,Marketing,NULL,2
+2/22/20 10:00,Econ,NULL,1
+2/22/20 10:00,Computer Science,STEM,21
+2/22/20 10:00,SSE 2020,NULL,1
+2/22/20 10:00,Finance 2021,NULL,1
+2/22/20 10:00,biology,NULL,1
+2/22/20 10:00,PPE & GSWS,NULL,1
+2/22/20 10:00,BBB,NULL,1
+2/22/20 10:00,Business Analytics,NULL,4
+2/22/20 10:00,Communications,NULL,1
+2/22/20 10:00,Bioengineering,NULL,2
+2/22/20 10:00,Nursing,NULL,1
+2/22/20 10:00,PPE,NULL,2
+2/22/20 10:00,Misc,NULL,3
+2/22/20 10:00,2022,NULL,1
+2/22/20 10:00,OIDD,NULL,2
+2/22/20 10:00,Philosophy,NULL,1
+2/22/20 11:00,Systems Engineering,NULL,1
+2/22/20 11:00,Biology,NULL,2
+2/22/20 11:00,Statistics,NULL,1
+2/22/20 11:00,DMD,NULL,2
+2/22/20 11:00,Finance,NULL,2
+2/22/20 11:00,PPE,NULL,1
+2/22/20 11:00,Fine Arts,NULL,1
+2/22/20 11:00,Marketing,NULL,1
+2/22/20 11:00,BBB,NULL,1
+2/22/20 11:00,Business Analytics,NULL,2
+2/22/20 11:00,Computer Science,STEM,8
+2/22/20 11:00,Political Science,HUM,1
+2/22/20 11:00,SSE 2020,NULL,1
+2/22/20 11:00,biology,NULL,1
+2/22/20 11:00,Bioengineering,NULL,1
+2/22/20 11:00,Math,NULL,1
+2/22/20 12:00,Biology,NULL,1
+2/22/20 12:00,Statistics,NULL,1
+2/22/20 12:00,Finance,NULL,2
+2/22/20 12:00,Marketing,NULL,1
+2/22/20 12:00,Computer Science,STEM,6
+2/22/20 12:00,SSE 2020,NULL,1
+2/22/20 12:00,Math,NULL,1
+2/22/20 13:00,Marketing,NULL,1
+2/22/20 13:00,Computer Science,STEM,3
+2/22/20 14:00,Mathematical Economics,NULL,1
+2/22/20 14:00,Marketing,NULL,1
+2/22/20 14:00,Computer Science,STEM,2
+2/22/20 15:00,Computer Science,STEM,1
+2/22/20 16:00,Computer Science,STEM,1
+2/22/20 17:00,Computer Science,STEM,1
+2/22/20 18:00,Computer Science,STEM,1
+2/22/20 19:00,Computer Science,STEM,1
+2/22/20 20:00,Computer Science,STEM,1
+2/22/20 21:00,Computer Science,STEM,1
+2/22/20 22:00,Economics,NULL,1
+2/22/20 22:00,Finance and Computer Science,NULL,1
+2/22/20 22:00,Nursing,NULL,1
+2/22/20 22:00,Computer Science,STEM,1
+2/22/20 22:00,Finance,NULL,1
+2/22/20 23:00,DMD,NULL,1
+2/22/20 23:00,Finance,NULL,1
+2/22/20 23:00,Economics,NULL,1
+2/22/20 23:00,BBB,NULL,1
+2/22/20 23:00,Finance and Computer Science,NULL,1
+2/22/20 23:00,Political Science,HUM,1
+2/22/20 23:00,Nursing,NULL,1
+2/22/20 23:00,History,NULL,1
+2/23/20 0:00,Business Analytics,NULL,1
+2/23/20 0:00,Biology,NULL,2
+2/23/20 0:00,Statistics,NULL,3
+2/23/20 0:00,DMD,NULL,2
+2/23/20 0:00,Nursing,NULL,2
+2/23/20 0:00,Chemistry,NULL,1
+2/23/20 0:00,Nutrition,NULL,1
+2/23/20 0:00,Economics,NULL,1
+2/23/20 0:00,Misc,NULL,2
+2/23/20 0:00,BBB,NULL,3
+2/23/20 0:00,Finance and Computer Science,NULL,1
+2/23/20 0:00,Mathematical Economics,NULL,1
+2/23/20 0:00,Urban Studies,NULL,1
+2/23/20 0:00,Computer Science,STEM,2
+2/23/20 0:00,Political Science,HUM,3
+2/23/20 0:00,English,NULL,1
+2/23/20 0:00,OIDD,NULL,1
+2/23/20 0:00,Bioengineering,NULL,1
+2/23/20 0:00,History,NULL,1
+2/23/20 0:00,Chemical and Bioengineering,NULL,1
+2/23/20 0:00,Finance,NULL,5
+2/23/20 1:00,Statistics,NULL,4
+2/23/20 1:00,DMD,NULL,2
+2/23/20 1:00,ECON,NULL,1
+2/23/20 1:00,Mathematical Economics,NULL,1
+2/23/20 1:00,Political Science,HUM,3
+2/23/20 1:00,Nutrition,NULL,1
+2/23/20 1:00,Biology,NULL,2
+2/23/20 1:00,Finance,NULL,6
+2/23/20 1:00,Computer Science,STEM,8
+2/23/20 1:00,SSE 2020,NULL,1
+2/23/20 1:00,DMD 2021,NULL,1
+2/23/20 1:00,PPE & GSWS,NULL,1
+2/23/20 1:00,Economics,NULL,1
+2/23/20 1:00,BBB,NULL,4
+2/23/20 1:00,Finance and Computer Science,NULL,1
+2/23/20 1:00,Business Analytics,NULL,2
+2/23/20 1:00,Cognitive Science,NULL,1
+2/23/20 1:00,English,NULL,1
+2/23/20 1:00,Bioengineering,NULL,2
+2/23/20 1:00,Chemistry,NULL,1
+2/23/20 1:00,Chemical and Bioengineering,NULL,1
+2/23/20 1:00,History,NULL,1
+2/23/20 1:00,Nursing,NULL,1
+2/23/20 1:00,International Studies and Business,NULL,1
+2/23/20 1:00,Misc,NULL,4
+2/23/20 1:00,Urban Studies,NULL,1
+2/23/20 1:00,OIDD,NULL,2
+2/23/20 2:00,Statistics,NULL,5
+2/23/20 2:00,DMD,NULL,4
+2/23/20 2:00,ECON,NULL,1
+2/23/20 2:00,Mathematical Economics,NULL,1
+2/23/20 2:00,Political Science,HUM,3
+2/23/20 2:00,Commications,NULL,1
+2/23/20 2:00,Nutrition,NULL,2
+2/23/20 2:00,Biology,NULL,3
+2/23/20 2:00,Finance,NULL,6
+2/23/20 2:00,Mechanical Engineering,NULL,1
+2/23/20 2:00,Econ,NULL,1
+2/23/20 2:00,Computer Science,STEM,15
+2/23/20 2:00,SSE 2020,NULL,1
+2/23/20 2:00,Finance 2021,NULL,1
+2/23/20 2:00,International Studies and Business,NULL,1
+2/23/20 2:00,biology,NULL,1
+2/23/20 2:00,PPE & GSWS,NULL,1
+2/23/20 2:00,Economics,NULL,1
+2/23/20 2:00,BBB,NULL,6
+2/23/20 2:00,Finance and Computer Science,NULL,1
+2/23/20 2:00,Business Analytics,NULL,4
+2/23/20 2:00,Communications,NULL,1
+2/23/20 2:00,Cognitive Science,NULL,2
+2/23/20 2:00,English,NULL,1
+2/23/20 2:00,Bioengineering,NULL,3
+2/23/20 2:00,Chemistry,NULL,1
+2/23/20 2:00,Chemical and Bioengineering,NULL,1
+2/23/20 2:00,History,NULL,1
+2/23/20 2:00,Nursing,NULL,2
+2/23/20 2:00,PPE,NULL,1
+2/23/20 2:00,DMD 2021,NULL,1
+2/23/20 2:00,Misc,NULL,4
+2/23/20 2:00,Urban Studies,NULL,1
+2/23/20 2:00,Misc.1,NULL,1
+2/23/20 2:00,2022,NULL,1
+2/23/20 2:00,OIDD,NULL,2
+2/23/20 2:00,Philosophy,NULL,1
+2/23/20 3:00,Systems Engineering,NULL,1
+2/23/20 3:00,Statisticsistics,NULL,1
+2/23/20 3:00,Statistics,NULL,5
+2/23/20 3:00,DMD,NULL,7
+2/23/20 3:00,ECON,NULL,1
+2/23/20 3:00,Political Science,HUM,4
+2/23/20 3:00,Commications,NULL,1
+2/23/20 3:00,Nutrition,NULL,2
+2/23/20 3:00,Biology,NULL,3
+2/23/20 3:00,Finance,NULL,7
+2/23/20 3:00,Mechanical Engineering,NULL,1
+2/23/20 3:00,Fine Arts,NULL,1
+2/23/20 3:00,Marketing,NULL,1
+2/23/20 3:00,Econ,NULL,1
+2/23/20 3:00,Computer Science,STEM,23
+2/23/20 3:00,Nursing,NULL,2
+2/23/20 3:00,SSE 2020,NULL,1
+2/23/20 3:00,Finance 2021,NULL,1
+2/23/20 3:00,International Studies and Business,NULL,1
+2/23/20 3:00,biology,NULL,1
+2/23/20 3:00,PPE & GSWS,NULL,1
+2/23/20 3:00,Economics,NULL,1
+2/23/20 3:00,BBB,NULL,6
+2/23/20 3:00,Finance and Computer Science,NULL,1
+2/23/20 3:00,Business Analytics,NULL,4
+2/23/20 3:00,Communications,NULL,1
+2/23/20 3:00,Cognitive Science,NULL,2
+2/23/20 3:00,English,NULL,1
+2/23/20 3:00,Bioengineering,NULL,4
+2/23/20 3:00,Chemistry,NULL,1
+2/23/20 3:00,Chemical and Bioengineering,NULL,1
+2/23/20 3:00,History,NULL,1
+2/23/20 3:00,PPE,NULL,3
+2/23/20 3:00,DMD 2021,NULL,1
+2/23/20 3:00,Wharton 20222,NULL,1
+2/23/20 3:00,Misc,NULL,4
+2/23/20 3:00,Urban Studies,NULL,1
+2/23/20 3:00,Misc.1,NULL,1
+2/23/20 3:00,2022,NULL,1
+2/23/20 3:00,OIDD,NULL,2
+2/23/20 3:00,Philosophy,NULL,1
+2/23/20 4:00,Systems Engineering,NULL,2
+2/23/20 4:00,Statisticsistics,NULL,1
+2/23/20 4:00,Statistics,NULL,5
+2/23/20 4:00,DMD,NULL,7
+2/23/20 4:00,ECON,NULL,1
+2/23/20 4:00,Mathematical Economics,NULL,1
+2/23/20 4:00,Political Science,HUM,4
+2/23/20 4:00,Commications,NULL,1
+2/23/20 4:00,Math,NULL,1
+2/23/20 4:00,Nutrition,NULL,2
+2/23/20 4:00,Biology,NULL,3
+2/23/20 4:00,Finance,NULL,9
+2/23/20 4:00,Mechanical Engineering,NULL,1
+2/23/20 4:00,Fine Arts,NULL,1
+2/23/20 4:00,Marketing,NULL,1
+2/23/20 4:00,Econ,NULL,1
+2/23/20 4:00,Computer Science,STEM,26
+2/23/20 4:00,Nursing,NULL,2
+2/23/20 4:00,SSE 2020,NULL,1
+2/23/20 4:00,Finance 2021,NULL,1
+2/23/20 4:00,International Studies and Business,NULL,1
+2/23/20 4:00,biology,NULL,1
+2/23/20 4:00,PPE & GSWS,NULL,1
+2/23/20 4:00,Economics,NULL,1
+2/23/20 4:00,BBB,NULL,6
+2/23/20 4:00,Finance and Computer Science,NULL,1
+2/23/20 4:00,Business Analytics,NULL,5
+2/23/20 4:00,Communications,NULL,1
+2/23/20 4:00,Cognitive Science,NULL,2
+2/23/20 4:00,English,NULL,1
+2/23/20 4:00,Bioengineering,NULL,4
+2/23/20 4:00,Chemistry,NULL,1
+2/23/20 4:00,Chemical and Bioengineering,NULL,1
+2/23/20 4:00,History,NULL,1
+2/23/20 4:00,PPE,NULL,3
+2/23/20 4:00,DMD 2021,NULL,1
+2/23/20 4:00,Wharton 20222,NULL,1
+2/23/20 4:00,Misc,NULL,5
+2/23/20 4:00,Urban Studies,NULL,1
+2/23/20 4:00,Misc.1,NULL,1
+2/23/20 4:00,2022,NULL,1
+2/23/20 4:00,OIDD,NULL,2
+2/23/20 4:00,Philosophy,NULL,1
+2/23/20 5:00,Systems Engineering,NULL,2
+2/23/20 5:00,Statisticsistics,NULL,1
+2/23/20 5:00,Statistics,NULL,5
+2/23/20 5:00,DMD,NULL,7
+2/23/20 5:00,ECON,NULL,1
+2/23/20 5:00,Mathematical Economics,NULL,1
+2/23/20 5:00,Political Science,HUM,4
+2/23/20 5:00,Commications,NULL,1
+2/23/20 5:00,Math,NULL,1
+2/23/20 5:00,Nutrition,NULL,2
+2/23/20 5:00,Biology,NULL,3
+2/23/20 5:00,Finance,NULL,9
+2/23/20 5:00,Mechanical Engineering,NULL,1
+2/23/20 5:00,Fine Arts,NULL,1
+2/23/20 5:00,Marketing,NULL,2
+2/23/20 5:00,Econ,NULL,1
+2/23/20 5:00,Computer Science,STEM,29
+2/23/20 5:00,Nursing,NULL,2
+2/23/20 5:00,SSE 2020,NULL,1
+2/23/20 5:00,Finance 2021,NULL,1
+2/23/20 5:00,International Studies and Business,NULL,1
+2/23/20 5:00,biology,NULL,1
+2/23/20 5:00,PPE & GSWS,NULL,1
+2/23/20 5:00,Economics,NULL,1
+2/23/20 5:00,BBB,NULL,6
+2/23/20 5:00,Finance and Computer Science,NULL,1
+2/23/20 5:00,Business Analytics,NULL,5
+2/23/20 5:00,Communications,NULL,1
+2/23/20 5:00,Cognitive Science,NULL,2
+2/23/20 5:00,English,NULL,1
+2/23/20 5:00,Bioengineering,NULL,4
+2/23/20 5:00,Chemistry,NULL,1
+2/23/20 5:00,Chemical and Bioengineering,NULL,1
+2/23/20 5:00,History,NULL,1
+2/23/20 5:00,PPE,NULL,3
+2/23/20 5:00,DMD 2021,NULL,1
+2/23/20 5:00,Wharton 20222,NULL,1
+2/23/20 5:00,Misc,NULL,5
+2/23/20 5:00,Urban Studies,NULL,1
+2/23/20 5:00,Misc.1,NULL,1
+2/23/20 5:00,2022,NULL,1
+2/23/20 5:00,OIDD,NULL,2
+2/23/20 5:00,Philosophy,NULL,1
+2/23/20 6:00,Systems Engineering,NULL,2
+2/23/20 6:00,Statisticsistics,NULL,1
+2/23/20 6:00,Statistics,NULL,5
+2/23/20 6:00,DMD,NULL,7
+2/23/20 6:00,ECON,NULL,1
+2/23/20 6:00,Mathematical Economics,NULL,1
+2/23/20 6:00,Political Science,HUM,4
+2/23/20 6:00,Commications,NULL,1
+2/23/20 6:00,Math,NULL,1
+2/23/20 6:00,Nutrition,NULL,2
+2/23/20 6:00,Biology,NULL,3
+2/23/20 6:00,Finance,NULL,8
+2/23/20 6:00,Mechanical Engineering,NULL,1
+2/23/20 6:00,Fine Arts,NULL,1
+2/23/20 6:00,Marketing,NULL,2
+2/23/20 6:00,Econ,NULL,1
+2/23/20 6:00,Computer Science,STEM,29
+2/23/20 6:00,SSE 2020,NULL,1
+2/23/20 6:00,Finance 2021,NULL,1
+2/23/20 6:00,International Studies and Business,NULL,1
+2/23/20 6:00,biology,NULL,1
+2/23/20 6:00,PPE & GSWS,NULL,1
+2/23/20 6:00,Economics,NULL,1
+2/23/20 6:00,BBB,NULL,6
+2/23/20 6:00,Finance and Computer Science,NULL,1
+2/23/20 6:00,Business Analytics,NULL,5
+2/23/20 6:00,Communications,NULL,1
+2/23/20 6:00,Cognitive Science,NULL,2
+2/23/20 6:00,English,NULL,1
+2/23/20 6:00,Bioengineering,NULL,4
+2/23/20 6:00,Chemistry,NULL,1
+2/23/20 6:00,Chemical and Bioengineering,NULL,1
+2/23/20 6:00,History,NULL,1
+2/23/20 6:00,Nursing,NULL,2
+2/23/20 6:00,PPE,NULL,3
+2/23/20 6:00,DMD 2021,NULL,1
+2/23/20 6:00,Wharton 20222,NULL,1
+2/23/20 6:00,Misc,NULL,5
+2/23/20 6:00,Urban Studies,NULL,1
+2/23/20 6:00,Misc.1,NULL,1
+2/23/20 6:00,2022,NULL,1
+2/23/20 6:00,OIDD,NULL,2
+2/23/20 6:00,Philosophy,NULL,1
+2/23/20 7:00,Systems Engineering,NULL,2
+2/23/20 7:00,Statisticsistics,NULL,1
+2/23/20 7:00,Statistics,NULL,5
+2/23/20 7:00,DMD,NULL,6
+2/23/20 7:00,ECON,NULL,1
+2/23/20 7:00,Mathematical Economics,NULL,1
+2/23/20 7:00,Political Science,HUM,4
+2/23/20 7:00,Commications,NULL,1
+2/23/20 7:00,Math,NULL,1
+2/23/20 7:00,Nutrition,NULL,2
+2/23/20 7:00,Biology,NULL,3
+2/23/20 7:00,Finance,NULL,7
+2/23/20 7:00,Mechanical Engineering,NULL,1
+2/23/20 7:00,Fine Arts,NULL,1
+2/23/20 7:00,Marketing,NULL,2
+2/23/20 7:00,Econ,NULL,1
+2/23/20 7:00,Computer Science,STEM,29
+2/23/20 7:00,SSE 2020,NULL,1
+2/23/20 7:00,Finance 2021,NULL,1
+2/23/20 7:00,International Studies and Business,NULL,1
+2/23/20 7:00,biology,NULL,1
+2/23/20 7:00,PPE & GSWS,NULL,1
+2/23/20 7:00,BBB,NULL,6
+2/23/20 7:00,Finance and Computer Science,NULL,1
+2/23/20 7:00,Business Analytics,NULL,5
+2/23/20 7:00,Communications,NULL,1
+2/23/20 7:00,Cognitive Science,NULL,2
+2/23/20 7:00,English,NULL,1
+2/23/20 7:00,Bioengineering,NULL,4
+2/23/20 7:00,Chemistry,NULL,1
+2/23/20 7:00,Chemical and Bioengineering,NULL,1
+2/23/20 7:00,History,NULL,1
+2/23/20 7:00,Nursing,NULL,2
+2/23/20 7:00,PPE,NULL,3
+2/23/20 7:00,DMD 2021,NULL,1
+2/23/20 7:00,Wharton 20222,NULL,1
+2/23/20 7:00,Misc,NULL,5
+2/23/20 7:00,Urban Studies,NULL,1
+2/23/20 7:00,Misc.1,NULL,1
+2/23/20 7:00,2022,NULL,1
+2/23/20 7:00,OIDD,NULL,2
+2/23/20 7:00,Philosophy,NULL,1
+2/23/20 8:00,Systems Engineering,NULL,2
+2/23/20 8:00,Statisticsistics,NULL,1
+2/23/20 8:00,Statistics,NULL,5
+2/23/20 8:00,DMD,NULL,6
+2/23/20 8:00,ECON,NULL,1
+2/23/20 8:00,Mathematical Economics,NULL,1
+2/23/20 8:00,Political Science,HUM,4
+2/23/20 8:00,Nutrition,NULL,1
+2/23/20 8:00,Math,NULL,1
+2/23/20 8:00,Philosophy,NULL,1
+2/23/20 8:00,Biology,NULL,3
+2/23/20 8:00,Finance,NULL,6
+2/23/20 8:00,Mechanical Engineering,NULL,1
+2/23/20 8:00,Fine Arts,NULL,1
+2/23/20 8:00,Marketing,NULL,2
+2/23/20 8:00,Econ,NULL,1
+2/23/20 8:00,Computer Science,STEM,26
+2/23/20 8:00,Nursing,NULL,1
+2/23/20 8:00,SSE 2020,NULL,1
+2/23/20 8:00,Finance 2021,NULL,1
+2/23/20 8:00,International Studies and Business,NULL,1
+2/23/20 8:00,biology,NULL,1
+2/23/20 8:00,PPE & GSWS,NULL,1
+2/23/20 8:00,BBB,NULL,6
+2/23/20 8:00,Business Analytics,NULL,5
+2/23/20 8:00,Communications,NULL,1
+2/23/20 8:00,Cognitive Science,NULL,2
+2/23/20 8:00,English,NULL,1
+2/23/20 8:00,Bioengineering,NULL,4
+2/23/20 8:00,Chemistry,NULL,1
+2/23/20 8:00,Chemical and Bioengineering,NULL,1
+2/23/20 8:00,History,NULL,1
+2/23/20 8:00,PPE,NULL,3
+2/23/20 8:00,DMD 2021,NULL,1
+2/23/20 8:00,Wharton 20222,NULL,1
+2/23/20 8:00,Misc,NULL,4
+2/23/20 8:00,Urban Studies,NULL,1
+2/23/20 8:00,Misc.1,NULL,1
+2/23/20 8:00,2022,NULL,1
+2/23/20 8:00,OIDD,NULL,2
+2/23/20 9:00,Systems Engineering,NULL,2
+2/23/20 9:00,Statisticsistics,NULL,1
+2/23/20 9:00,Statistics,NULL,4
+2/23/20 9:00,DMD,NULL,5
+2/23/20 9:00,ECON,NULL,1
+2/23/20 9:00,Political Science,HUM,2
+2/23/20 9:00,Nutrition,NULL,1
+2/23/20 9:00,Math,NULL,1
+2/23/20 9:00,Philosophy,NULL,1
+2/23/20 9:00,Biology,NULL,3
+2/23/20 9:00,Finance,NULL,4
+2/23/20 9:00,PPE,NULL,3
+2/23/20 9:00,Fine Arts,NULL,1
+2/23/20 9:00,Marketing,NULL,2
+2/23/20 9:00,Econ,NULL,1
+2/23/20 9:00,Computer Science,STEM,25
+2/23/20 9:00,SSE 2020,NULL,1
+2/23/20 9:00,Finance 2021,NULL,1
+2/23/20 9:00,International Studies and Business,NULL,1
+2/23/20 9:00,biology,NULL,1
+2/23/20 9:00,PPE & GSWS,NULL,1
+2/23/20 9:00,BBB,NULL,4
+2/23/20 9:00,Business Analytics,NULL,4
+2/23/20 9:00,Communications,NULL,1
+2/23/20 9:00,Cognitive Science,NULL,1
+2/23/20 9:00,English,NULL,1
+2/23/20 9:00,Bioengineering,NULL,3
+2/23/20 9:00,History,NULL,1
+2/23/20 9:00,Nursing,NULL,1
+2/23/20 9:00,DMD 2021,NULL,1
+2/23/20 9:00,Wharton 20222,NULL,1
+2/23/20 9:00,Misc,NULL,3
+2/23/20 9:00,Misc.1,NULL,1
+2/23/20 9:00,OIDD,NULL,2
+2/23/20 10:00,Systems Engineering,NULL,2
+2/23/20 10:00,Statisticsistics,NULL,1
+2/23/20 10:00,Statistics,NULL,2
+2/23/20 10:00,DMD,NULL,4
+2/23/20 10:00,Mathematical Economics,NULL,1
+2/23/20 10:00,Political Science,HUM,1
+2/23/20 10:00,Math,NULL,1
+2/23/20 10:00,Philosophy,NULL,1
+2/23/20 10:00,Biology,NULL,2
+2/23/20 10:00,Finance,NULL,4
+2/23/20 10:00,PPE,NULL,2
+2/23/20 10:00,Fine Arts,NULL,1
+2/23/20 10:00,Marketing,NULL,2
+2/23/20 10:00,Econ,NULL,1
+2/23/20 10:00,Computer Science,STEM,19
+2/23/20 10:00,SSE 2020,NULL,1
+2/23/20 10:00,International Studies and Business,NULL,1
+2/23/20 10:00,PPE & GSWS,NULL,1
+2/23/20 10:00,BBB,NULL,1
+2/23/20 10:00,Business Analytics,NULL,4
+2/23/20 10:00,Communications,NULL,1
+2/23/20 10:00,Bioengineering,NULL,2
+2/23/20 10:00,Misc,NULL,2
+2/23/20 11:00,Systems Engineering,NULL,2
+2/23/20 11:00,Business Analytics,NULL,1
+2/23/20 11:00,Biology,NULL,1
+2/23/20 11:00,DMD,NULL,3
+2/23/20 11:00,Finance,NULL,2
+2/23/20 11:00,PPE,NULL,1
+2/23/20 11:00,Fine Arts,NULL,1
+2/23/20 11:00,Marketing,NULL,1
+2/23/20 11:00,Misc,NULL,2
+2/23/20 11:00,BBB,NULL,1
+2/23/20 11:00,Mathematical Economics,NULL,1
+2/23/20 11:00,Computer Science,STEM,8
+2/23/20 11:00,Political Science,HUM,1
+2/23/20 11:00,SSE 2020,NULL,1
+2/23/20 11:00,Math,NULL,1
+2/23/20 12:00,DMD,NULL,1
+2/23/20 12:00,Finance,NULL,1
+2/23/20 12:00,Marketing,NULL,1
+2/23/20 12:00,Misc,NULL,1
+2/23/20 12:00,Computer Science,STEM,5
+2/23/20 12:00,SSE 2020,NULL,1
+2/23/20 12:00,Math,NULL,1
+2/23/20 13:00,Marketing,NULL,1
+2/23/20 13:00,Misc,NULL,1
+2/23/20 13:00,Computer Science,STEM,2
+2/23/20 14:00,Marketing,NULL,1
+2/23/20 14:00,Computer Science,STEM,1
+2/23/20 15:00,Computer Science,STEM,1
+2/23/20 16:00,Computer Science,STEM,1
+2/23/20 17:00,Computer Science,STEM,1
+2/23/20 18:00,Computer Science,STEM,1
+2/23/20 19:00,Computer Science,STEM,1
+2/23/20 20:00,Computer Science,STEM,1
+2/23/20 21:00,Computer Science,STEM,1
+2/23/20 22:00,Nursing,NULL,1
+2/23/20 22:00,Economics,NULL,1
+2/23/20 22:00,Misc,NULL,1
+2/23/20 22:00,Finance and Computer Science,NULL,1
+2/23/20 22:00,Computer Science,STEM,1
+2/23/20 22:00,Finance,NULL,1
+2/23/20 23:00,Nutrition,NULL,1
+2/23/20 23:00,Biology,NULL,1
+2/23/20 23:00,DMD,NULL,1
+2/23/20 23:00,Nursing,NULL,2
+2/23/20 23:00,Economics,NULL,1
+2/23/20 23:00,Misc,NULL,1
+2/23/20 23:00,Finance and Computer Science,NULL,1
+2/23/20 23:00,Finance,NULL,1
