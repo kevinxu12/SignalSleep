@@ -172,13 +172,22 @@ category_map = {
     'Nutrition': 'CAS',
     'English': 'CAS',
     'Communications': 'CAS',
-    'History': 'CAS'
+    'History': 'CAS',
+    'Neuroscience': 'CAS',
+    'Mechanical Engineering': 'ENG',
+    'Undecided': 'CAS',
+    'Math': 'CAS',
+    'Cognitive Science': 'CAS',
+    'Fine Arts': 'CAS',
+    'Systems Engineering': 'ENG'
+
+
 
 }
 # print(df)
 df = preprocess(df)
 print(df)
 df = processGranular(df, category_map)
-output_path = os.path.join(script_dir, 'clean_data/asleep_by_hour_with_default.csv')
+output_path = os.path.join(script_dir, 'clean_data/asleep_by_hour_with_default_2.csv')
 df.to_csv(output_path, index=False)
 print("done")
